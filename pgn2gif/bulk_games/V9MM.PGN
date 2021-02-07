@@ -1,0 +1,110 @@
+[Event "m"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Round "01"]
+[White "Mongredien A"]
+[Black "Morphy P"]
+[Result "1/2-1/2"]
+
+1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4 d5 5.exd5 e4 6.Ne2 Nf6 7.c3 Bc5 8.d4 exd3
+9.Qxd3 O-O 10.Ba3 Bxa3 11.Nxa3 Bg4 12.O-O Bxe2 13.Qxe2 Nxd5 14.Qf3 c6
+15.Rab1 Qe7 16.Bxd5 cxd5 17.c4 dxc4 18.Rxb7 Nd7 19.Kh1 Rfe8 20.Nxc4 Qe6
+21.Ne5 Nxe5 22.fxe5 Rf8 23.Qb3 Qxb3 24.axb3 Rab8 25.Rxa7 Rxb3 1/2-1/2
+
+[Event "m"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Round "02"]
+[White "Morphy P"]
+[Black "Mongredien A"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4 exd4
+8.cxd4 Bb6 9.Bb2 Nf6 10.Nbd2 O-O 11.d5 Ne5 12.Nxe5 dxe5 13.Bxe5 Re8
+14.Bxf6 Qxf6 15.Kh1 Ba5 16.Qa4 b5 17.Qxb5 Ba6 18.Qxa5 Bxc4 19.Nxc4 Rxe4
+20.Qxc7 Rae8 21.Nd6 Qxa1 22.Qxf7+ 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Round "03"]
+[White "Mongredien A"]
+[Black "Morphy P"]
+[Result "0-1"]
+
+1.d4 e6 2.c4 f5 3.f4 Nf6 4.Nf3 b6 5.a3 a5 6.Nc3 Bb7 7.e3 Be7 8.Be2 O-O
+9.O-O h6 10.b3 d6 11.Bb2 Nbd7 12.Rc1 Kh7 13.Bd3 g6 14.h3 Qe8 15.Qe1 Ne4
+16.Bxe4 fxe4 17.Nd2 Nf6 18.Kh2 Qd7 19.Rg1 d5 20.Rc2 g5 21.Nf1 gxf4
+22.exf4 Bd6 23.g3 c6 24.Ne3 Rg8 25.Rcg2 Raf8 26.Ne2 Bc8 27.g4 Qc7
+28.Rf2 Ne8 29.Qf1 Rf7 30.Kh1 Rgf8 31.Ng2 Ba6 32.Qc1 Qe7 33.Ng3 Ng7
+34.Re1 c5 35.Ne2 Bb7 36.cxd5 exd5 37.f5 Ne6 38.Ngf4 Nxf4 39.Nxf4 Rc8
+40.Qe3 cxd4 41.Bxd4 Bxa3 42.Bxb6 Bb4 43.Rd1 Rc3 44.Qd4 Qh4 45.Rg1 Rg7
+46.Qe5 Re7 47.Qd4 Bd6 48.Qxc3 d4 49.Qxd4 Bxf4 50.Kg2 e3+ 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Round "04"]
+[White "Morphy P"]
+[Black "Mongredien A"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.d3 h6 7.Nf3 Bg4 8.h3 Bxf3
+9.Qxf3 Bd6 10.Bb5+ c6 11.dxc6 bxc6 12.Bxc6+ Nxc6 13.Qxc6+ Ke7
+14.Nc3 Rc8 15.Qf3 Re8 16.O-O Kf8 17.Bd2 g5 18.h4 Nh7 19.Qf5 Kg7
+20.hxg5 hxg5 21.g3 f6 22.Kg2 Rh8 23.Rh1 Rc7 24.Rh2 Qc8 25.Qxc8 Rhxc8
+26.Rf1 Nf8 27.Nb5 Rd7 28.Nxd6 Rxd6 29.Bb4 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Round "05"]
+[White "Mongredien A"]
+[Black "Morphy P"]
+[Result "0-1"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Nf6 5.d3 Nxd5 6.exd5 Qxd5 7.Qe2+ Be6
+8.Bxf4 Nc6 9.Nf3 O-O-O 10.Nc3 Bb4 11.O-O Qh5 12.a3 Bc5+ 13.Kh1 Bg4
+14.Qd2 Rhe8 15.Rae1 Bxf3 16.Rxf3 Rxe1+ 17.Qxe1 Nd4 18.Rf1 Nxc2
+19.Qc1 Nd4 20.b4 Bd6 21.Bxd6 Rxd6 22.Qe3 Nf5 23.Qf3 Qxf3 24.Rxf3 Rc6
+25.Ne2 Nd4 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Round "06"]
+[White "Morphy P"]
+[Black "Mongredien A"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 d5 3.exd5 e4 4.Qe2 Qe7 5.Nd4 Qe5 6.Nb5 Bd6 7.d4 Qe7 8.c4 Bb4+
+9.Bd2 Bxd2+ 10.Nxd2 a6 11.Nc3 f5 12.O-O-O Nf6 13.Re1 O-O 14.f3 b5
+15.fxe4 fxe4 16.Ncxe4 bxc4 17.Qxc4 Kh8 18.Bd3 Bb7 19.Nxf6 Qxf6 20.Rhf1 Qd8
+21.Rxf8+ Qxf8 22.Qb4 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Round "07"]
+[White "Mongredien A"]
+[Black "Morphy P"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.a3 Ba5 6.O-O Nf6 7.d4 O-O 8.d5 Ne7
+9.Qd3 d6 10.h3 Ng6 11.Nh2 Nh5 12.Bb3 Nhf4 13.Bxf4 Nxf4 14.Qf3 f5
+15.exf5 Bxf5 16.g4 Bd3 17.Qe3 Bb6 18.Qd2 Qh4 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1859.??.??"]
+[Round "08"]
+[White "Morphy P"]
+[Black "Mongredien A"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 a6 5.Bg5 f6 6.Be3 Be6 7.Nc3 Ne7
+8.Be2 Nec6 9.Qd2 Be7 10.O-O O-O 11.Rad1 Nd7 12.Nd4 Nxd4 13.Bxd4 f5
+14.exf5 Bxf5 15.Bc4+ Kh8 16.Nd5 Nf6 17.Nxe7 Qxe7 18.Rfe1 Qd7 19.Qg5 h6
+20.Qh4 Rae8 21.c3 Re4 22.Rxe4 Nxe4 23.Qxh6+ Bh7 24.Re1 c5 25.Rxe4 cxd4
+26.Qh5 g6 27.Qh6 Re8 28.Qf4 Kg7 29.Rxe8 Qxe8 30.Qxd4+ 1-0
+

@@ -1,0 +1,82 @@
+
+[Event "cm8"]
+[Site "Riga"]
+[Date "1991.??.??"]
+[Round "01"]
+[White "Ivanchuk V"]
+[Black "Yudasin L"]
+[Result "1-0"]
+[ECO "A63/05"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Nf3 Bg7
+8.Bg2 O-O 9.O-O a6 10.a4 Nbd7 11.Nd2 Qc7 12.Qb3 Ne8 13.Nc4 Rb8
+14.Bf4 b5 15.axb5 Ne5 16.Bxe5 Bxe5 17.b6 Bf6 18.Ra3 Qb7 19.Rfa1 Bd8
+20.Na4 Bd7 21.Na5 Bxa4 22.Qxa4 Qxb6 23.Rb3 Qc7 24.Rxb8 Qxb8 25.Nc6 Qc7
+26.Qxa6 Bf6 27.Bh3 Bg7 28.Qb5 1-0
+
+[Event "cm8"]
+[Site "Riga"]
+[Date "1991.??.??"]
+[Round "02"]
+[White "Yudasin L"]
+[Black "Ivanchuk V"]
+[Result "0-1"]
+[ECO "C55/03"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.c3 d5 7.exd5 Nxd5
+8.Re1 Bg4 9.Nbd2 Kh8 10.a4 f6 11.a5 Rb8 12.Nf1 Be6 13.Qa4 a6
+14.Bxa6 Nxa5 15.Qxa5 Ra8 16.Qb5 Nb6 17.Be3 Bd7 18.Qb3 bxa6 19.d4 e4
+20.N3d2 f5 21.d5 Rb8 22.Qa2 Bf6 23.Rad1 Na4 24.Nc4 Bb5 25.Na5 Nxb2
+26.Qxb2 Bxf1 27.Qa2 Bb5 28.c4 Bd7 29.Nc6 Bxc6 30.dxc6 Qe8 31.Qxa6 Bc3
+32.Rf1 f4 33.Ba7 Ra8 34.Qb7 f3 35.Qxc7 Be5 36.Qd7 Rxa7 0-1
+
+[Event "cm8"]
+[Site "Riga"]
+[Date "1991.??.??"]
+[Round "03"]
+[White "Ivanchuk V"]
+[Black "Yudasin L"]
+[Result "1-0"]
+[ECO "E15/03"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 d5 6.Bg2 dxc4 7.Ne5 Bb4+ 8.Kf1 Nfd7
+9.Nxc4 c6 10.Bb2 b5 11.Ncd2 Bb7 12.Nc3 Qb6 13.Nde4 O-O 14.a3 Be7
+15.b4 a5 16.Nc5 Rd8 17.Bf3 axb4 18.axb4 Na6 19.Qb3 e5 20.Nxb7 Qxb7
+21.dxe5 Nb6 22.Ne4 Nd5 23.Kg2 Bxb4 24.Rac1 Qb6 25.Qc2 Rac8 26.Ng5 g6
+27.e6 fxe6 28.Qe4 1-0
+
+[Event "cm8"]
+[Site "Riga"]
+[Date "1991.??.??"]
+[Round "04"]
+[White "Yudasin L"]
+[Black "Ivanchuk V"]
+[Result "0-1"]
+[ECO "C92/05"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6
+8.c3 O-O 9.h3 Bb7 10.d3 Re8 11.Ng5 Rf8 12.Nd2 Na5 13.Bc2 c5 14.Nf1 h6
+15.Nf3 Re8 16.N3h2 d5 17.Qf3 dxe4 18.dxe4 Nc4 19.Ng3 Nd6 20.Be3 Qc7
+21.Ng4 Nxg4 22.Qxg4 Kh8 23.a4 Bf8 24.h4 Bc8 25.Qh5 Rb8 26.axb5 axb5
+27.Qf3 Be6 28.Nf5 Qc6 29.Red1 Ra8 30.Rxa8 Rxa8 31.Qg3 Nc4 32.Bc1 Qc7
+33.h5 b4 34.cxb4 cxb4 35.Bb3 Ra1 36.Kh2 Bxf5 37.exf5 Na5 38.Bc2 Qxc2
+39.Rd8 Qxf5 40.Rxf8+ Kh7 41.Bd2 Rd1 42.Bxb4 Rd4 43.Be1 Qxh5+ 44.Kg1 Rd1
+45.f3 Nc4 46.Qf2 Nxb2 47.g4 Qg6 48.Qxb2 Rxe1+ 49.Kf2 Rb1 50.Qxe5 Qb6+
+51.Kg3 Qg1+ 52.Kh3 Qh1+ 53.Kg3 Rg1+ 54.Kf4 g5+ 0-1
+
+[Event "cm8"]
+[Site "Riga"]
+[Date "1991.??.??"]
+[Round "05"]
+[White "Ivanchuk V"]
+[Black "Yudasin L"]
+[Result "1/2-1/2"]
+[ECO "E90/15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 d6 5.Nc3 g6 6.e4 Bg7 7.h3 O-O 8.Bd3 exd5
+9.cxd5 a6 10.a4 Nh5 11.Bg5 Bf6 12.Be3 Nd7 13.Be2 Re8 14.Nd2 Bd4
+15.Bxh5 Bxe3 16.fxe3 Qh4+ 17.g3 Qxg3+ 18.Ke2 Qg2+ 19.Kd3 Ne5+
+20.Kc2 Qg5 21.Be2 Qxe3 22.Qg1 Qd4 23.Qxd4 cxd4 24.Nd1 f5 25.Nf2 Bd7
+26.Kb3 Kg7 27.Rac1 Rac8 28.Nd3 Nf7 29.Rxc8 Bxc8 30.Nf2 fxe4
+31.Nfxe4 Re5 32.Kc4 b5+ 33.axb5 axb5+ 34.Kxd4 Bb7 35.Rc1 Rxd5+
+36.Ke3 Re5 37.Kd4 Rd5+ 38.Ke3 Re5 39.Kd4 1/2-1/2

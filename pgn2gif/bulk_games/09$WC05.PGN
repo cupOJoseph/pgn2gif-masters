@@ -1,0 +1,73 @@
+[Event "m"]
+[Site "Paris"]
+[Date "1909.05"]
+[Round "01"]
+[White "Janowski D"]
+[Black "Lasker Em"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.d4 Bd7 6.O-O Be7 7.Re1 exd4
+8.Nxd4 O-O 9.Nde2 a6 10.Bd3 Re8 11.Ng3 Bf8 12.h3 g6 13.Bg5 h6
+14.Be3 Bg7 15.Qd2 Kh7 16.Rad1 b5 17.f4 Qb8 18.Qf2 Qc8 19.a3 Ng8 20.e5 dxe5
+21.f5 Nce7 22.fxg6+ fxg6 23.Nce4 Rf8 24.Qe2 Nf5 25.Nxf5 gxf5 26.Nc5 Bc6
+27.c3 Kh8 28.Bf2 Qe8 29.Bb1 a5 30.Bg3 Qe7 31.Qf2 Rae8 32.b4 e4 33.Re3 axb4
+34.axb4 Ra8 35.Nb3 Qf7 36.Nd4 f4 37.Nxc6 fxe3 38.Qxe3 Rfe8 39.Nd4 Nf6
+40.Rf1 Qg6 41.Be1 Nd5 42.Qe2 c6 43.Bd2 Ra1 44.Nc2 Rxb1 45.Rxb1 e3
+46.Be1 Nf4 47.Qf3 Qxc2 48.Ra1 Qe4 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1909.05"]
+[Round "02"]
+[White "Lasker Em"]
+[Black "Janowski D"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 d6 7.c3 Bg4
+8.d4 Nd7 9.d5 Ncb8 10.h3 Bh5 11.Nbd2 Bg6 12.Bc2 O-O 13.Nf1 f5 14.exf5 Bxf5
+15.Ng3 Bxc2 16.Qxc2 Rf7 17.Be3 Nf8 18.c4 Nbd7 19.b4 Ng6 20.Ne4 Nf4
+21.Bxf4 Rxf4 22.Nfd2 Nf8 23.g3 Rf7 24.Kg2 Ng6 25.Nb3 Qd7 26.Re3 Raf8
+27.Qe2 Bd8 28.Rd1 Ne7 29.c5 Nf5 30.Rc3 Qa4 31.Rc4 Qe8 32.c6 b5
+33.Rc3 h6 34.Rcd3 Ne7 35.R1d2 Rf5 36.Na1 Qg6 37.Nc2 Rf4 38.f3 R4f7
+39.Kh1 Nf5 40.Qg2 h5 41.h4 Qh6 42.Rd1 g5 43.hxg5 Bxg5 44.f4 Bf6 45.Qh3 Qg6
+46.Ne3 Nd4 47.f5 Qh6 48.Ng4 Qh7 49.Ngxf6+ Rxf6 50.Nxf6+ Rxf6 51.Rf1 Qf7
+52.Qg2 Rxf5 53.Rxf5 Qxf5 54.Re3 Qb1+ 55.Kh2 Qxb4 56.g4 h4 57.Kh3 Qc4
+58.Qe4 Kg7 59.Kxh4 Qf1 60.a3 a5 61.Kg3 Qg1+ 62.Kh3 Qf2 63.g5 b4
+64.axb4 axb4 65.Kg4 Qg1+ 66.Kh5 Qh2+ 67.Kg4 b3 68.Re1 Qc2 69.Kh5 Qxe4
+70.Rxe4 Nc2 71.Rxe5 b2 72.Re7+ Kf8 73.Rxc7 b1=Q 74.Rc8+ Ke7 75.Rc7+ Kd8
+76.Rd7+ Ke8 77.Rxd6 Nd4 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1909.05"]
+[Round "03"]
+[White "Janowski D"]
+[Black "Lasker Em"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Bxc3
+8.bxc3 Ne7 9.Bc4 Be6 10.Bb3 Bxb3 11.axb3 Nd7 12.d4 f6 13.Be3 Ng6 14.Qd3 Kh8
+15.Nd2 a6 16.f4 exf4 17.Bxf4 Qe7 18.Bg3 Rfe8 19.Rae1 Nb6 20.h4 Nf8
+21.c4 Rad8 22.Nf3 Qf7 23.d5 Nbd7 24.Nd4 Qg6 25.Nf5 Ne5 26.Bxe5 Rxe5
+27.Re3 Rd7 28.Qe2 Qe8 29.Qg4 g6 30.Ng3 Rf7 31.Ref3 Nd7 32.Rf4 Rfe7
+33.Qf3 h5 34.b4 Rg7 35.Qc3 g5 36.Rf5 gxh4 37.Nxh5 Qxh5 38.Rxh5+ Rxh5
+39.Qh3 Kg8 40.Rf4 Rhg5 41.Rxh4 Rxg2+ 42.Qxg2 Ne5 43.Qxg7+ Kxg7 44.Kf2 Nxc4
+45.Rh3 Ne5 46.Ke3 a5 47.bxa5 Nc4+ 48.Kf4 Nxa5 49.Ra3 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1909.05.20"]
+[Round "04"]
+[White "Lasker Em"]
+[Black "Janowski D"]
+[Result "1-0"]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 Bc5 6.d3 Qe7 7.Be3 Bxe3
+8.fxe3 Bg4 9.Qe2 Nh6 10.O-O-O O-O-O 11.h3 Bh5 12.d4 exd4 13.exd4 Rhe8
+14.Rhe1 f6 15.g4 Bf7 16.Qf2 Kb8 17.Kb1 Bg8 18.Nh4 Nf7 19.Nf5 Qf8 20.b3 Nd6
+21.Rd3 Nb5 22.Na4 b6 23.c4 Na3+ 24.Kc1 g6 25.Ng3 Qe7 26.Qd2 Kb7
+27.Qc3 a5 28.Rf3 Rf8 29.Ref1 h5 30.gxh5 gxh5 31.Nf5 Qb4 32.d5 Bh7
+33.Nd4 Bxe4 34.Nxc6 Qxc3+ 35.Nxc3 Bxf3 36.Nxd8+ Rxd8 37.Rxf3 b5 38.cxb5 Kb6
+39.Rxf6+ Rd6 40.Rf8 1-0
+

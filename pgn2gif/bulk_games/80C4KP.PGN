@@ -1,0 +1,149 @@
+
+[Event "cm4"]
+[Site "Velden"]
+[Date "1980.??.??"]
+[Round "01"]
+[White "Korchnoi V"]
+[Black "Petrosian T"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+
+1.c4 Nf6 2.d4 c6 3.e3 d5 4.Bd3 g6 5.Nf3 Bg7 6.Nc3 O-O 7.O-O Bg4
+8.h3 Bxf3 9.Qxf3 e6 10.Rd1 Nbd7 11.Bf1 Re8 12.b3 a6 13.Bb2 Qe7 14.Rac1 Rad8
+15.Qe2 h5 16.Qc2 Nb6 17.Bd3 Nc8 18.Nb1 Nh7 19.Ba3 Qc7 20.Nd2 Nb6 21.Nf3 Nd7
+22.Bb4 Nhf6 23.Bc3 Nh7 24.Be1 Rc8 25.b4 Nhf6 26.Qb3 Qb8 27.a4 Red8
+28.Bc3 Qc7 29.c5 Nh7 30.b5 axb5 31.axb5 e5 32.b6 Qb8 33.e4 exd4
+34.Bxd4 Bxd4 35.Nxd4 Qf4 36.Ne2 Qf6 37.exd5 cxd5 38.Qb4 Qe7 39.Nd4 Nhf6
+40.Re1 Qf8 41.Bxg6 fxg6 42.Ne6 Qe7 43.Qb1 Re8 44.Nc7 Qf7 45.Nxe8 Nxe8
+46.c6 bxc6 47.b7 Rb8 48.Rxc6 Ndf6 49.Rb6 Ne4 50.Rxe4 dxe4 51.Qxe4 Kh7
+52.Qc6 Qf6 53.Qd7+ Qg7 54.Qe6 Qf6 55.Qe3 Nd6 56.Qg3 h4 57.Qxd6 Qxd6
+58.Rxd6 Rxb7 59.Kf1 Kh6 60.Rd4 g5 61.Ke2 Kg6 62.Kf3 Rf7+ 63.Ke3 Re7+
+64.Re4 Ra7 65.Re6+ Kf5 66.Rd6 Ra3+ 67.Rd3 Ra5 68.Kd4 Ra2 69.Rf3+ Kg6
+70.Rf8 Kg7 1/2-1/2
+
+[Event "cm4"]
+[Site "Velden"]
+[Date "1980.??.??"]
+[Round "02"]
+[White "Petrosian T"]
+[Black "Korchnoi V"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nge2 d5 6.a3 Be7 7.cxd5 Nxd5
+8.Qc2 Nd7 9.Bd2 c5 10.Nxd5 exd5 11.Nf4 cxd4 12.Nxd5 dxe3 13.Nxe3 Nf6
+14.Bd3 Be6 15.O-O Bd6 16.Bc3 Qc7 1/2-1/2
+
+[Event "cm4"]
+[Site "Velden"]
+[Date "1980.??.??"]
+[Round "03"]
+[White "Korchnoi V"]
+[Black "Petrosian T"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+
+1.c4 c6 2.Nf3 d5 3.e3 Nf6 4.Nc3 e6 5.b3 Nbd7 6.Bb2 Be7 7.d4 O-O 8.Bd3 b6
+9.O-O Bb7 10.Qe2 Qc7 11.Rac1 Rad8 12.cxd5 exd5 13.a3 Qb8 14.Rfd1 Bd6
+15.b4 Rfe8 16.Qc2 Re7 17.Ne2 a6 18.Ng3 g6 19.Re1 Rde8 20.Re2 Ne4
+21.Bxe4 dxe4 22.Nd2 Bxg3 23.hxg3 Nf6 24.d5 Nxd5 25.Nc4 Re6 26.Rd2 f6
+27.Rcd1 Kg7 28.Bd4 Bc8 29.Qb2 h5 30.a4 b5 31.Na5 bxa4 32.Bc5 Bd7 33.Nc4 Kh6
+34.Ra1 g5 35.Rxa4 Kg6 36.Qc2 Bc8 37.Na5 Qc7 38.Nb3 f5 39.Bd4 R6e7
+40.Ba1 Qd6 41.Na5 Re6 42.Qb2 Qf8 43.Nxc6 Nb6 44.Nd8 Nxa4 45.Nxe6 Rxe6
+46.Rd8 Nxb2 47.Rxf8 Nd3 48.Rxc8 Rb6 49.Bc3 a5 50.Rg8+ Kh6 51.Rh8+ 1/2-1/2
+
+[Event "cm4"]
+[Site "Velden"]
+[Date "1980.??.??"]
+[Round "04"]
+[White "Petrosian T"]
+[Black "Korchnoi V"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nge2 d5 7.O-O dxc4
+8.Bxc4 Nc6 9.a3 Bxc3 10.bxc3 Qc7 11.Bb2 Rd8 12.Ba2 b6 13.Re1 Bb7 14.Ng3 Rd7
+15.Qe2 Rad8 16.Rad1 h6 17.h3 Qc8 18.Bc4 Na5 19.Bd3 Nc6 20.f3 Qb8 21.Qf2 e5
+22.Nf5 exd4 23.cxd4 cxd4 24.Nxd4 Ne5 25.Bf5 Rd6 26.a4 Nc4 27.Ba1 a6
+28.Rb1 Nd5 29.Bd3 Ne5 30.Bf1 Ne7 31.Rec1 Rg6 32.Kh1 Qa8 33.e4 Nd7 34.Rc2 a5
+35.Rc7 Qb8 36.Rbc1 Rc8 37.Rxc8+ Bxc8 38.Qh4 Rg5 39.Rd1 Nc5 40.Bb5 Ng6
+41.Qf2 Nf4 42.Nc6 Qc7 43.Qd2 Kh7 44.Be5 Rxe5 45.Qxf4 Re7 1/2-1/2
+
+[Event "cm4"]
+[Site "Velden"]
+[Date "1980.??.??"]
+[Round "05"]
+[White "Korchnoi V"]
+[Black "Petrosian T"]
+[Result "1-0"]
+[ECO "D37"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Nf3 Be7 5.Bf4 O-O 6.e3 b6 7.cxd5 exd5 8.Bd3 Bb7
+9.h3 c5 10.O-O Nbd7 11.Qe2 c4 12.Bc2 a6 13.Rad1 b5 14.a3 Re8 15.Ne5 Nf8
+16.Bh2 Qb6 17.f3 a5 18.Kh1 b4 19.Na4 Qb5 20.Ra1 N6d7 21.Nxd7 Nxd7 22.e4 Nf8
+23.Bg1 Bc6 24.Rfe1 Rab8 25.axb4 axb4 26.b3 c3 27.Bd3 Qb7 28.Ba6 Qd7
+29.Bh2 dxe4 30.fxe4 Qxd4 31.Rad1 Qa7 32.Bxb8 Rxb8 33.Bc4 Be8 34.Rf1 Bg5
+35.Rd5 Qe7 36.Nc5 g6 37.Qf2 Bh6 38.e5 Bg7 39.Ne4 Bxe5 40.Re1 Kg7
+41.Nd6 Bxd6 42.Rxe7 Bxe7 43.Rd1 Bf6 44.Rf1 Nd7 45.g4 Rc8 46.Bb5 1-0
+
+[Event "cm4"]
+[Site "Velden"]
+[Date "1980.??.??"]
+[Round "06"]
+[White "Petrosian T"]
+[Black "Korchnoi V"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.Qc2 d5 6.cxd5 exd5 7.Nc3 c6
+8.g3 Bd6 9.Bg2 O-O 10.O-O Re8 11.Re1 Nbd7 12.Bg5 h6 13.Bxf6 Nxf6 14.e4 dxe4
+15.Nxe4 Rxe4 16.Rxe4 Nxe4 17.Qxe4 Rc8 18.Ne5 Bxe5 19.dxe5 Qd3 20.Qxd3 Bxd3
+21.Bh3 Re8 22.f4 c5 23.Rd1 c4 24.Bf1 Bxf1 25.Kxf1 g5 26.Kf2 gxf4 27.gxf4 f6
+28.Rd5 fxe5 29.fxe5 Rc8 30.Ke3 c3 31.bxc3 Rxc3+ 32.Kd4 Rxa3 33.Rd7 a5
+34.Rb7 a4 35.Rxb6 Rh3 36.Ra6 Kf7 37.Kd5 Rd3+ 38.Ke4 Rh3 1/2-1/2
+
+[Event "cm4"]
+[Site "Velden"]
+[Date "1980.??.??"]
+[Round "07"]
+[White "Korchnoi V"]
+[Black "Petrosian T"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+
+1.c4 c6 2.Nf3 d5 3.e3 Nf6 4.Nc3 e6 5.b3 Nbd7 6.Bb2 e5 7.d4 e4 8.Nd2 Be7
+9.a3 O-O 10.b4 Re8 11.c5 Nf8 12.Be2 Qd7 13.Qc2 Qf5 14.f4 g5 15.g3 gxf4
+16.gxf4 Qh3 17.Rg1+ Ng6 18.Nf1 Qh4+ 19.Ng3 Ng4 20.Bxg4 Bxg4 21.Qf2 Qh3
+22.Nce2 Nh4 23.O-O-O Kh8 24.Nxe4 Qf3 25.Qxf3 Bxf3 26.N4g3 Bf6
+27.Rd3 Re7 28.Bc3 Rae8 29.Bd2 h6 30.Rf1 Kh7 31.Rb3 Bg4 32.Rf2 Nf3
+33.h3 Nxd2 34.Kxd2 Bxh3 35.Nh5 Bh8 36.f5 Rg8 37.Neg3 Bg4 38.Rb1 1/2-1/2
+
+[Event "cm4"]
+[Site "Velden"]
+[Date "1980.??.??"]
+[Round "08"]
+[White "Petrosian T"]
+[Black "Korchnoi V"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 exd5 7.g3 Bd6 8.Bg2 O-O
+9.O-O Re8 10.Bg5 Nbd7 11.Nb5 Ba6 12.Nxd6 cxd6 13.Re1 h6 14.Bxf6 Nxf6
+15.Nd2 Qd7 16.e3 Rac8 17.Nb1 Qf5 18.Nc3 Ne4 19.Nxe4 dxe4 20.Qd2 1/2-1/2
+
+[Event "cm4"]
+[Site "Velden"]
+[Date "1980.??.??"]
+[Round "09"]
+[White "Korchnoi V"]
+[Black "Petrosian T"]
+[Result "1-0"]
+[ECO "D36"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Nf3 Nbd7 5.cxd5 exd5 6.Bf4 c6 7.e3 Be7 8.h3 O-O
+9.Bd3 Re8 10.Qc2 Nf8 11.O-O-O Bb4 12.Kb1 Qe7 13.Bg5 Qe6 14.Bf4 Qe7
+15.Ne5 Ne4 16.Nxe4 dxe4 17.Bc4 Be6 18.Bxe6 Nxe6 19.Bh2 Nf8 20.Qb3 Ba5
+21.Nc4 Bb6 22.d5 cxd5 23.Rxd5 Bc5 24.Bd6 Bxd6 25.Nxd6 Red8 26.Rhd1 Qe6
+27.Nxb7 Rdb8 28.Rb5 Qf6 29.Rd2 Qg6 30.g3 h6 31.Nd6 Rd8 32.Rbd5 Rab8
+33.Qc3 Kh7 34.Qe5 Rd7 35.Nf5 Rdb7 36.h4 Ne6 37.Nd6 Rb4 38.h5 Qg4 39.a3 Ra4
+40.Ka2 Nc7 41.Qf5+ Qxf5 42.Rxf5 f6 43.b3 Ra6 44.Nxe4 1-0

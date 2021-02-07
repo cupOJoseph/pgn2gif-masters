@@ -1,0 +1,210 @@
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "01"]
+[White "Korchnoi V"]
+[Black "Polugaevsky L"]
+[Result "1-0"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.e4 Bb7 5.Bd3 c5 6.e5 Ng4 7.h3 Bxf3 8.Qxf3 Nxe5
+9.Qxa8 Nxd3+ 10.Ke2 Nf4+ 11.Kf1 Nc6 12.Qxd8+ Kxd8 13.b3 Nd3 14.h4 Be7
+15.Rh3 Nxc1 16.Rxc1 h5 17.Rd1 a6 18.a3 Kc7 19.Ne2 Bf6 20.Rb1 b5 21.Nc3 Rb8
+22.cxb5 axb5 23.Ne4 Bd4 24.Rc1 Ra8 25.Nxc5 Rxa3 26.Rd3 e5 27.f4 d6
+28.Ne4 Kd7 29.fxe5 Bxe5 30.Ng5 Nb4 31.Rf3 f6 32.Nf7 Bd4 33.Rg3 f5
+34.Ke2 Bf6 35.Ng5 Nc6 36.Kd1 Nd4 37.Rgc3 Ra7 38.Nf3 Ne6 39.Rc8 Ra3
+40.Rb8 Rxb3 41.Rb7+ Kd8 42.Ng5 Bxg5 43.hxg5 Rb4 44.g6 Rg4 45.Ra1 Nc7
+46.Raa7 Rc4 47.d3 Rc3 48.Kd2 Rc5 49.Rb8+ Ke7 50.Rc8 Kd7 51.Rg8 Ke6
+52.Rxg7 Nd5 53.Rgf7 Rc8 54.g7 Rg8 55.g3 b4 56.Rf8 Nf6 57.Kc2 h4 58.gxh4 f4
+59.h5 f3 60.h6 1-0
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "02"]
+[White "Polugaevsky L"]
+[Black "Korchnoi V"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Qc2 Nxc3
+9.Qxc3 f5 10.b3 Bf6 11.Bb2 Nc6 12.Rad1 Ne7 13.Ne1 Bxg2 14.Nxg2 g5
+15.Qc2 Ng6 16.e4 f4 17.e5 Bg7 18.Qe4 Qe7 19.Rd3 Rad8 20.Re1 d5 21.exd6 Qxd6
+22.Red1 Qe7 23.Ne1 Qf6 24.R1d2 Qf5 25.Qxf5 exf5 26.Ng2 g4 27.Nxf4 Nxf4
+28.gxf4 Bh6 29.Re2 Bxf4 30.Re6 Rfe8 31.Rf6 Re1+ 32.Kg2 Rf8
+33.Rxf8+ Kxf8 34.d5 Bd6 35.Bc3 Rc1 36.Bd2 Rc2 37.a4 f4 38.h3 f3+ 39.Kf1 h5
+40.hxg4 hxg4 41.Ke1 0-1
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "03"]
+[White "Korchnoi V"]
+[Black "Polugaevsky L"]
+[Result "1-0"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.O-O b4 10.Ne4 Be7 11.Nxf6+ Nxf6 12.e4 O-O 13.e5 Nd7 14.Qc2 h6 15.Bh7+ Kh8
+16.Be4 Qb6 17.Be3 c5 18.dxc5 Bxc5 19.Rad1 Bxe3 20.Rxd7 Rac8
+21.Rxb7 Rxc2 22.Rxb6 Rxf2 23.Rxf2 Bxb6 24.Kf1 Bxf2 25.Kxf2 Rc8
+26.Nd4 Rc1 27.Nb3 Rh1 28.h3 Kg8 29.a3 bxa3 30.bxa3 Kf8 31.a4 Ke8 32.a5 Kd7
+33.Ke2 Kc7 34.Kd2 Rf1 35.Ke2 Rh1 36.Kd2 Rf1 37.Kc3 Re1 38.Nc5 Ra1
+39.Kb4 Re1 40.Kb5 Kb8 41.Ka6 h5 42.Bf3 h4 43.Ne4 Re3 44.Nd6 f6 45.exf6 gxf6
+46.Nb5 e5 47.Nxa7 e4 48.Bg4 Kc7 49.Nb5+ Kc6 50.Nd4+ Kc5 51.Nf5 Ra3
+52.Nxh4 Kb4 53.Kb6 Rxa5 54.Nf5 Re5 55.Kc6 Kc3 56.Ng3 Kd2 57.Kd6 Ke1
+58.Nh5 e3 59.Nxf6 Ra5 60.Ne4 e2 61.Bf3 Ra6+ 62.Kc5 Ra5+ 63.Kb4 1-0
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "04"]
+[White "Polugaevsky L"]
+[Black "Korchnoi V"]
+[Result "1/2-1/2"]
+
+1.d4 e6 2.g3 c5 3.Nf3 cxd4 4.Nxd4 d5 5.Bg2 Nf6 6.O-O e5 7.Nb3 Be6 8.c4 Nc6
+9.cxd5 Nxd5 10.N1d2 Be7 11.Ne4 b6 12.Nc3 Ncb4 13.Bd2 Rc8 14.Qb1 O-O
+15.Rd1 Qc7 16.Nxd5 Nxd5 17.Rc1 Qd7 18.Qe4 f5 19.Qb1 e4 20.Nd4 Bf6
+21.Nxe6 Qxe6 22.Be1 Kh8 23.a4 Qe5 24.Ra2 Bg5 25.Rd1 Rc6 26.Ra3 Rfc8
+27.e3 Bf6 28.Rb3 Qe6 29.Bf1 h5 30.a5 Nc7 31.Rb4 bxa5 32.Ra4 Rb8
+33.Qa2 Qxa2 1/2-1/2
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "05"]
+[White "Korchnoi V"]
+[Black "Polugaevsky L"]
+[Result "1/2-1/2"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.O-O b4 10.Ne4 Be7 11.Nxf6+ Nxf6 12.e4 Rc8 13.Qa4 a5 14.Rd1 O-O 15.e5 Nd7
+16.Be3 Qc7 17.Bg5 Nb6 18.Qc2 h6 19.Bxe7 Qxe7 20.Bh7+ Kh8 21.Be4 Ba6
+22.Rac1 Bc4 23.Nd2 Bd5 24.Nb3 a4 25.Nc5 Bxa2 26.Nxa4 Nxa4 27.Qxa4 Bd5
+28.Bxd5 cxd5 29.Qb5 f6 30.Qe2 b3 31.g3 fxe5 32.Rxc8 Rxc8 33.Qxe5 Qf7
+34.Rd3 Rc2 35.Qe3 Rxb2 36.Rxb3 Rxb3 37.Qxb3 Qf5 38.Qe3 Kg8 39.Kg2 Kf7
+40.h3 1/2-1/2
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "06"]
+[White "Polugaevsky L"]
+[Black "Korchnoi V"]
+[Result "0-1"]
+
+1.d4 e6 2.c4 b6 3.e4 Bb7 4.Qc2 Qh4 5.Nd2 Bb4 6.Bd3 f5 7.Ngf3 Bxd2+
+8.Kf1 Qh5 9.Bxd2 Nf6 10.exf5 Bxf3 11.gxf3 Nc6 12.Bc3 O-O 13.Re1 Qh3+
+14.Ke2 Rae8 15.Kd1 e5 16.dxe5 Nxe5 17.Be2 Nxf3 18.Qd3 Rxe2 19.Rxe2 Qg2
+20.Rhe1 Nxe1 21.Kxe1 Qxh2 22.Re7 Qg1+ 23.Ke2 Qg4+ 24.Ke1 h5 25.Qg3 Qxg3
+26.fxg3 Rf7 27.Bxf6 gxf6 28.Re8+ Kh7 29.Kf2 Kh6 30.b4 Kg5 31.Ra8 Kxf5
+32.Rxa7 d6 33.a4 Ke6 34.a5 bxa5 35.Rxa5 f5 36.c5 Rh7 37.cxd6 cxd6 38.b5 h4
+39.gxh4 Rxh4 40.Ra8 Rb4 41.Rb8 Kd5 42.Kf3 Rb3+ 43.Kf4 Kc5 44.Rc8+ Kxb5
+45.Kxf5 Re3 46.Kf4 Re1 47.Rd8 Kc5 48.Rc8+ Kd4 49.Kf3 d5 50.Kf2 Re5
+51.Ra8 Kc3 52.Ra3+ Kb4 53.Ra1 d4 54.Rc1 d3 55.Rc8 d2 56.Rb8+ Kc3
+57.Rc8+ Kd3 58.Rd8+ Kc2 59.Rc8+ Kd1 0-1
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "07"]
+[White "Korchnoi V"]
+[Black "Polugaevsky L"]
+[Result "1-0"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.O-O b4 10.Ne4 Be7 11.Nxf6+ Nxf6 12.e4 O-O 13.Qc2 h6 14.Be3 Rc8 15.Rfd1 c5
+16.dxc5 Ng4 17.Bd4 e5 18.h3 exd4 19.hxg4 Rxc5 20.Qd2 a5 21.Rac1 Qd7
+22.Rxc5 Bxc5 23.g5 hxg5 24.Qxg5 Qe7 25.Qh5 g6 26.Qh6 Qf6 27.Bc4 d3
+28.e5 Qf5 29.Rxd3 Be4 30.Rd6 Qg4 31.Rf6 Bf5 32.b3 Bd4 33.Nxd4 Qxd4
+34.Rxg6+ Bxg6 35.Qxg6+ Kh8 36.Qh6+ Kg8 37.e6 Qe4 38.exf7# Rxf7 39.Qf6 Qb1+
+40.Kh2 Qh7+ 41.Kg3 Qd3+ 42.f3 Qxc4 43.Qd8+ 1-0
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "08"]
+[White "Polugaevsky L"]
+[Black "Korchnoi V"]
+[Result "1-0"]
+
+1.d4 e6 2.c4 Nf6 3.g3 Bb4+ 4.Bd2 Be7 5.Bg2 d5 6.Nf3 O-O 7.O-O c6 8.Qc2 Nbd7
+9.b3 b6 10.Rd1 Ba6 11.a4 Ne4 12.Bf4 Rc8 13.Nbd2 Nxd2 14.Rxd2 g5
+15.Be3 f5 16.Rdd1 Bf6 17.Rac1 h6 18.Qd2 Bg7 19.h4 f4 20.gxf4 g4 21.Ne5 Nxe5
+22.dxe5 Qxh4 23.cxd5 cxd5 24.Rxc8 Bxc8 25.Rc1 g3 26.Rc7 Ba6
+27.fxg3 Qxg3 28.Rxa7 Bc8 29.b4 Kh8 30.Bf2 Qg4 31.Rc7 h5 32.Qe3 Rg8
+33.Qf3 Qf5 34.Bh4 d4 35.Bg5 Qg6 36.Qd3 1-0
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "09"]
+[White "Korchnoi V"]
+[Black "Polugaevsky L"]
+[Result "1/2-1/2"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.e4 Bb7 5.Bd3 c5 6.O-O Nc6 7.e5 Ng4 8.Be4 f5
+9.exf6 Nxf6 10.Bxc6 Bxc6 11.d4 cxd4 12.Nxd4 Bb7 13.Bf4 Be7 14.Ncb5 O-O
+15.Bc7 Qc8 16.Bd6 Qd8 17.Bc7 Qc8 18.Bd6 Qd8 19.Bc7 Qc8 1/2-1/2
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "10"]
+[White "Polugaevsky L"]
+[Black "Korchnoi V"]
+[Result "1/2-1/2"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Bc4 Bg7
+8.Ne2 O-O 9.O-O Nc6 10.Be3 Na5 11.Bd3 b6 12.Rc1 e6 13.dxc5 Qc7 14.cxb6 axb6
+15.c4 Ba6 16.Nd4 Nxc4 17.Qe2 Rfc8 18.a4 Bxd4 19.Bxd4 e5 20.Ba1 b5
+21.axb5 Bxb5 22.h4 Ra6 23.Rb1 Be8 24.Bxe5 Qxe5 25.Bxc4 Rac6 26.Bd5 R6c7
+27.Qe3 Bc6 28.Rbd1 Bxd5 29.Rxd5 Qf6 30.Qg3 Rc4 31.f3 Rc1 32.Rdd1 R1c2
+33.Kh2 Qa6 34.Rf2 Rxf2 35.Qxf2 Qf6 36.Qg3 Rc5 37.Rd6 Qe5 38.Qxe5 Rxe5
+39.Rd5 Re6 40.h5 Kg7 41.Kg3 Ra6 42.f4 Ra4 43.Kf3 Rb4 44.Re5 Ra4 45.Rd5 Ra3+
+46.Kg4 Ra2 47.g3 Rh2 48.hxg6 hxg6 49.Rd7 Re2 50.e5 Re3 51.Kh4 Kf8
+52.Rd8+ Kg7 53.Re8 Ra3 54.g4 Ra4 55.Kg5 Ra5 56.Re7 Rb5 57.Rd7 Ra5
+58.Kh4 Kf8 59.Rd4 Rb5 60.Re4 Ra5 61.Kg3 Ke7 62.Kh4 Kf8 1/2-1/2
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "11"]
+[White "Korchnoi V"]
+[Black "Polugaevsky L"]
+[Result "1/2-1/2"]
+
+1.c4 e5 2.Nc3 d6 3.d4 exd4 4.Qxd4 Nc6 5.Qd2 Nf6 6.b3 a5 7.e4 a4 8.Rb1 axb3
+9.axb3 g6 10.g3 Bg7 11.Bg2 O-O 12.Nge2 Ne5 13.f4 Ned7 14.O-O Re8 15.b4 Qe7
+16.Qd3 Nb6 17.Be3 Ra3 18.Bxb6 cxb6 19.Ra1 Rxa1 20.Rxa1 Be6 21.Rc1 Ra8
+22.Nd4 Ne8 23.Ndb5 Qf6 24.Rf1 Qd8 25.Rd1 Qf6 26.Bf1 h5 27.Qe3 Ra6
+28.Be2 Qe7 29.Kf2 Bd7 30.Nd5 Qd8 31.Bf1 Bg4 32.Re1 Be6 33.Rd1 Bg4 1/2-1/2
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "12"]
+[White "Polugaevsky L"]
+[Black "Korchnoi V"]
+[Result "1/2-1/2"]
+
+1.d4 e6 2.c4 Bb4+ 3.Bd2 Qe7 4.g3 Nc6 5.Nf3 Nf6 6.Nc3 Bxc3 7.Bxc3 Ne4 8.Rc1 d6
+9.d5 Nxc3 10.Rxc3 Nd8 11.Bg2 O-O 12.dxe6 Nxe6 13.O-O Bd7 14.Nh4 Bc6
+15.Nf5 Qf6 16.Ne3 Bxg2 17.Kxg2 Rfe8 18.Nd5 Qg6 19.Qb1 c6 20.Qxg6 hxg6
+21.Ne3 Nc5 22.Rd1 a5 23.Ra3 Red8 24.Nc2 Kf8 25.h4 Ra6 26.Ne1 Re8 27.Kf3 Ke7
+28.Re3+ Ne6 29.b3 Raa8 30.Nd3 Rad8 31.Nb2 Kd7 32.Na4 Kc7 33.Nc3 g5 34.h5 f5
+35.g4 f4 36.Red3 Nc5 37.Rd4 Nd7 38.Ne4 Ne5+ 39.Kg2 Nf7 40.f3 Re5 41.Kf2 b5
+42.Rc1 b4 43.a4 Rde8 44.Rcd1 R8e6 45.R1d2 Re7 46.Nxd6 Nxd6
+47.Rxd6 Rxe2+ 48.Rxe2 Rxe2+ 49.Kxe2 Kxd6 50.Kd2 c5 1/2-1/2
+
+[Event "cm2"]
+[Site "Evian"]
+[Date "1977.??.??"]
+[Round "13"]
+[White "Korchnoi V"]
+[Black "Polugaevsky L"]
+[Result "1/2-1/2"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.g3 O-O 6.Bg2 Nc6 7.O-O Qe7
+8.e3 d5 9.Na4 dxc4 10.Qxc4 Rb8 11.Qc2 b5 12.Nc3 Bd7 13.b3 Rfc8
+14.Bb2 Ba5 15.d3 Be8 16.Rfd1 a6 17.Qe2 Bc7 18.Rac1 Ne5 19.Nxe5 Bxe5
+20.d4 Bd6 21.dxc5 1/2-1/2
+

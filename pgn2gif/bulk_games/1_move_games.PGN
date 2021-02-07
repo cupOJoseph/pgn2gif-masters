@@ -1,0 +1,41 @@
+[Event "wcc elim"]
+[Site "Las Vegas"]
+[Date "1999.07.31"]
+[Round "1.1"]
+[White "Leitao,R"]
+[Black "Bagheri,A"]
+[Result "1-0"]
+[ECO "A40"]
+
+1.d4 1-0
+
+[Event "wcc elim"]
+[Site "Las Vegas"]
+[Date "1999.08.01"]
+[Round "1.2"]
+[White "Bagheri,A"]
+[Black "Leitao,R"]
+[Result "0-1"]
+
+0-1
+
+[Event "wcc elim"]
+[Site "Las Vegas"]
+[Date "1999.07.31"]
+[Round "1.1"]
+[White "Hakki,I"]
+[Black "Hamdouchi,H"]
+[Result "0-1"]
+
+0-1
+
+[Event "wcc elim"]
+[Site "Las Vegas"]
+[Date "1999.08.01"]
+[Round "1.2"]
+[White "Hamdouchi,H"]
+[Black "Hakki,I"]
+[Result "1-0"]
+
+1.g3 1-0
+

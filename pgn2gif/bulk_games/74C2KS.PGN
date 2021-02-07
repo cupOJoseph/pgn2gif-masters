@@ -1,0 +1,191 @@
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "01"]
+[White "Karpov A"]
+[Black "Spassky B"]
+[Result "0-1"]
+[ECO "B83"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 Be7 7.O-O O-O 8.f4 Nc6
+9.Be3 e5 10.Nb3 a5 11.a4 Nb4 12.Bf3 Be6 13.Kh1 Qc7 14.Rf2 Rfd8
+15.Rd2 Bc4 16.Nb5 Bxb5 17.axb5 a4 18.Nc1 d5 19.fxe5 Nxe4 20.c3 Nxd2
+21.Bxd2 Qxe5 22.cxb4 Qxb2 23.Nd3 Qd4 24.Ra3 Qb6 25.Qe2 Re8 26.Bxd5 Bxb4
+27.Bxf7+ Kxf7 28.Qf3+ Kg8 29.Bxb4 Qxb5 30.h3 Rad8 31.Bd2 Qd5 32.Qf2 b5
+33.Ba5 Rd7 34.Nf4 Rf7 35.Rf3 Qc4 36.Bd2 b4 37.Qb6 b3 38.Kh2 Qc2 39.Bc3 Qe4
+40.Qd6 h6 41.Bb2 Qc2 42.Qd5 Qf5 43.Qc6 Qd7 44.Qg6 Ree7 45.Qa6 Qb7
+46.Qxa4 Re4 47.Qxb3 Rb4 48.Qe6 Rxb2 49.Rg3 Rb6 50.Qe8+ Kh7 51.Qe3 Rd6
+52.Qc5 Qc7 53.Qb4 Qd7 54.Nh5 Rg6 55.Rxg6 Kxg6 56.Ng3 Qd3 57.h4 Kh7
+58.h5 Rd7 59.Qc5 Rd4 60.Qe7 Rg4 61.Qe5 Rh4+ 62.Kg1 Qd1+ 63.Kf2 Qd4+ 0-1
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "02"]
+[White "Spassky B"]
+[Black "Karpov A"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 e6
+8.O-O Ngf6 9.c4 Bd6 10.b3 O-O 11.Bb2 c5 12.Bxg6 hxg6 13.Re1 Qc7
+14.dxc5 Bxc5 15.Qc2 Rfd8 16.Ne4 Nxe4 17.Qxe4 1/2-1/2
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "03"]
+[White "Karpov A"]
+[Black "Spassky B"]
+[Result "1-0"]
+[ECO "E91"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 c5 7.O-O Bg4
+8.d5 Nbd7 9.Bg5 a6 10.a4 Qc7 11.Qd2 Rae8 12.h3 Bxf3 13.Bxf3 e6
+14.b3 Kh8 15.Be3 Ng8 16.Be2 e5 17.g4 Qd8 18.Kg2 Qh4 19.f3 Bh6 20.g5 Bg7
+21.Bf2 Qf4 22.Be3 Qh4 23.Qe1 Qxe1 24.Rfxe1 h6 25.h4 hxg5 26.hxg5 Ne7
+27.a5 f6 28.Reb1 fxg5 29.b4 Nf5 30.Bxg5 Nd4 31.bxc5 Nxc5 32.Rb6 Bf6
+33.Rh1+ Kg7 34.Bh6+ Kg8 35.Bxf8 Rxf8 36.Rxd6 Kg7 37.Bd1 Be7 38.Rb6 Bd8
+39.Rb1 Rf7 40.Na4 Nd3 41.Nb6 g5 42.Nc8 Nc5 43.Nd6 Rd7 44.Nf5+ Nxf5
+45.exf5 e4 46.fxe4 Nxe4 47.Ba4 Re7 48.Rbe1 Nc5 49.Rxe7+ Bxe7 50.Bc2 Bd8
+51.Ra1 Kf6 52.d6 Nd7 53.Rb1 Ke5 54.Rd1 Kf4 55.Re1 1-0
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "04"]
+[White "Spassky B"]
+[Black "Karpov A"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.b3 Ngf6 12.Bb2 Qa5+ 13.Bc3 Bb4 14.Bxb4 Qxb4+
+15.Qd2 Qxd2+ 16.Kxd2 c5 17.c4 cxd4 18.Nxd4 a6 19.Ke3 Rc8 20.Rac1 Ke7
+21.f3 Rc5 22.Nde2 Rhc8 23.f4 b5 24.cxb5 axb5 25.Rxc5 Rxc5 26.Rc1 Nd5+
+27.Kf3 Rxc1 28.Nxc1 f5 29.Nd3 Kd6 30.a4 bxa4 31.bxa4 N7f6 32.Ne5 Kc5
+33.Nf7 Kb4 34.Nd8 Nc7 35.Ne2 Nxh5 36.Nd4 Nd5 37.N8xe6 Ne7 38.Nxf5 Nxf5
+39.g4 Nh4+ 40.Kf2 Nxf4 41.Nxf4 Kxa4 42.Ne6 Ng6 1/2-1/2
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "05"]
+[White "Karpov A"]
+[Black "Spassky B"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.e3 d5 6.Bd3 O-O 7.O-O Nc6
+8.a3 Bxc3 9.bxc3 dxc4 10.Bxc4 Qc7 11.Bd3 e5 12.Qc2 Re8 13.Nxe5 Nxe5
+14.dxe5 Qxe5 15.f3 Be6 16.e4 Rad8 17.Be2 b6 18.a4 Bd7 19.Rd1 Bc6
+20.Rxd8 Rxd8 21.Be3 h6 22.Bf2 Nh5 23.g3 g5 24.Bb5 Bb7 25.Rd1 Rxd1+
+26.Qxd1 Nf6 27.g4 Qxc3 28.Bg3 Kg7 29.Be2 Bc6 30.Qd6 Qd4+ 31.Qxd4 cxd4
+32.a5 bxa5 33.Be5 Kg6 34.Bxd4 Ne8 35.Bxa7 h5 36.gxh5+ Kxh5 37.Kf2 Kg6
+38.Bd3 Ng7 39.Bb6 a4 40.Bc5 Ne6 41.Bd6 Kh5 1/2-1/2
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "06"]
+[White "Spassky B"]
+[Black "Karpov A"]
+[Result "0-1"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 e6
+8.O-O Ngf6 9.c4 Bd6 10.b3 O-O 11.Bb2 Qc7 12.Bxg6 hxg6 13.Qe2 Rfe8
+14.Ne4 Nxe4 15.Qxe4 Be7 16.Rad1 Rad8 17.Rfe1 Qa5 18.a3 Qf5 19.Qe2 g5
+20.h3 g4 21.hxg4 Qxg4 22.d5 cxd5 23.cxd5 e5 24.d6 Bf6 25.Nd2 Qxe2
+26.Rxe2 Rc8 27.Ne4 Bd8 28.g4 f6 29.Kg2 Kf7 30.Rc1 Bb6 31.Rec2 Rxc2
+32.Rxc2 Ke6 33.a4 a5 34.Ba3 Rb8 35.Rc4 Bd4 36.f4 g6 37.Ng3 exf4
+38.Rxd4 fxg3 39.Kxg3 Rc8 40.Rd3 g5 41.Bb2 b6 42.Bd4 Rc6 43.Bc3 Rc5
+44.Kg2 Rc8 45.Kg3 Ne5 46.Bxe5 fxe5 47.b4 e4 48.Rd4 Ke5 49.Rd1 axb4
+50.Rb1 Rc3+ 51.Kf2 Rd3 52.d7 Rxd7 53.Rxb4 Rd6 54.Ke3 Rd3+ 55.Ke2 Ra3 0-1
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "07"]
+[White "Karpov A"]
+[Black "Spassky B"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 f5 5.f4 Nf6 6.Nf3 Be7 7.Be2 O-O 8.O-O Ne4
+9.Qc2 Nd7 10.b3 Nxc3 11.Qxc3 Nf6 12.Ne5 Bd7 13.a4 Ne4 14.Qd3 Bf6 15.Ba3 Re8
+16.Bh5 g6 17.Bf3 Bxe5 18.dxe5 h5 19.Bxe4 fxe4 20.Qd2 Kf7 21.a5 Rh8
+22.Bd6 Rh7 23.Qb4 Bc8 24.Ra2 Kg8 25.h3 a6 26.g3 Bd7 27.Qxb7 Be8 28.Qb4 Raa7
+29.Rg2 Rab7 30.Qc3 Rbf7 31.Bc5 g5 32.Bb6 Qd7 33.cxd5 exd5 34.g4 hxg4
+35.hxg4 gxf4 36.exf4 Rh4 37.f5 Rfh7 38.e6 Qd6 39.Qg3 Rh1+ 40.Kf2 Qb4
+41.Qe3 1/2-1/2
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "08"]
+[White "Spassky B"]
+[Black "Karpov A"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.h5 Bh7 8.Nf3 Nd7
+9.Bd3 Bxd3 10.Qxd3 Ngf6 11.Bd2 Qc7 12.c4 e6 13.Qe2 Bd6 14.Nf5 Bf4
+15.Bxf4 Qxf4 16.Ne3 Qc7 17.O-O-O b5 18.cxb5 cxb5+ 19.Kb1 O-O 20.g4 Ne4
+21.Rhg1 Ng5 22.Nxg5 hxg5 23.d5 a6 24.h6 gxh6 25.Rh1 Nf6 26.Rxh6 Kg7
+27.Rhh1 Rad8 28.dxe6 fxe6 29.Nc2 Qf4 30.f3 Kf7 31.a3 e5 32.Nb4 e4
+33.fxe4 Rxd1+ 34.Rxd1 Re8 35.Nxa6 Qxe4+ 36.Qxe4 Rxe4 37.Nc7 b4 38.axb4 Rxb4
+39.Rf1 Rf4 1/2-1/2
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "09"]
+[White "Karpov A"]
+[Black "Spassky B"]
+[Result "1-0"]
+[ECO "B83"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 Be7 7.O-O O-O 8.f4 Nc6
+9.Be3 Bd7 10.Nb3 a5 11.a4 Nb4 12.Bf3 Bc6 13.Nd4 g6 14.Rf2 e5
+15.Nxc6 bxc6 16.fxe5 dxe5 17.Qf1 Qc8 18.h3 Nd7 19.Bg4 h5 20.Bxd7 Qxd7
+21.Qc4 Bh4 22.Rd2 Qe7 23.Rf1 Rfd8 24.Nb1 Qb7 25.Kh2 Kg7 26.c3 Na6
+27.Re2 Rf8 28.Nd2 Bd8 29.Nf3 f6 30.Rd2 Be7 31.Qe6 Rad8 32.Rxd8 Bxd8
+33.Rd1 Nb8 34.Bc5 Rh8 35.Rxd8 1-0
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "10"]
+[White "Spassky B"]
+[Black "Karpov A"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6
+8.c3 O-O 9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8
+14.Ng3 g6 15.a4 c5 16.d5 c4 17.Bg5 Rb8 18.Qd2 Bc8 19.axb5 axb5
+20.Ra2 Bg7 21.Rea1 Nc5 22.Qe3 Re7 23.Nd2 Rc7 24.b3 cxb3 25.Nxb3 Bd7
+26.Nxc5 Rxc5 27.Qd2 Qc8 28.Ne2 Ne8 29.Bd3 f5 30.Be3 Rc7 31.f3 f4
+32.Ba7 Rbb7 33.Qe1 Qd8 34.Qf2 Rc8 35.Ra6 Bf6 36.Bb6 Qe7 37.Ra7 Rcb8
+38.Rxb7 Rxb7 39.Kf1 Bh4 40.Qg1 Kg7 41.Ra7 Rxa7 42.Bxa7 Qd8 43.Qb6 Qc7
+44.Qxc7 Nxc7 45.Bb8 Ne8 46.Nc1 Bd8 47.Ba7 Ba5 48.c4 bxc4 49.Bxc4 Kf7
+50.Nb3 Bc7 51.Bf2 g5 52.Be1 h5 53.Nc1 Nf6 54.Nd3 Kg6 55.Ba6 g4 56.hxg4 hxg4
+57.Nb2 Nh7 58.Nc4 Ng5 59.Kf2 Kf6 60.Bb4 Nf7 1/2-1/2
+
+[Event "cm2"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "11"]
+[White "Karpov A"]
+[Black "Spassky B"]
+[Result "1-0"]
+[ECO "D58"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6 8.Be2 Bb7
+9.Bxf6 Bxf6 10.cxd5 exd5 11.O-O Qd6 12.Rc1 a6 13.a3 Nd7 14.b4 b5 15.Ne1 c6
+16.Nd3 Nb6 17.a4 Bd8 18.Nc5 Bc8 19.a5 Bc7 20.g3 Nc4 21.e4 Bh3
+22.Re1 dxe4 23.N3xe4 Qg6 24.Bh5 Qh7 25.Qf3 f5 26.Nc3 g6 27.Qxc6 gxh5
+28.Nd5 f4 29.Re7 Qf5 30.Rxc7 Rae8 31.Qxh6 Rf7 32.Rxf7 Kxf7 33.Qxf4 Re2
+34.Qc7+ Kf8 35.Nf4 1-0

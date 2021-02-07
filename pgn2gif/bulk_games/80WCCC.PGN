@@ -1,0 +1,639 @@
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "01"]
+[White "l'Excentrique"]
+[Black "Chess 4.9"]
+[Result "1-0"]
+[ECO "C43/04"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Bd6 6.c4 Bxe5 7.dxe5 Nc6
+8.Bc2 Nxe5 9.Qxd5 Qxd5 10.cxd5 Bf5 11.O-O c6 12.f4 Ng4 13.h3 Ngf6 14.g4 Nd2
+15.Re1+ Kf8 16.Bd1 Bxb1 17.Bxd2 Bd3 18.Re3 Bc4 19.Bb4+ Kg8 20.d6 Nd5
+21.Re4 Bd3 22.Rd4 Nxb4 23.Rxb4 b6 24.Rd4 Bb5 25.a4 c5 26.Rd2 Bc6 27.a5 Rd8
+28.a6 h5 29.gxh5 Rh6 30.Bg4 Rhxd6 31.Rxd6 Rxd6 32.Kf2 Rd2+ 33.Ke3 Rxb2
+34.Rd1 Rb3+ 35.Kf2 Be4 36.Rd8+ Kh7 37.Rf8 f6 38.Rf7 Ra3 39.Rxa7 f5
+40.Be2 Rxh3 41.Rd7 Rh2+ 42.Ke3 Rh1 43.Rd8 Rh3+ 44.Kd2 Rb3 45.Bc4 Rb4
+46.Bf7 Rd4+ 47.Rxd4 cxd4 48.a7 Kh6 49.Bg6 Bg2 50.Kd3 b5 51.Bxf5 g5
+52.Be4 Bf1+ 53.Kxd4 Kxh5 54.f5 g4 55.a8=Q Kh4 56.Ke3 Kh3 57.Kf2 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "01"]
+[White "Schach 2.3"]
+[Black "Bebe"]
+[Result "1/2-1/2"]
+[ECO "B70/06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.O-O O-O
+8.Be3 Bd7 9.Qd3 Na6 10.Nb3 Nb4 11.Qd2 Ng4 12.Bg5 Rc8 13.h3 Nf6
+14.Be3 a5 15.Nd4 e5 16.Ndb5 d5 17.exd5 Bxb5 18.Bxb5 Nbxd5 19.Nxd5 Qxd5
+20.Qe2 e4 21.c3 Qe6 22.Rad1 Nd5 23.a3 Nxe3 24.Qxe3 Rfd8 25.Rxd8+ Rxd8
+26.Re1 Qb3 27.Qb6 Rd1 28.Rxd1 Qxd1+ 29.Kh2 Bf8 30.Bc4 Qd6+
+31.Qxd6 Bxd6+ 32.Kg1 Bf4 33.Bd5 b6 34.b4 axb4 35.cxb4 e3 36.Kf1 exf2
+37.Kxf2 b5 38.Bc6 Bc1 39.a4 bxa4 40.Bxa4 Kf8 41.b5 Ba3 42.Bb3 Ke7 43.Bd5 f6
+44.Kg3 Bc5 45.Kf4 Ke8 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "01"]
+[White "Advance 1.0"]
+[Black "Nuchess"]
+[Result "0-1"]
+[ECO "B01/10"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 4.d4 Nf6 5.Nb5 Qb6 6.Bf4 Nd5 7.Bg3 c6 8.c4 a6
+9.cxd5 axb5 10.dxc6 bxc6 11.Nf3 g6 12.Be5 Qa5+ 13.Qd2 Qxd2+ 14.Nxd2 f6
+15.Bxb8 Rxb8 16.O-O-O Be6 17.b3 Ra8 18.Kb2 Bh6 19.Re1 Bd5 20.Nb1 Kf7
+21.f3 b4 22.Bd3 f5 23.a4 Bg7 24.Kc2 Bxd4 25.Nd2 Rhd8 26.Rd1 e6 27.h3 c5
+28.Rhf1 Rab8 29.a5 Ra8 30.a6 Bc3 31.Rf2 Rd6 32.h4 Rad8 33.Re2 h5 34.f4 Bf6
+35.g3 Bxb3+ 36.Nxb3 c4 37.Bxc4 Rxd1 38.Nd2 Rg1 39.Rxe6 Kg7 40.Nf1 Rc8
+41.Kb3 Rxc4 42.Kxc4 Rxf1 43.Kxb4 Bd4 44.Re7+ Kh6 45.Kc4 Bf2 46.Re8 Ra1
+47.Ra8 Bxg3 48.Kd3 Bxf4 49.a7 Kg7 50.Ke2 Bg3 51.Rd8 Rxa7 0-1
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "01"]
+[White "Master"]
+[Black "Parwell"]
+[Result "1-0"]
+[ECO "A05/02"]
+
+1.Nf3 Nf6 2.g3 Na6 3.Nc3 Nc5 4.d4 Nce4 5.Nxe4 Nxe4 6.Ng5 Nxg5 7.Bxg5 f6
+8.Bd2 e6 9.Bg2 Be7 10.e4 O-O 11.O-O d6 12.Bc3 c6 13.a4 b6 14.d5 Ba6
+15.Re1 Bc8 16.a5 b5 17.dxc6 Qc7 18.Bb4 Rb8 19.Re3 Ra8 20.Rc3 g6
+21.a6 Qd8 22.Ba5 Qe8 23.Bc7 b4 24.Rc4 Bxa6 25.Rxa6 Qc8 26.Ra1 Qxc7
+27.Ra6 Rfb8 28.Qg4 e5 29.Qe6+ Kh8 30.Qf7 Rf8 31.Qd5 Rfb8 32.Qe6 Rb5
+33.Qd7 Qxd7 34.cxd7 Rc5 35.Rxc5 dxc5 36.Re6 b3 37.Rxe7 bxc2 38.Re8+ Kg7
+39.Rxa8 c1=Q+ 40.Bf1 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "01"]
+[White "Mychess"]
+[Black "Kaissa"]
+[Result "0-1"]
+[ECO "E90/06"]
+
+1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 g6 5.Nf3 Bg7 6.e4 O-O 7.Bg5 h6
+8.Bxf6 Bxf6 9.Qd2 h5 10.O-O-O Bg4 11.Be2 Nd7 12.h3 Bxf3 13.Bxf3 Qa5
+14.g4 Bd4 15.Kb1 Ne5 16.Be2 Bxf2 17.gxh5 Bd4 18.hxg6 fxg6 19.Nb5 Qxd2
+20.Rxd2 Be3 21.Rdd1 Rf2 22.Nc3 Raf8 23.h4 Bd4 24.Rde1 R2f4 25.Rc1 Bxc3
+26.Rxc3 Rxe4 27.Rc2 Rf2 28.Bd1 Rxc2 29.Kxc2 Rxc4+ 30.Kd2 Rd4+
+31.Ke3 Nc4+ 32.Ke2 Nxb2 33.Bc2 c4 34.Rb1 c3 35.Rc1 Rd2+ 36.Kf3 Nd3
+37.Bxd3 Rxd3+ 38.Ke4 Rh3 39.Kd4 b5 40.Re1 c2 41.Rg1 Kf7 42.Rc1 Rxh4+
+43.Kd3 Rh5 44.Kd4 Rh2 45.Kd3 Kf6 46.Re1 a6 47.a3 g5 48.Re6+ Kf5
+49.Re1 g4 50.Kc3 g3 51.Kb2 g2 52.Rg1 Rh1 0-1
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "01"]
+[White "Chaos"]
+[Black "Dark Horse"]
+[Result "1-0"]
+[ECO "D32/10"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nf6 6.Bg5 Be6 7.Bxf6 gxf6
+8.e4 dxe4 9.Nxe4 cxd4 10.Bb5+ Bd7 11.Bxd7+ Nxd7 12.Qxd4 Qb6
+13.Qxb6 axb6 14.O-O Rg8 15.Rfd1 Rg6 16.Nd6+ Bxd6 17.Rxd6 f5 18.Re1+ Kd8
+19.Rd5 Ra5 20.Red1 Rxd5 21.Rxd5 Rc6 22.h3 Rc5 23.Rxc5 bxc5 24.Ng5 Ne5
+25.Nxh7 Nd3 26.Ng5 f6 27.Nf7+ Ke7 28.Nh6 Nxb2 29.Nxf5+ Ke6 30.Ne3 Nd3
+31.a4 Kd7 32.g3 Nb2 33.a5 Nd3 34.h4 Ne5 35.Kf1 Nc6 36.Nc4 Ke6 37.h5 Kd5
+38.h6 Ne5 39.Nxe5 b6 40.axb6 Kxe5 41.b7 Ke6 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "01"]
+[White "Duchess"]
+[Black "Challenger"]
+[Result "1-0"]
+[ECO "C82/04"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Bc5 10.Qe2 O-O 11.Be3 Bxe3 12.Qxe3 Na5 13.Nbd2 Nxb3 14.axb3 Nxd2
+15.Qxd2 c5 16.Qe3 Qc8 17.Rfc1 f6 18.b4 cxb4 19.cxb4 Qd7 20.Nd4 fxe5
+21.Qxe5 Bg4 22.f3 Rae8 23.Qg3 Bxf3 24.Rc7 Qg4 25.Nxf3 Qxg3 26.hxg3 Re4
+27.Rxa6 Rxb4 28.Raa7 Rg4 29.Kh2 h5 30.Rd7 Rf5 31.Rd8+ Kh7 32.Raa8 g5
+33.Rd7+ Kg6 34.Ra6+ Rf6 35.Rdd6 Rxd6 36.Rxd6+ Kg7 37.Rxd5 Rb4 38.Rxg5+ Kh6
+39.Rc5 Rxb2 40.Nd4 b4 41.Rb5 Rb1 42.Nc6 b3 43.Na5 Re1 44.Nxb3 Re2
+45.Nd4 Re8 46.Rb6+ Kh7 47.Nf5 Rh8 48.Rh6+ Kg8 49.Rf6 Rh7 50.Rd6 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "01"]
+[White "Belle"]
+[Black "Bcp"]
+[Result "1-0"]
+[ECO "B22/20"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.cxd4 d6 6.Nf3 Nc6 7.Bc4 e6 8.Bb3 dxe5
+9.dxe5 Bb4+ 10.Bd2 O-O 11.O-O b5 12.Bxd5 Qxd5 13.Bxb4 Qxd1 14.Rxd1 Nxb4
+15.Nc3 Ba6 16.a4 bxa4 17.Rxa4 Rfb8 18.Rd4 Nc6 19.Rxa6 Nxd4 20.Nxd4 Rb4
+21.Nc6 Rxb2 22.f4 Rb7 23.Kf2 h5 24.Ke3 Rb2 25.Ne2 Rb3+ 26.Ke4 Rb2
+27.Kf3 Rb3+ 28.Kf2 Rb7 29.h3 Rd7 30.Ned4 Rb7 31.g4 hxg4 32.hxg4 Rb2+
+33.Ke3 Rb7 34.f5 exf5 35.Nxf5 Rd7 36.Nd6 Kh8 37.Nb5 Rd1 38.Ncxa7 Rad8
+39.Rd6 R8xd6 40.exd6 f6 41.Nc6 g5 42.Nbd4 Rxd4 43.Nxd4 Kg7 44.d7 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "01"]
+[White "Ostrich 81"]
+[Black "Awit"]
+[Result "1-0"]
+[ECO "B01/02"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Bc4 g6 5.Ne2 Bg7 6.Nbc3 O-O 7.d4 Re8
+8.Be3 Ng4 9.Qd2 Nxe3 10.fxe3 Na6 11.O-O-O Rf8 12.Rhe1 Bg4 13.h3 Bd7
+14.Kb1 Bf6 15.Ka1 Kg7 16.Kb1 Nb4 17.a3 Na6 18.Bxa6 bxa6 19.e4 c6 20.e5 Bh4
+21.g3 cxd5 22.gxh4 Bxh3 23.Qg5 f6 24.exf6+ exf6 25.Qxd5 a5
+26.Qxd8 Raxd8 27.d5 Rd6 28.Ne4 Rb6 29.c4 Rfb8 30.Rd2 Rd8 31.c5 Rb3
+32.Nd4 Rb7 33.Nc6 Re8 34.Nxa5 Rbe7 35.Nc6 Rxe4 36.Rxe4 Rxe4
+37.Nxa7 Rxh4 38.c6 Bf5+ 39.Kc1 Rc4+ 40.Kd1 Bg4+ 41.Ke1 Re4+ 42.Kf2 Re7
+43.d6 Rxa7 44.d7 Rxd7 45.Rxd7+ Kf8 46.Rd8+ Ke7 47.c7 Bd7 48.b4 h5 49.b5 f5
+50.b6 g5 51.b7 Bc6 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "02"]
+[White "Duchess"]
+[Black "Master"]
+[Result "1-0"]
+[ECO "B08/14"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2 O-O 6.O-O b6 7.e5 Nfd7 8.Bf4 Nc6
+9.Bb5 Bb7 10.Bxc6 Bxc6 11.d5 Bb7 12.Re1 dxe5 13.Nxe5 Nxe5 14.Bxe5 f6
+15.Bf4 g5 16.Bc1 Re8 17.Re6 f5 18.Bxg5 Bxc3 19.bxc3 Qxd5 20.Qxd5 Bxd5
+21.Re5 e6 22.g3 Kg7 23.a3 h6 24.Bh4 Bf3 25.Re3 Bc6 26.Rae1 Bd5 27.f3 c5
+28.Kg2 a5 29.Rb1 Rab8 30.Ra1 c4 31.Rd1 Kg6 32.Rd4 a4 33.Re1 b5
+34.Rd2 Rf8 35.Rb1 Rf7 36.Rd4 Rd7 37.h3 Rb6 38.Re1 Rbd6 39.g4 fxg4
+40.Rxg4+ Kh7 41.Bg3 Rb6 42.Bf4 h5 43.Rh4 Rg7+ 44.Kf2 Kg8 45.Rxh5 Rf7
+46.Rg5+ Kf8 47.Kg3 Rf6 48.h4 Rb7 49.h5 Rh7 50.Kg4 Kf7 51.Re3 Bc6 52.Rg6 Bd7
+53.Rxf6+ Kxf6 54.Bg5+ Kg7 55.Re1 e5+ 56.Kh4 Be8 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "02"]
+[White "Bcp"]
+[Black "Schach 2.3"]
+[Result "1/2-1/2"]
+[ECO "C45/07"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3 Bb6 6.Nc3 Nf6 7.Bb5 O-O
+8.O-O Ne5 9.Bg5 c6 10.Be2 d6 11.Qc1 Be6 12.Kh1 h6 13.Bh4 g5 14.Bg3 c5
+15.f4 gxf4 16.Qxf4 Bxb3 17.axb3 Nfd7 18.Qxh6 f6 19.Bc4+ Rf7
+20.Bxe5 Nxe5 21.Rxf6 Qxf6 22.Qxf6 Nxc4 23.Qg6+ Rg7 24.Qe6+ Kh7 25.bxc4 Rf8
+26.Qxd6 Rf2 27.Qd3 Rfxg2 28.Qh3+ Kg8 29.Qxg2 Rxg2 30.Kxg2 Kf7
+31.Nd5 Ke6 32.Nxb6 axb6 33.Ra7 Ke5 34.Kf3 Kd4 35.Rxb7 Ke5 36.c3 Kd6
+37.Rxb6+ Ke5 38.b4 cxb4 39.Rb5+ Ke6 40.Rb6+ Ke5 41.Rb5+ Ke6
+42.Rb6+ Ke5 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "02"]
+[White "Challenger"]
+[Black "Advance 1.0"]
+[Result "1/2-1/2"]
+[ECO "C18/05"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.dxc5 Qa5
+8.Qd4 Nbc6 9.Qe3 d4 10.Qg3 Nf5 11.Qd3 Qxc5 12.Nf3 dxc3 13.Qb5 Qd5
+14.Qxd5 exd5 15.Bg5 h6 16.Bc1 Nfd4 17.Nxd4 Nxd4 18.Bd3 Bf5 19.Bxf5 Nxf5
+20.f4 Nd4 21.Kd1 O-O 22.Rb1 b6 23.Be3 Nf5 24.Bf2 Rac8 25.Ke2 Rc4
+26.Rb4 Rxb4 27.axb4 Rc8 28.Ra1 Rc4 29.Kf3 g5 30.g3 Rxb4 31.Rxa7 gxf4
+32.Rc7 fxg3 33.hxg3 Nd4+ 34.Bxd4 Rxd4 35.Rxc3 Re4 36.Rc6 Rxe5
+37.Rxb6 Kg7 38.c3 h5 39.Ra6 f6 40.Ra7+ Kg6 41.Rd7 Rg5 42.Kf2 Kh6
+43.Rf7 Rf5+ 44.Ke3 Kg6 45.Rd7 Rg5 46.Kf2 Re5 47.Kf3 Rf5+ 48.Kg2 Rg5
+49.Kf2 Re5 50.Kf3 Rf5+ 51.Kg2 Rg5 52.Kf2 Re5 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "02"]
+[White "Nuchess"]
+[Black "Belle"]
+[Result "1/2-1/2"]
+[ECO "C36/09"]
+
+1.f4 e5 2.e4 exf4 3.Nf3 d5 4.exd5 Nf6 5.Bb5+ c6 6.dxc6 Nxc6 7.d4 Bd6
+8.O-O O-O 9.Nc3 Bg4 10.Bc4 Bb4 11.Ne2 Bd6 12.Nxf4 Bxf3 13.Rxf3 Bc5
+14.c3 Ne5 15.Be2 Nxf3+ 16.Bxf3 Bd6 17.Bxb7 Rb8 18.Qf3 Re8 19.Bc6 Re1+
+20.Kf2 Rxc1 21.Rxc1 Rxb2+ 22.Kg1 Qc7 23.g3 Bxf4 24.gxf4 Rxa2 25.Rb1 Qd6
+26.Bb5 Qb8 27.Bd3 Qe8 28.Kh1 a5 29.Bb5 Qd8 30.Bc4 Rc2 31.Rb7 Qa8
+32.Bxf7+ Kh8 33.Bd5 Qe8 34.Rb1 Nxd5 35.Qxd5 Rxc3 36.Qe5 Qa8+ 37.d5 Rc8
+38.Rg1 Qb7 39.f5 Qf7 40.Rb1 a4 41.Rb8 Rxb8 42.Qxb8+ Qg8 43.Qe5 a3 44.f6 h6
+45.fxg7+ Qxg7 46.Qe8+ Kh7 47.Qe4+ Kh8 48.Qe8+ Kh7 49.Qe4+ Kh8
+50.Qe8+ 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "02"]
+[White "Parwell"]
+[Black "Mychess"]
+[Result "1/2-1/2"]
+[ECO "A02/10"]
+
+1.f4 e5 2.fxe5 d6 3.exd6 Bxd6 4.e3 Qh4+ 5.Ke2 Bxh2 6.Nf3 Bg4 7.c3 Nc6
+8.Qc2 O-O-O 9.Qb3 f6 10.e4 h5 11.d3 Nge7 12.Be3 Qg3 13.Qa3 a6
+14.Bf2 Qf4 15.Be3 Qg3 16.Bf2 Qe5 17.Ke1 Bxf3 18.gxf3 Qf4 19.Nd2 h4
+20.Kd1 h3 21.Qb3 f5 22.Bc5 Kb8 23.d4 a5 24.Bxe7 Nxe7 25.Qf7 Nc6
+26.Qxf5 Qxf5 27.exf5 Bf4 28.f6 gxf6 29.Ne4 f5 30.Nc5 Nxd4 31.cxd4 Rxd4+
+32.Nd3 h2 33.Kc2 c6 34.Be2 Bg3 35.Kb1 Re8 36.Nc1 Rd5 37.a3 Rd2 38.Ka2 Rdxe2
+39.Nxe2 Rxe2 40.Rhd1 Be5 41.Rab1 Re3 42.Rd8+ Ka7 43.f4 Bxf4 44.Rf8 Rh3
+45.Rxf5 h1=Q 46.Rxh1 Rxh1 47.Rxf4 Rh3 48.Rf7 Kb6 49.b3 Rh2+ 50.Kb1 c5
+51.Rg7 Kc6 52.Rg6+ Kd5 53.Rb6 Rh1+ 54.Kc2 Rh2+ 55.Kb1 Rh1+ 56.Kb2 Rh2+
+57.Kb1 Rh7 58.Rb5 Kc6 59.Rxa5 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "02"]
+[White "Kaissa"]
+[Black "Ostrich 81"]
+[Result "1-0"]
+[ECO "B01/07"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb6 5.Nc3 e5 6.dxe5 Qxd1+ 7.Kxd1 Bg4+
+8.f3 Bf5 9.Be3 Bb4 10.Nd5 Nxd5 11.cxd5 Nd7 12.g4 Bg6 13.Rc1 O-O-O 14.a3 Ba5
+15.b4 Bb6 16.Bxb6 axb6 17.d6 Nxe5 18.Rxc7+ Kb8 19.Re7 Rxd6+ 20.Ke1 Rd5
+21.Bg2 Rhd8 22.Ne2 Nc4 23.a4 Nb2 24.f4 R5d7 25.Rxd7 Rxd7 26.f5 Bxf5
+27.gxf5 Nxa4 28.Rg1 Nb2 29.Be4 g6 30.Rg3 Re7 31.Bc2 Rc7 32.Rc3 gxf5
+33.Rxc7 Kxc7 34.Bxf5 h6 35.Nc3 Nc4 36.Ke2 Nd6 37.Bd3 Kd7 38.Kf3 Kc6
+39.Kg4 b5 40.Kh5 Nc4 41.Kxh6 Nd6 42.Kg5 Kb6 43.Kf6 Kc6 44.h4 Kb6 45.h5 Kc6
+46.h6 Ne8+ 47.Ke7 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "02"]
+[White "l'Excentrique"]
+[Black "Chaos"]
+[Result "1/2-1/2"]
+[ECO "B04/06"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 dxe5 5.Nxe5 g6 6.c4 Nb6 7.c5 N6d7
+8.Bc4 Nxe5 9.dxe5 Qxd1+ 10.Kxd1 Nd7 11.e6 fxe6 12.Be3 Ne5 13.Bd4 Bg7
+14.Re1 Nxc4 15.Bxg7 Rg8 16.Bc3 b6 17.b3 Na5 18.b4 Nb7 19.cxb6 cxb6
+20.Be5 Kf7 21.Re3 Nd6 22.g4 Bb7 23.Nd2 Rac8 24.Rh3 h5 25.a4 Nc4
+26.Nxc4 Rxc4 27.Kd2 Rd8+ 28.Rd3 Rxd3+ 29.Kxd3 Rxg4 30.f4 Rg2 31.h4 Rh2
+32.Rc1 a6 33.Rc7 Bd5 34.Bd6 Rxh4 35.Rxe7+ Kg8 36.Re8+ Kg7 37.Re7+ Kf6
+38.Ra7 Rh3+ 39.Kd4 Ra3 40.Rxa6 h4 41.Ra7 Kf5 42.Rf7+ Kg4 43.Rg7 Rxa4
+44.Rxg6+ Kf3 45.Rh6 Ra2 46.Rxh4 Rd2+ 47.Kc3 Rg2 48.b5 Ra2 49.Rh3+ Kg4
+50.Rh8 Ra5 51.Kb4 Ra1 52.Rg8+ Kf3 53.Rc8 Rb1+ 54.Ka4 Bb3+ 55.Ka3 Bd1
+56.Rc3+ Ke4 57.Ka2 Rxb5 58.Bb8 Ra5+ 59.Kb2 Kf5 60.Kc1 Rd5 61.Rg3 Bg4
+62.Re3 b5 63.Re5+ Rxe5 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "02"]
+[White "Dark Horse"]
+[Black "Awit"]
+[Result "0-1"]
+[ECO "B90/04"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 g6 7.Be2 Bd7 8.O-O Bg7
+9.a4 O-O 10.a5 Qc7 11.Qd3 Rc8 12.Rfd1 Nc6 13.Nxc6 Qxc6 14.Ra4 Bg4 15.f3 Bd7
+16.Rc4 Qxc4 17.Qxc4 Rxc4 18.Bxc4 Rc8 19.Bd5 Nxd5 20.Nxd5 Rxc2 21.Nxe7+ Kf8
+22.Bg5 f6 23.Nxg6+ hxg6 24.Rxd6 Ke7 25.Bf4 g5 26.Bg3 Rxb2 27.Rd1 b5
+28.axb6 a5 29.Bd6+ Ke8 30.Bc5 Kd8 31.g3 a4 32.Kh1 Rb3 33.f4 Kc8
+34.fxg5 fxg5 35.Rd6 Bf8 36.Rd5 Bxc5 37.Rxc5+ Kb8 38.Rxg5 Bc6
+39.Rg8+ Kb7 40.Rg4 a3 41.Rh4 a2 42.Rh7+ Kxb6 0-1
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "02"]
+[White "Chess 4.9"]
+[Black "Bebe"]
+[Result "1/2-1/2"]
+[ECO "B70/06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.O-O O-O
+8.Bg5 Bd7 9.Nd5 Nxd5 10.exd5 Qb6 11.Nb3 Bxb2 12.Bxe7 Re8 13.Rb1 Rxe7
+14.Rxb2 Na6 15.Rb1 Nb4 16.Nc1 Qc5 17.c4 Rae8 18.Qd2 a5 19.a3 Na6
+20.Rxb7 Qxa3 21.Qf4 Bf5 22.Rxe7 Rxe7 23.c5 Nxc5 24.Qxd6 Re8 25.Bb5 Rf8
+26.Nb3 Qxb3 27.Qxc5 Rc8 28.Bc6 Qb4 29.Qa7 Qa3 30.Re1 Qc3 31.Qe3 Qb4
+32.Ra1 Qb2 33.Qe1 Qb4 34.Qe5 Rb8 35.h3 Rc8 36.Qe3 Bc2 37.Qa3 Qxa3
+38.Rxa3 a4 39.f4 f5 40.Kf2 Kf7 41.Ke3 Kf6 42.Kd4 Rb8 43.d6 Be4 44.Bxe4 Rb4+
+45.Kd5 Rxe4 46.g3 h6 47.Rd3 Kf7 48.d7 Ke7 49.Kc6 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "03"]
+[White "Bebe"]
+[Black "Master"]
+[Result "1/2-1/2"]
+[ECO "B09/04"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 c5 6.dxc5 Qa5 7.Bb5+ Bd7
+8.Qd3 Nxe4 9.Qxe4 Bxb5 10.Qxb7 Bxc3+ 11.bxc3 Bc6 12.Qc8+ Qd8 13.Qxd8+ Kxd8
+14.Ba3 Nd7 15.cxd6 exd6 16.O-O-O Bxf3 17.gxf3 Re8 18.Rxd6 Re6
+19.Rd5 Ke8 20.f5 Re2 21.fxg6 hxg6 22.Bb4 Rc8 23.Rhd1 Nb6 24.R5d2 Rxd2
+25.Rxd2 Nc4 26.Re2+ Kd8 27.f4 a5 28.Bf8 Rc7 29.h3 Kc8 30.h4 Kb7 31.Re8 Kc6
+32.a4 Kb7 33.Be7 Rc6 34.Bd8 f5 35.Rf8 Rd6 36.Kb1 Kc6 37.Ka2 Kd7 38.Kb3 Nd2+
+39.Ka2 Nc4 40.Kb3 Nd2+ 41.Ka2 Nc4 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "03"]
+[White "Kaissa"]
+[Black "Duchess"]
+[Result "0-1"]
+[ECO "C87/13"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Nf6 6.c3 Bd7 7.d4 Be7
+8.Re1 O-O 9.Nbd2 Re8 10.Nf1 h6 11.Ng3 Bf8 12.a3 Na5 13.Bc2 c6
+14.Be3 Nc4 15.b3 Nxe3 16.Rxe3 b6 17.h3 Qc7 18.Re1 c5 19.dxe5 dxe5
+20.Qe2 Bb5 21.Bd3 Bxd3 22.Qxd3 Red8 23.Qe3 b5 24.Red1 c4 25.b4 a5
+26.Rxd8 Rxd8 27.Qe1 Rd3 28.Kh1 g6 29.bxa5 Bc5 30.a4 bxa4 31.a6 Qa7
+32.Ra2 Nd7 33.Qa1 a3 34.Qc1 Bxf2 35.Nf1 Bc5 36.Ne1 Rd6 37.Qxh6 Rd1
+38.Qh4 Qxa6 39.Qd8+ Kg7 40.Qh4 Qf6 41.Qxf6+ Nxf6 42.Nf3 Rxf1+
+43.Kh2 Nxe4 44.Re2 Rh1+ 45.Kxh1 Ng3+ 46.Kh2 Nxe2 47.Ne1 a2 0-1
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "03"]
+[White "Belle"]
+[Black "l'Excentrique"]
+[Result "1-0"]
+[ECO "B17/08"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ndf6 6.Ng5 e6 7.Ne2 h6
+8.Nf3 Bd6 9.O-O b5 10.Bd3 Ne7 11.a4 bxa4 12.Rxa4 O-O 13.Be3 Ng4 14.Bf4 Bxf4
+15.Nxf4 Qd6 16.Nh5 g6 17.Ng3 f5 18.Qa1 a6 19.Re1 Nf6 20.Bxa6 Bxa6
+21.Rxa6 Rxa6 22.Qxa6 f4 23.Ne4 Nxe4 24.Rxe4 g5 25.c4 Rb8 26.c5 Qd5
+27.Re2 g4 28.Qa7 Re8 29.Re5 Qd8 30.Ne1 Nf5 31.Qa6 Nxd4 32.Qd3 Kg7
+33.Qe4 Rf8 34.Kh1 Rf5 35.Nd3 Kf6 36.Nxf4 g3 37.f3 gxh2 38.Rxe6+ Nxe6
+39.Qxe6+ Kg7 40.Qxf5 Kg8 41.Qg6+ Kh8 42.Qf7 Qg5 43.Ng6+ Qxg6 44.Qxg6 h5
+45.f4 h4 46.f5 h3 47.f6 hxg2+ 48.Qxg2 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "03"]
+[White "Advance 1.0"]
+[Black "Parwell"]
+[Result "0-1"]
+[ECO "C16/04"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.Bd2 O-O 6.a3 Bxc3 7.Bxc3 Nf5 8.Nf3 Nh4
+9.Nxh4 Qxh4 10.Bd3 Bd7 11.O-O Nc6 12.g3 Qh3 13.Qd2 Qh5 14.Rae1 Rac8
+15.f3 Rb8 16.b3 a6 17.Qg2 a5 18.h3 b5 19.b4 a4 20.f4 Ne7 21.g4 Qh6
+22.f5 exf5 23.gxf5 Rbe8 24.f6 Bxh3 25.Qxg7+ Qxg7+ 26.fxg7 Kxg7
+27.Bxb5 c6 28.Rf3 cxb5 29.Rxh3 Kh8 30.Kh1 f6 31.e6 Nf5 32.Rf3 Nd6 33.e7 Rf7
+34.Re6 Nc4 35.Be1 Rfxe7 36.Rxe7 Rxe7 37.Bh4 Kg8 38.Rg3+ Kf7 39.Rf3 Re3
+40.Rxf6+ Kg8 41.Bf2 Rc3 42.Kg1 Nxa3 43.Rf5 Rxc2 44.Rxd5 Rc1+ 45.Kh2 Rb1
+46.Rd8+ Kg7 47.Rd7+ Kg6 48.Rd6+ Kh5 49.Rd7 h6 50.Rd6 Rb2 51.Kg2 Rxb4
+52.Be3 Nc2 53.Rxh6+ Kg4 54.Bf2 Rb3 55.d5 Rd3 56.d6 b4 57.Rg6+ Kf5 58.Rh6 a3
+59.Rh5+ Kg6 60.Ra5 b3 61.d7 a2 62.Ra6+ Kf5 63.Ra5+ Ke6 64.Ra6+ Kxd7
+65.Ra7+ Kc6 66.Ra6+ Kb5 67.Ra8 a1=Q 68.Rxa1 Nxa1 0-1
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "03"]
+[White "Dark Horse"]
+[Black "Challenger"]
+[Result "1-0"]
+[ECO "C45/01"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Qxe4+ 6.Be2 Bb4+
+7.Bd2 Bxd2+ 8.Nxd2 Qf4 9.g3 Qe5 10.Nf3 Qxb2 11.Nxc7+ Kd8 12.Nxa8 Nb4
+13.Bd3 Nxa2 14.O-O Nh6 15.Re1 f6 16.Qe2 Qb4 17.Rxa2 a6 18.Bxh7 d5
+19.Ra4 Qc5 20.Bd3 b5 21.Raa1 Bb7 22.Qe3 Qxe3 23.fxe3 Kd7 24.Nb6+ Kc7
+25.Na4 bxa4 26.Rxa4 Ra8 27.Rb1 Bc8 28.Rbb4 Bb7 29.Nd4 Bc8 30.e4 Bd7
+31.Ra5 dxe4 32.Bxe4 Ra7 33.Bd3 Bc8 34.Nb5+ Kb6 35.Nxa7+ Kxa7 36.Be4 f5
+37.Rc5 fxe4 38.Rc7+ Ka8 39.Rxc8+ Ka7 40.Rc7+ Ka8 41.Rxe4 Kb8
+42.Rxg7 Nf7 43.Rxf7 a5 44.Re8# 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "03"]
+[White "Schach 2.3"]
+[Black "Ostrich 81"]
+[Result "1-0"]
+[ECO "B01/05"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.Nf3 Bg4 5.h3 Bxf3 6.Qxf3 Nc6 7.c3 e6
+8.Nd2 Bd6 9.Bd3 O-O 10.O-O Qh4 11.Nc4 Rae8 12.Nxd6 cxd6 13.Bd2 a5 14.b3 Kh8
+15.Rae1 Kg8 16.Re2 Re7 17.Ree1 Ra8 18.Be4 Nc7 19.Bxc6 bxc6 20.Qxc6 d5
+21.g3 Qxh3 22.Bf4 e5 23.Rxe5 Qd7 24.Qb7 Rxe5 25.Bxe5 Rc8 26.c4 dxc4
+27.bxc4 Qd8 28.c5 Ne6 29.c6 f6 30.Bd6 Nxd4 31.c7 Qd7 32.Qd5+ Ne6 33.Re1 Kf7
+34.Re3 g5 35.f4 gxf4 36.gxf4 Rg8+ 37.Kf2 a4 38.f5 Re8 39.Rxe6 Rxe6
+40.fxe6+ Qxe6 41.Qxe6+ 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "03"]
+[White "Awit"]
+[Black "Chess 4.9"]
+[Result "0-1"]
+[ECO "A01/03"]
+
+1.b3 Nf6 2.Bb2 d5 3.e3 Bd7 4.Nf3 e6 5.Be2 Nc6 6.O-O Be7 7.Ne5 O-O
+8.Nxd7 Qxd7 9.f4 Ne4 10.Nc3 Nxc3 11.Bxc3 d4 12.Bb2 Bc5 13.Bc1 Rad8
+14.Rb1 f5 15.Kf2 Nb4 16.a3 dxe3+ 17.dxe3 Qc6 18.Bd3 Nd5 19.Qf3 a5 20.Bd2 e5
+21.fxe5 Qe6 22.b4 axb4 23.axb4 f4 24.Bxh7+ Kxh7 25.Qh5+ Kg8
+26.bxc5 fxe3+ 27.Ke2 Qa6+ 0-1
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "03"]
+[White "Mychess"]
+[Black "Bcp"]
+[Result "1/2-1/2"]
+[ECO "D86/02"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5
+8.Nf3 Nc6 9.Bd5 cxd4 10.cxd4 O-O 11.Rb1 Nxd4 12.Nxd4 e6 13.Bxb7 Bxb7
+14.Rxb7 Qxd4 15.Qxd4 Bxd4 16.Ke2 Rfc8 17.Be3 Rc2+ 18.Kd3 Rb2
+19.Rb1 Rxb1 20.Rxb1 Bxe3 21.Kxe3 Rc8 22.Rb7 Rc3+ 23.Kd2 Rc4 24.Kd3 Rc1
+25.Rxa7 Rg1 26.g3 Rg2 27.h4 Rxf2 28.Ke3 Rc2 29.a3 Kg7 30.e5 g5 31.hxg5 Rc3+
+32.Kf4 Rc2 33.g4 Rc4+ 34.Kg3 Kg6 35.Kh4 Rc5 36.a4 Kg7 37.Rb7 Rc4 38.Ra7 Rc5
+39.Rb7 Rc4 40.a5 Rc5 41.a6 Rxe5 42.a7 Ra5 43.Rd7 e5 44.Re7 e4 45.Rxe4 Rxa7
+46.Re2 Ra5 47.Rc2 f5 48.gxf6+ Kxf6 49.g5+ Ke5 50.Kh5 Ra3 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "03"]
+[White "Chaos"]
+[Black "Nuchess"]
+[Result "1-0"]
+[ECO "D29/08"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.Qe2 a6 7.O-O b5
+8.Bb3 Bb7 9.Rd1 Nbd7 10.Nc3 Bd6 11.e4 cxd4 12.Nxd4 Qb8 13.g3 b4 14.Na4 Bxe4
+15.f3 Bb7 16.Nxe6 fxe6 17.Qxe6+ Kd8 18.Rxd6 Qc7 19.Be3 Re8 20.Bb6 Rxe6
+21.Bxe6 Bxf3 22.Rc1 Ra7 23.Rxc7 Rxc7 24.Bxc7+ Kxc7 25.Rxa6 Bc6 26.Ra7+ Kb8
+27.Ra5 Kc7 28.b3 Kd6 29.Bxd7 Bxd7 30.Nb6 Kc6 31.Nxd7 Nxd7 32.Kf2 Nc5
+33.Ke3 Kb6 34.Ra8 Ne6 35.Ke4 Kc5 36.Ra5+ Kb6 37.Re5 Nc5+ 38.Kd4 Nb7
+39.Re7 Nd6 40.Ke5 Nb5 41.Rxg7 h5 42.Rf7 Nc3 43.Rf2 Kc5 44.Rd2 Nb5 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "04"]
+[White "Chaos"]
+[Black "Kaissa"]
+[Result "1-0"]
+[ECO "E74/05"]
+
+1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 g6 5.e4 Bg7 6.Be2 O-O 7.Bg5 h6 8.Bf4 Qb6
+9.Qd2 g5 10.Bg3 Nh7 11.Nf3 g4 12.Nh4 Ng5 13.Nf5 Bxf5 14.exf5 Qa6 15.Qe3 Re8
+16.Bh4 Bf6 17.O-O Nd7 18.Rfe1 Qb6 19.Rab1 Qa6 20.Qf4 Be5 21.Qe3 Bf6
+22.Qf4 Be5 23.Qd2 Bf6 24.Qe3 Ne5 25.Qg3 Rf8 26.h3 Nxc4 27.Qxg4 b5
+28.Nxb5 Ne5 29.Qg3 Qb6 30.Nc3 Nd7 31.f4 c4+ 32.Kh1 Rfb8 33.fxg5 Be5
+34.Qg4 hxg5 35.Qxg5+ Bg7 36.Bxc4 Ne5 37.Bb5 a6 38.Be2 Ra7 39.Qg3 Kf8
+40.Qf2 Rab7 41.Qxb6 Rxb6 42.Bf2 Rxb2 43.Rxb2 Rxb2 44.Rb1 Rxb1+
+45.Nxb1 a5 46.Nd2 Bh6 47.Nc4 Nxc4 48.Bxc4 Bg7 49.g4 a4 50.Kg2 a3
+51.Kf3 Bb2 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "04"]
+[White "Chess 4.9"]
+[Black "Schach 2.3"]
+[Result "1-0"]
+[ECO "C44/16"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Bc4 Nf6 6.Nxc3 Bd6 7.Qe2 O-O
+8.O-O Ne5 9.Bd2 c6 10.Bb3 b5 11.Nxe5 Bxe5 12.f4 Bd4+ 13.Kh1 Re8 14.e5 Bxc3
+15.Bxc3 d5 16.a4 d4 17.Bd2 bxa4 18.Rxa4 c5 19.Ba5 Qd7 20.Qc2 Ba6 21.Rfa1 d3
+22.Qxc5 Rac8 23.Qg1 Nh5 24.Bd2 Bb7 25.Rxa7 Rc7 26.Bd1 Qh3 27.Qf2 Qf5
+28.Bf3 Rb8 29.Bxb7 Nxf4 30.Bxf4 d2 31.Qxd2 g5 32.Bxg5 Rcxb7
+33.Rxb7 Rxb7 34.Ra8+ Kg7 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "04"]
+[White "Ostrich 81"]
+[Black "Mychess"]
+[Result "1/2-1/2"]
+[ECO "B56/03"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bb5 Bd7 7.O-O Nxd4
+8.Qxd4 e5 9.Bxd7+ Qxd7 10.Qd1 Be7 11.Be3 Ng4 12.a4 Nxe3 13.fxe3 O-O
+14.Kh1 Rac8 15.Qe1 f6 16.Qg3 f5 17.exf5 Rxf5 18.Rxf5 Qxf5 19.e4 Qe6
+20.Rd1 b6 21.Rd5 Qh6 22.Qg4 Rf8 23.Rd1 Rf2 24.Qc8+ Bf8 25.Nb5 Qg6
+26.Qc4+ Kh8 27.Rg1 a5 28.Qc6 Kg8 29.Na3 Rf4 30.Re1 Be7 31.Qxb6 Rxe4
+32.Qxa5 Rxe1+ 33.Qxe1 e4 34.a5 d5 35.b4 e3 36.c3 Qd3 37.Nb1 e2
+38.Nd2 Bf6 39.a6 Bxc3 40.a7 Qa6 41.Qxe2 Qa1+ 42.Nf1 Bxb4 43.Qe6+ Kf8
+44.Qc8+ Ke7 45.Qb7+ Ke6 46.Qc8+ Kf6 47.Qc6+ Ke5 48.Qe8+ Kf6 49.Qc6+ Ke5
+50.Qe8+ Kf6 51.Qc6+ Ke5 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "04"]
+[White "Master"]
+[Black "l'Excentrique"]
+[Result "0-1"]
+[ECO "A04/03"]
+
+1.Nf3 f5 2.g3 e6 3.Bg2 Nf6 4.d3 Be7 5.O-O O-O 6.Nbd2 d5 7.Nb3 b6
+8.c3 Nc6 9.Nbd4 Nxd4 10.Nxd4 Bd7 11.Bf4 c5 12.Nc2 a5 13.f3 Nh5
+14.Be5 Ba4 15.b3 Be8 16.f4 a4 17.e4 axb3 18.axb3 dxe4 19.dxe4 Rxa1
+20.Nxa1 Qxd1 21.Rxd1 fxe4 22.Bxe4 g5 23.fxg5 Bxg5 24.Re1 Rf7 25.Kg2 Bf6
+26.Bf3 Ng7 27.g4 Bxe5 28.Rxe5 Rd7 29.Be4 Rd2+ 30.Kf3 Rxh2 31.Kf4 Bg6
+32.Bxg6 hxg6 33.Re1 Rh3 34.c4 Rd3 35.Re5 Kf7 36.Nc2 Rxb3 37.Ne3 Rd3
+38.Nc2 Rd2 39.Ne3 Rd4+ 40.Kg5 Ne8 41.Nc2 Rxc4 42.Ne3 0-1
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "04"]
+[White "Bcp"]
+[Black "Parwell"]
+[Result "1-0"]
+[ECO "C45/07"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3 Bb6 6.Nc3 Nf6 7.Bb5 O-O
+8.O-O Ne5 9.Bg5 c6 10.Be2 d6 11.Qc1 Be6 12.Kh1 h6 13.Bh4 Ng6
+14.Bxf6 Qxf6 15.f4 Nh4 16.f5 Bxb3 17.g3 d5 18.axb3 dxe4 19.gxh4 Qxh4
+20.Rf4 Qh3 21.Nxe4 Rfe8 22.Nc3 Bc7 23.Rf2 Bd6 24.Rg2 Be5 25.Bg4 Qh4
+26.Qd2 Bxh2 27.Rxh2 Qxg4 28.Rg1 Qf3+ 29.Qg2 Re3 30.Rxh6 Qxg2+
+31.Rxg2 a6 32.Rh4 Rd8 33.Rgh2 Re1+ 34.Kg2 Rd2+ 35.Kg3 Rxh2 36.Rxh2 b6
+37.Kf4 Rf1+ 38.Ke4 Re1+ 39.Ne2 Rb1 40.Nd4 c5 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "04"]
+[White "Nuchess"]
+[Black "Bebe"]
+[Result "1/2-1/2"]
+[ECO "D00/07"]
+
+1.Nc3 d5 2.d4 Bf5 3.f3 Nf6 4.g4 Bg6 5.g5 Nh5 6.e4 e6 7.exd5 exd5 8.Qe2+ Be7
+9.Qb5+ Nc6 10.Nxd5 O-O 11.c3 Bxg5 12.Bxg5 Qxg5 13.Nh3 Rfe8+
+14.Be2 Rxe2+ 15.Qxe2 Qxd5 16.O-O Rd8 17.b4 Qf5 18.Rfe1 Nf6 19.Kg2 Bh5
+20.b5 Na5 21.Ng1 Rc8 22.Kh1 Rd8 23.Kg2 Rc8 24.Kh1 Rd8 25.Kg2 1/2-1/2
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "04"]
+[White "Challenger"]
+[Black "Awit"]
+[Result "0-1"]
+[ECO "D97/04"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Nc6 8.e5 Nd7
+9.Nd5 Nb6 10.Nxb6 axb6 11.Qc3 Bg4 12.Be2 Bxf3 13.Bxf3 Nxd4 14.Bxb7 Ra7
+15.Be4 Bxe5 16.Bh6 Re8 17.Qc4 Qd6 18.f4 b5 19.Qd3 f5 20.fxe5 fxe4
+21.Qxe4 Qb4+ 22.Kf1 Qxb2 23.Rb1 Qxa2 24.Rc1 Rd8 25.Rg1 c6 26.Ke1 Qb2
+27.Rb1 Qc3+ 28.Kf1 Ra2 29.Rc1 Rf8+ 30.Bxf8 Qxc1+ 31.Qe1 Qf4+
+32.Qf2 Qxf2# 0-1
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "04"]
+[White "Advance 1.0"]
+[Black "Dark Horse"]
+[Result "1-0"]
+[ECO "C65/03"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.Re1 Bd6 6.d4 Nxd4 7.Nxd4 a6
+8.Bc4 b5 9.Bd5 Nxd5 10.exd5 O-O 11.Nf5 Bb7 12.Bh6 gxh6 13.Qg4+ 1-0
+
+[Event "3rd WCCC"]
+[Site "Linz"]
+[Date "1980.??.??"]
+[Round "04"]
+[White "Duchess"]
+[Black "Belle"]
+[Result "0-1"]
+[ECO "C56/05"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5
+8.Nc3 Qa5 9.Nxe4 Be6 10.Bd2 Bb4 11.Nxd4 Nxd4 12.c3 Be7 13.cxd4 Qd5
+14.Rc1 c6 15.Bg5 Bxg5 16.Rc5 Qxa2 17.Nxg5 O-O-O 18.Nxe6 fxe6 19.Qd2 Rd5
+20.Rcc1 Rb5 21.Re2 Rd8 22.Qc3 Rd6 23.Qc2 g6 24.Rd1 Rbd5 25.Re4 e5
+26.Re3 Rxd4 27.Rde1 Rd2 28.Qc5 Qxb2 29.Rxe5 Qb6 30.Re8+ Rd8
+31.Rxd8+ Rxd8 32.Qe7 Qa5 33.Rb1 Rd7 34.Qe3 Qb6 35.Qe8+ Qd8 36.Qe6 Qe7
+37.Qg8+ Rd8 38.Qc4 h5 39.f4 Re8 40.Ra1 Qe3+ 41.Kf1 a6 42.Rd1 g5
+43.f5 Qe5 44.Qd3 Rf8 45.Qd7+ Kb8 46.Kg1 Qc5+ 47.Kh1 Qxf5 48.Qd6+ Kc8
+49.h3 g4 50.hxg4 hxg4 51.Re1 Rd8 52.Qh6 Qf2 0-1
+

@@ -1,0 +1,166 @@
+
+[Event "cm8"]
+[Site "London"]
+[Date "1991.??.??"]
+[Round "01"]
+[White "Speelman J"]
+[Black "Short N"]
+[Result "0-1"]
+[ECO "D97/13"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Na6 8.b4 c6
+9.Rb1 Nc7 10.h3 Nb5 11.Nxb5 cxb5 12.Qc2 Nxe4 13.Bd3 Nd6 14.O-O Bf5
+15.Rd1 Qc8 16.Qe2 Qe6 17.Be3 Rfc8 18.Rb3 a6 19.d5 Qxd5 20.Bxf5 Qxf5
+21.Bc5 Rc7 22.Re3 Bf8 23.Ne5 Nc4 24.Nxc4 bxc4 25.Rf3 Qe6 26.Re3 Qc6
+27.Bxe7 Bxe7 28.Rxe7 c3 29.Re5 b6 30.Qc2 Rac8 31.Re3 Qc4 32.a3 Qc6
+33.Red3 Kg7 34.Rd6 Qb5 35.g3 Re8 36.R6d3 Qf5 37.g4 Qe4 38.Rc1 Rec8
+39.Re3 Qd4 40.Rd1 Qf6 41.Rdd3 Rc4 42.Rf3 Qc6 43.Rde3 Rd8 44.Kg2 Rd2
+45.Qb3 Rb2 46.Qd1 c2 0-1
+
+[Event "cm8"]
+[Site "London"]
+[Date "1991.??.??"]
+[Round "02"]
+[White "Short N"]
+[Black "Speelman J"]
+[Result "1/2-1/2"]
+[ECO "C30/07"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Bc5 4.f4 d6 5.Nf3 c6 6.d3 b5 7.Bb3 Qe7
+8.Qe2 Nbd7 9.Rf1 Bb4 10.fxe5 dxe5 11.g4 Nc5 12.g5 Nfd7 13.Bd2 a5
+14.Nh4 Nxb3 1/2-1/2
+
+[Event "cm8"]
+[Site "London"]
+[Date "1991.??.??"]
+[Round "03"]
+[White "Speelman J"]
+[Black "Short N"]
+[Result "1-0"]
+[ECO "D85/06"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Be3 c5
+8.Qd2 Qa5 9.Rc1 cxd4 10.cxd4 Qxd2+ 11.Kxd2 O-O 12.Nf3 Nc6 13.Bb5 f5
+14.exf5 Bxf5 15.Ke2 Rac8 16.Rhd1 Nb4 17.Bc4+ Kh8 18.Bb3 Bc2
+19.Bxc2 Nxc2 20.Kd2 Nxe3 21.fxe3 Kg8 22.Kd3 Bf6 23.Ke4 Kf7 24.Ne5+ Ke6
+25.Nd3 Kd6 26.a4 b6 27.a5 Rxc1 28.Rxc1 Rb8 29.axb6 axb6 30.Nb4 e6
+31.Rc6+ Kd7 32.d5 Re8 33.Rxb6 exd5+ 34.Kd3 Be5 35.h3 Bc7 36.Rf6 Re5
+37.Rf7+ Kd6 38.Rxh7 Bb6 39.Nc2 Re6 40.Rf7 Ke5 41.Nd4 Rf6 42.Nf3+ Ke6
+43.Rg7 Bd8 44.Ke2 1-0
+
+[Event "cm8"]
+[Site "London"]
+[Date "1991.??.??"]
+[Round "04"]
+[White "Short N"]
+[Black "Speelman J"]
+[Result "1/2-1/2"]
+[ECO "C26/06"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Bc5 4.d3 d6 5.f4 Be6 6.Bxe6 fxe6 7.Nf3 exf4
+8.Bxf4 O-O 9.Na4 Bb4+ 10.c3 Ba5 11.b4 Bb6 12.Nxb6 axb6 13.O-O Nc6 14.b5 Ne7
+15.Qb3 Qd7 16.Nd4 d5 17.Rae1 c5 18.bxc6 Nxc6 19.Nb5 e5 20.Bg5 Na5
+21.Qb4 dxe4 22.dxe4 Nxe4 23.Qxe4 Qxb5 24.Be7 Rxf1+ 25.Rxf1 Qd7
+26.Bb4 Qe6 27.Bxa5 Rxa5 28.Qxb7 h6 29.Re1 1/2-1/2
+
+[Event "cm8"]
+[Site "London"]
+[Date "1991.??.??"]
+[Round "05"]
+[White "Speelman J"]
+[Black "Short N"]
+[Result "1-0"]
+[ECO "A92/05"]
+
+1.d4 e6 2.c4 f5 3.g3 Nf6 4.Bg2 Be7 5.Nf3 d5 6.O-O O-O 7.Qc2 Bd7 8.b3 a5
+9.Ba3 c6 10.Bxe7 Qxe7 11.Ne5 Be8 12.Nd3 Bh5 13.Nf4 g5 14.Nxh5 Nxh5
+15.Nd2 Nd7 16.a3 Nhf6 17.Qc3 Nb6 18.Rab1 Rf7 19.b4 axb4 20.axb4 Ne4
+21.Bxe4 fxe4 22.b5 Ra3 23.Rb3 Rxb3 24.Qxb3 c5 25.Qe3 Nd7 26.dxc5 Nxc5
+27.Qd4 Rf5 28.Ra1 Kf7 29.Ra8 Nd7 30.Ra7 Nf6 31.Qb6 Kg6 32.Qxb7 Qc5
+33.Qf7+ Kh6 34.e3 Qb4 35.g4 1-0
+
+[Event "cm8"]
+[Site "London"]
+[Date "1991.??.??"]
+[Round "06"]
+[White "Short N"]
+[Black "Speelman J"]
+[Result "1-0"]
+[ECO "C49/01"]
+
+1.e4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Bxc3
+8.bxc3 h6 9.Bh4 Bd7 10.Rb1 a6 11.Ba4 Rb8 12.Bb3 Qe7 13.Re1 Na5
+14.d4 Rbd8 15.h3 Kh7 16.Qc1 Nxb3 17.axb3 Bc6 18.Ra1 Rg8 19.dxe5 dxe5
+20.Ra5 Bb5 21.c4 b6 22.Ra1 Bc6 23.Rxa6 g5 24.Bg3 Nh5 25.Nxe5 Bb7
+26.Ra7 Nxg3 27.Rxb7 Qxe5 28.fxg3 Qxg3 29.Qe3 Qe5 30.c5 b5 31.Rf1 Rd7
+32.Rxb5 c6 33.Rb6 Rg6 34.b4 Kg7 35.Qf3 h5 36.Qxh5 Qd4+ 37.Kh1 g4 38.Rb8 Rd8
+39.Rb7 Qf6 40.Rxf7+ Qxf7 41.Rxf7+ Kxf7 42.hxg4 Re8 43.Qh7+ Kf6
+44.Qd7 Re6 45.b5 Ke5 46.b6 Rg8 47.c3 1-0
+
+[Event "cm8"]
+[Site "London"]
+[Date "1991.??.??"]
+[Round "07"]
+[White "Speelman J"]
+[Black "Short N"]
+[Result "1/2-1/2"]
+[ECO "D85/05"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Be3 c5
+8.Qd2 Qa5 9.Rb1 cxd4 10.cxd4 Qxd2+ 11.Kxd2 O-O 12.Nf3 Rd8 13.Bd3 Nc6
+14.d5 Na5 15.Ke2 b6 16.Bg5 f5 17.Bxe7 fxe4 18.Bxe4 Ba6+ 19.Kd1 Rd7
+20.d6 Bb7 21.Bd3 Bf6 22.Bb5 Bc6 23.Re1 Bxe7 24.Rxe7 Rxd6+ 25.Ke2 Bxb5+
+26.Rxb5 Nc6 27.Re4 Rad8 1/2-1/2
+
+[Event "cm8"]
+[Site "London"]
+[Date "1991.??.??"]
+[Round "08"]
+[White "Short N"]
+[Black "Speelman J"]
+[Result "1/2-1/2"]
+[ECO "C48/08"]
+
+1.e4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.Bb5 Nd4 5.Ba4 Bc5 6.Nxe5 O-O 7.Nd3 Bb6
+8.e5 Ne8 9.Nd5 d6 10.Ne3 c6 11.c3 Nf5 12.O-O Bc7 13.f4 dxe5
+14.Nxe5 Nxe3 15.dxe3 Qe7 16.Bc2 Nf6 17.e4 Re8 18.Nf3 Nxe4 19.Re1 Bf5
+20.Be3 Rad8 21.Nd4 Bg6 22.Qf3 Nf6 23.f5 Bh5 24.Qh3 c5 25.Bg5 Qxe1+
+26.Rxe1 Rxe1+ 27.Kf2 Rde8 28.Bxf6 cxd4 29.Qxh5 gxf6 30.Bb3 R1e2+ 1/2-1/2
+
+[Event "cm8"]
+[Site "London"]
+[Date "1991.??.??"]
+[Round "09"]
+[White "Short N"]
+[Black "Speelman J"]
+[Result "1/2-1/2"]
+[ECO "C48/08"]
+
+1.e4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.Bb5 Nd4 5.Ba4 Bc5 6.Nxe5 O-O 7.Nd3 Bb6
+8.e5 Ne8 9.Nd5 d6 10.Ne3 c6 11.O-O Bc7 12.c3 Ne6 13.f4 dxe5
+14.Nxe5 Nxf4 15.d4 Bxe5 16.dxe5 Qxd1 17.Bxd1 Nd3 18.Nc4 Be6 19.Na5 Nxc1
+20.Rxc1 Rb8 21.Bf3 Nc7 22.c4 Na6 23.a3 Nc5 24.Rcd1 Rfc8 25.Rfe1 Kf8
+26.b4 Na4 27.Rd6 Ke8 28.Re3 Nb6 29.Re4 Ke7 30.Kf2 Rc7 31.Ke3 Nd7 32.c5 Rbc8
+33.Bg4 Bxg4 34.Rxg4 g6 35.Kd4 b6 36.Nb3 Nf8 37.Kc4 Ne6 38.Nd4 bxc5
+39.Nxe6 fxe6 40.bxc5 Rf8 41.g3 Rf1 42.Rh4 h5 43.Rf4 Rc1+ 44.Kd4 Rd1+
+45.Ke4 Re1+ 46.Kd4 Rd1+ 1/2-1/2
+
+[Event "cm8"]
+[Site "London"]
+[Date "1991.??.??"]
+[Round "10"]
+[White "Speelman J"]
+[Black "Short N"]
+[Result "0-1"]
+[ECO "D76/07"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.cxd5 Nxd5 7.O-O Nb6
+8.Nc3 Nc6 9.e3 Re8 10.h3 a5 11.Rb1 a4 12.Ne1 Bf5 13.e4 Bd7 14.Nc2 e5
+15.dxe5 Nxe5 16.f4 Nec4 17.Qf3 Qe7 18.b3 axb3 19.axb3 Qc5+ 20.Kh2 Nd6
+21.e5 Nb5 22.Nxb5 Bxb5 23.Rf2 Bc6 24.Qe3 Qxe3 25.Nxe3 Bxg2 26.Kxg2 f6
+27.Ng4 fxe5 28.fxe5 Nd5 29.Nh6+ Bxh6 30.Bxh6 Rxe5 31.g4 Rae8
+32.Rbb2 Ne3+ 33.Bxe3 Rxe3 34.b4 Rc3 35.Rf3 Ree3 36.Rxe3 Rxe3 37.b5 Kf7
+38.Rc2 Re7 39.Kf3 Ke6 40.Kf4 h6 41.Rd2 g5+ 42.Kg3 c5 43.bxc6 bxc6
+44.Rd8 Ke5 45.h4 gxh4+ 46.Kxh4 c5 47.Rc8 Kd5 48.Rd8+ Kc6 49.Rc8+ Kb6
+50.Rb8+ Kc7 51.Rb1 Re6 52.g5 hxg5+ 53.Kxg5 Kc6 54.Rc1 Kb5 55.Rb1+ Ka4
+56.Rc1 Kb4 57.Rb1+ Ka3 58.Rc1 Rc6 59.Kf4 c4 0-1

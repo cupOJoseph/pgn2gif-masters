@@ -1,0 +1,841 @@
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.28"]
+[Round "1"]
+[White "Rybka"]
+[Black "The Baron"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nc4 Nxe4 5.Nc3 Nxc3 6.bxc3 g6 7.d4 Bg7
+8.Bd3 O-O 9.O-O Nc6 10.Qf3 Re8 11.Bf4 Bd7 12.Ne3 Na5 13.Qg3 Bc6
+14.h4 Be4 15.h5 Qd7 16.Rae1 Qc6 17.h6 Bxd3 18.cxd3 Bf6 19.c4 Bxd4
+20.Nd5 Rxe1 21.Rxe1 Qc5 22.Re7 Nc6 23.Rxc7 Qa5 24.Qh4 Qxa2 25.Nf6+ Kh8
+26.Rxf7 Qa1+ 27.Kh2 Bxf6 28.Qxf6+ Qxf6 29.Rxf6 Kg8 30.Rxd6 Rf8
+31.Kg3 a5 32.Bc1 a4 33.f3 Rd8 34.Rxd8+ Nxd8 35.Kf4 Kf7 36.d4 g5+ 37.Ke4 Ne6
+38.Kd3 Kg6 39.d5 Nc5+ 40.Kc3 Kxh6 41.Be3 Nd7 42.Kb4 a3 43.Kxa3 Kg6
+44.Bd4 Kf7 45.Ka4 Ke8 46.g4 Nf8 47.Ka5 Kd7 48.Kb6 Kc8 49.Kc5 Kc7
+50.Be5+ Kd7 51.Bf6 h6 52.Bg7 Ng6 53.Bxh6 Ne5 54.Bxg5 Nxf3 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.28"]
+[Round "1"]
+[White "Shredder"]
+[Black "Junior"]
+[Result "1/2-1/2"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4 5.Nxe4 Nf6 6.Nxf6+ Qxf6 7.O-O Be7
+8.Qe2 O-O 9.Qe4 d6 10.Bxc6 bxc6 11.d4 Bf5 12.Qxc6 Qg6 13.Qxc7 Bd8
+14.Qc4+ Be6 15.Qc6 Rc8 16.Qxd6 Bc7 17.Qa3 Bd5 18.Qd3 e4 19.Qb5 Rcd8
+20.Ne1 Qh5 21.h3 Rb8 22.Qd7 Rf7 23.Qg4 Qxg4 24.hxg4 Bc4 25.b3 Bxf1
+26.Kxf1 Bg3 27.Be3 Bxf2 28.Ke2 Bxe3 29.Kxe3 g5 30.g3 Rf1 31.c4 Rg1
+32.Kf2 Rh1 33.Kg2 Rh6 34.Rc1 Rf6 35.Rc2 a5 36.d5 a4 37.c5 Kf7
+38.Rc3 Rd8 39.d6 Rf8 40.Nc2 Ke8 41.Ne3 Rf2+ 42.Kh3 Rxa2 43.Nf5 a3
+44.Rc4 Ra1 45.Rxe4+ Kd7 46.Ra4 Kc6 47.Ra5 a2 48.Kg2 Rc1 49.Rxa2 Rxc5
+50.Re2 Rb8 51.Rd2 Rb7 52.b4 Re5 53.Kf3 h6 54.Rd4 Re6 55.b5+ Kd7
+56.Rb4 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.28"]
+[Round "1"]
+[White "Cluster Toga"]
+[Black "Hiarcs"]
+[Result "1/2-1/2"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Be7
+9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.g5 Nh5 13.Kb1 Qc7 14.Nd5 Bxd5
+15.exd5 Nb6 16.Na5 Nxd5 17.Qxd5 Qxa5 18.Bd3 g6 19.Qb7 Rfe8 20.Be4 Qa4
+21.Bc6 Rab8 22.Qa7 Rec8 23.c3 Ng7 24.h4 Nf5 25.Bb6 Rf8 26.Bf2 Rfd8
+27.Ka1 Kg7 28.Be4 Re8 29.h5 Qc4 30.Qxa6 Bxg5 31.Rhg1 Kf6 32.Ba7 Rbd8
+33.hxg6 hxg6 34.Bb6 Rb8 35.Qa7 Qe6 36.Rd3 Rh8 37.Rgd1 Rbc8 38.Bb7 Rcf8
+39.Bc7 Kg7 40.Be4 Be7 41.Bb6 Bd8 42.Bf2 Bh4 43.Bb6 Bd8 44.Bf2 Bh4
+45.Bb6 Bd8 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.28"]
+[Round "1"]
+[White "Jonny"]
+[Black "Sjeng"]
+[Result "1-0"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 Be7 5.Bg5 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 c6
+9.h4 Be7 10.g4 f6 11.Be2 Bd7 12.O-O-O b5 13.Rdg1 Na6 14.g5 h5 15.gxf6 Bxf6
+16.Ng5 bxc4 17.Bxh5 e5 18.Bg6 exd4 19.exd4 Nb4 20.Qd1 Be8 21.Bh7+ Kh8
+22.Ne6 Kxh7 23.Nxd8 Nd3+ 24.Kb1 Rxd8 25.Rh3 Kg8 26.Rxd3 cxd3
+27.Qxd3 Bxh4 28.Nd1 Bd7 29.Ka1 Rf4 30.Qe3 Rdf8 31.Qe5 R4f7 32.Qc7 Be8
+33.Qb8 a5 34.Re1 Bd7 35.Qa7 Bd8 36.a4 Be8 37.Qb8 Bd7 38.Qb7 Be8 39.Qc8 Bd7
+40.Qa6 Rf4 41.Qb7 R8f7 42.Qa8 Rf8 43.Qa7 Be8 44.Re6 R4f7 45.Qc5 Rf4
+46.Nc3 Bd7 47.Nxd5 R4f5 48.Rxc6 Bxc6 49.Qxc6 Rxf2 50.Ka2 Kh7
+51.Nc3 R2f4 52.Qd6 g6 53.Nd5 R4f7 54.Ne3 Bf6 55.Nc4 Rd8 56.Qe6 Kg7
+57.d5 Re7 58.Qc6 Rb8 59.d6 Reb7 60.Kb1 Rb4 61.Qc7+ Kf8 62.d7 R4b7
+63.Qc8+ Kg7 64.Kc1 Rb4 65.Nd6 Bg5+ 66.Kd1 Rd4+ 67.Kc2 Rd2+ 68.Kc3 Rxd6
+69.Qxb8 Rxd7 70.Qb5 Bf6+ 71.Kc2 Rc7+ 72.Kb1 Ra7 73.Qb6 Rd7 74.Qxa5 g5
+75.Qb4 Kg6 76.a5 Rd4 77.Qb8 Rf4 78.a6 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.28"]
+[Round "1"]
+[White "Falcon"]
+[Black "Mobile Chess"]
+[Result "1-0"]
+
+1.d4 Nf6 2.Nc3 d5 3.e4 dxe4 4.Bg5 Bf5 5.Nge2 Nc6 6.d5 Nb4 7.Bxf6 exf6
+8.a3 Na6 9.Nd4 Bd7 10.Bxa6 bxa6 11.Nxe4 Qe7 12.O-O Qe5 13.Qd3 Qxd5
+14.Nc3 Qb7 15.Rfe1+ Kd8 16.Qc4 Rc8 17.Qxf7 Qb6 18.Rad1 Bd6 19.Qxg7 Rf8
+20.Na4 Qxd4 21.Rxd4 Rb8 22.Nc5 Rf7 23.Qxf7 Bb5 24.Qf8+ Be8 25.Rxe8++# 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.29"]
+[Round "2"]
+[White "The Baron"]
+[Black "Mobile Chess"]
+[Result "1-0"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nbd2 Qa5 5.e3 Ne4 6.Bd3 Bg4 7.Qb3 Bxf3
+8.Qxb7 Bxg2 9.Rg1 Nxd2 10.Bxd2 Qb6 11.Qxa8 dxc4 12.Bxc4 Bd5
+13.Bxd5 cxd5 14.Rc1 Kd7 15.Qxd5+ Qd6 16.Qb5+ Ke6 17.e4 Qxd4
+18.Rc6+ Nxc6 19.Qxc6+ Qd6 20.Qc8+ Qd7 21.Qc4+ Kf6 22.Bg5+ Kg6 23.Bxe7+ Kh5
+24.Qe2+ Kh6 25.Qe3+ Kh5 26.Qg5# 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.29"]
+[Round "2"]
+[White "Hiarcs"]
+[Black "Jonny"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6
+8.c3 O-O 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4 Nc6
+14.a3 Bd7 15.d5 Na5 16.Nf1 Rfc8 17.Bd3 Bd8 18.Ng3 h6 19.Rb1 Qa7 20.Rf1 Kh8
+21.Nh4 Nxd5 22.exd5 Bxh4 23.Be3 Qb7 24.Qh5 Be7 25.Nf5 Bxf5 26.Qxf5 g6
+27.Qxf7 Bf8 28.Qxg6 Qg7 29.b3 Nb7 30.b4 Rc3 31.Rbc1 Qxg6 32.Bxg6 Rxc1
+33.Rxc1 Kg7 34.Bf5 a5 35.Bc8 Nc5 36.bxc5 Rxc8 37.c6 Be7 38.Rb1 Bd8
+39.Rxb5 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.29"]
+[Round "2"]
+[White "Sjeng"]
+[Black "Falcon"]
+[Result "1-0"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Nf3 Bg7
+8.Rb1 O-O 9.h4 Nc6 10.d5 Na5 11.c4 Bg4 12.Bd3 b6 13.O-O Qd6 14.Re1 Rad8
+15.Bg5 Rfe8 16.Qe2 Nc6 17.Qe3 f6 18.Nh2 Bc8 19.Bf4 e5 20.Bh6 Nd4
+21.Bxg7 Kxg7 22.Nf3 Re7 23.Rb2 Bd7 24.Bc2 Rb8 25.Qa3 Qc7 26.Nd2 Ree8
+27.Ra1 b5 28.Bd1 b4 29.Qg3 Rb6 30.h5 a5 31.Nb3 Rd6 32.Nxd4 cxd4 33.Be2 Rb8
+34.f4 Rdb6 35.fxe5 Qxe5 36.Qxe5 fxe5 37.c5 Rf6 38.hxg6 Rxg6 39.Rc1 Bh3
+40.Bh5 Rg5 41.c6 Rxh5 42.gxh3 Rh6 43.Rg2+ Kf7 44.Rc5 Ra8 45.Rb5 Ra7
+46.Rb8 Rc7 47.Rbg8 Kf6 48.d6 Rxc6 49.d7 Rd6 50.d8=Q+ 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.29"]
+[Round "2"]
+[White "Rybka"]
+[Black "Shredder"]
+[Result "1-0"]
+
+1.e4 c5 2.Nc3 d6 3.Nge2 Nf6 4.d4 cxd4 5.Nxd4 a6 6.h3 e6 7.g4 d5 8.exd5 Nxd5
+9.Bd2 Nc6 10.Nxc6 bxc6 11.Bg2 Be7 12.O-O a5 13.Ne2 h5 14.gxh5 Bf6 15.c4 Ne7
+16.Nc3 Ra6 17.Qe2 Nf5 18.Rad1 Nd4 19.Qd3 Nf5 20.Qxd8+ Bxd8 21.h6 Nxh6
+22.Na4 Be7 23.Be3 Nf5 24.Bb6 Kf8 25.Rfe1 f6 26.Bxc6 Rxh3 27.c5 Kf7
+28.Be4 Rh4 29.Nc3 Rg4+ 30.Kf1 Rf4 31.Rd3 Rxb6 32.cxb6 Ba6 33.b7 Bd6
+34.a4 Rxe4 35.Nxe4 Bxd3+ 36.Kg1 Bxe4 37.Rxe4 Ke7 38.Rc4 Kd7 39.Rc8 Nd4
+40.b8=Q Bxb8 41.Rxb8 Kd6 42.Kg2 g5 43.Rg8 Kc5 44.Rg6 f5 45.Rxg5 Kb4
+46.Rg8 Kxa4 47.Rb8 Nc2 48.f4 Nb4 49.Kf3 Kb3 50.Rb5 Kxb2 51.Ke3 Kc1
+52.Rxa5 Kd1 53.Rb5 Nd5+ 54.Kf3 Kd2 55.Rb8 Kd3 56.Rd8 Kd4 57.Re8 Ne3
+58.Rxe6 Nc4 59.Kg3 Kd5 60.Re8 Kd6 61.Kh4 Kd7 62.Re1 Nd6 63.Kg5 Kc6
+64.Re6 Kb7 65.Rxd6 Kc8 66.Kxf5 Kc7 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.29"]
+[Round "2"]
+[White "Junior"]
+[Black "Cluster Toga"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2
+9.Rb1 Qa3 10.e5 dxe5 11.fxe5 Nfd7 12.Ne4 h6 13.Bh4 Qxa2 14.Rd1 Qd5
+15.Qe3 Qxe5 16.Be2 Bc5 17.Bg3 Qd5 18.Bf3 O-O 19.Qc3 e5 20.Nb3 Bd4
+21.Nxd4 exd4 22.Rxd4 Qe6 23.Rd6 Qe7 24.Rd2 Nf6 25.Bd6 Nxe4 26.Bxe7 Nxc3
+27.Bxf8 Nc6 28.Bxc6 bxc6 29.Rd8 Bb7 30.Rxa8 Bxa8 31.Be7 c5 32.Bxc5 Bxg2
+33.Rg1 Ne4 34.Bd4 Ng5 35.Rxg2 Nf3+ 36.Ke2 Nxd4+ 37.Kd3 Ne6 38.Ke4 Kf8
+39.Rf2 g5 40.Kd5 Ke7 41.c4 h5 42.c5 g4 43.Kc6 h4 44.Kb6 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.30"]
+[Round "3"]
+[White "Falcon"]
+[Black "Hiarcs"]
+[Result "0-1"]
+
+1.e4 c5 2.Nc3 g6 3.g3 Nc6 4.f4 Bg7 5.Nf3 d6 6.Bg2 e6 7.O-O Nge7 8.d3 O-O
+9.Be3 Nd4 10.Qd2 Rb8 11.a3 Bd7 12.e5 Nef5 13.Bxd4 cxd4 14.Ne4 dxe5
+15.Nxe5 Ne3 16.Rf2 Be8 17.c3 Nxg2 18.Kxg2 dxc3 19.Nxc3 Qb6 20.Kg1 Rd8
+21.Re1 f6 22.Nf3 g5 23.fxg5 fxg5 24.Qe3 Qxe3 25.Rxe3 Bh5 26.Ne5 Rf5
+27.Rxf5 exf5 28.Kf1 h6 29.Kg2 Rd4 30.Kg1 f4 31.gxf4 gxf4 32.Re1 b5
+33.Kf1 a5 34.Kg1 b4 35.axb4 axb4 36.Na2 Rd5 37.Nc6 Rg5+ 38.Kf1 b3
+39.Nab4 f3 40.d4 Rg2 41.Nd3 Rxh2 42.Re6 Bg4 43.Re8+ Kh7 44.Re7 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.30"]
+[Round "3"]
+[White "Mobile Chess"]
+[Black "Sjeng"]
+[Result "0-1"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6
+8.O-O-O h6 9.Be3 Bd7 10.f4 b5 11.Bd3 Be7 12.Rhe1 O-O 13.Nxc6 Bxc6 14.Bd4 b4
+15.Nb1 e5 16.fxe5 dxe5 17.Bxe5 Qa5 18.Bd4 Rfd8 19.c3 Rac8 20.e5 Rxd4
+21.exf6 Bxf6 22.cxd4 Ba4+ 23.Bc2 Bg5 24.b3 Bxb3 25.axb3 Qa2
+26.Re8+ Rxe8 27.Qxg5 hxg5 28.g3 Rc8 29.Rd2 Qxb3 30.d5 Qa2 31.Kd1 Rxc2
+32.Rxc2 Qxb1+ 33.Kd2 b3 34.Rc8+ Kh7 35.d6 Qa2+ 36.Ke3 Qxh2 37.Kf3 g4+
+38.Kxg4 Qe2+ 39.Kh4 g6 40.Kh3 Qe6+ 41.Kh2 Qxc8 42.Kg2 b2 43.Kh2 Qc2+
+44.Kh3 b1=Q 45.Kh4 Qh2+ 46.Kg4 Qf5++# 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.30"]
+[Round "3"]
+[White "Shredder"]
+[Black "The Baron"]
+[Result "1/2-1/2"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6 8.c4 c6
+9.cxd5 cxd5 10.Nc3 Nxc3 11.bxc3 O-O 12.Qh5 g6 13.Qxd5 Qc7 14.Bh6 Rfe8
+15.h3 Be6 16.Qg5 Qxc3 17.Rfd1 Qxd4 18.Bxg6 Qe5 19.Be4+ Qxg5 20.Bxg5 Be5
+21.Rac1 Bxa2 22.Bxb7 Rab8 23.Bd5 Bb3 24.Rd3 Bxd5 25.Rxd5 a6 26.g4 Rb5
+27.Rcc5 Rxc5 28.Rxc5 f6 29.Be3 Ra8 30.f4 Bd6 31.Ra5 Bb4 32.Ra4 a5
+33.Bd4 Kf7 34.Kf2 h5 35.f5 hxg4 36.hxg4 Rh8 37.Kg2 Rd8 38.Bb6 Rd5
+39.Kf3 Rb5 40.Be3 Bc5 41.Rc4 Bxe3 42.Rc7+ Kf8 43.Kxe3 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.30"]
+[Round "3"]
+[White "Jonny"]
+[Black "Junior"]
+[Result "0-1"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 Nc6 7.d4 a6 8.e3 e5
+9.d5 Ne7 10.e4 b5 11.Qb3 c5 12.Qc2 b4 13.Ne2 Bd7 14.Ne1 a5 15.Nd3 a4
+16.f4 exf4 17.Bxf4 Nc8 18.e5 dxe5 19.Nxe5 Bf5 20.Qd2 Re8 21.Nc6 Qd7
+22.Ne5 Qa7 23.Nc6 Qa6 24.d6 Be4 25.d7 Qxc6 26.dxe8=Q+ Qxe8 27.Rae1 Bxg2
+28.Kxg2 Qc6+ 29.Kg1 Nb6 30.Qd3 Ne4 31.b3 f5 32.Rd1 g5 33.Bc1 Qe6 34.Qf3 Rf8
+35.Kh1 h6 36.Be3 Nd7 37.Qg2 a3 38.Rd3 Ndf6 39.Bg1 Qc8 40.Qf3 Qc6
+41.Rfd1 Re8 42.Qg2 Qc8 43.Rf3 Ng4 44.h3 Ngf6 45.Rfd3 g4 46.hxg4 Nxg4
+47.Rf1 Kh8 48.Rd5 Be5 49.Qf3 Ngf6 50.Rd3 Rg8 51.Qxf5 Qc6 52.Rd5 Rg5
+53.Qf3 Nxd5 54.Qxe4 Qd7 55.Kg2 Nc3 56.Qa8+ Kh7 57.Be3 Rh5 58.Ng1 Bg7
+59.Qf3 Re5 60.Bf4 Re8 61.Rf2 Qf5 62.Qb7 Qe4+ 63.Qxe4+ Rxe4 64.Nf3 Ne2
+65.Nd2 Re6 66.Nf3 Bb2 67.Be5 Nc3 68.Rc2 Nd1 69.Bf4 Re4 70.Rd2 Nc3
+71.Rd7+ Kg8 72.Rd8+ Kf7 73.Bxh6 Re2+ 74.Kf1 Re8 75.Rd7+ Kf6 76.Bg5+ Ke6
+77.Rc7 Nxa2 78.Rxc5 Ra8 79.Rb5 Bc3 80.Rb6+ Kf5 81.Kf2 Bh8 82.Rb5+ Ke6
+83.Rb6+ Kd7 84.Rb7+ Kc6 85.Re7 Nc1 86.Ne1 Nxb3 87.Nc2 Bc3 88.Re6+ Kc5
+89.Be7+ Kxc4 90.Rc6+ Kb5 91.Rxc3 bxc3 92.Nxa3+ Ka4 93.Nc2 Nd2
+94.Nd4 Re8 95.Bh4 Kb4 96.Ne2 c2 97.Nc1 Ne4+ 98.Kf3 Kc3 99.Na2+ Kd2
+100.g4 Kd1 101.Kf4 Nc5 102.Kf5 Rf8+ 103.Ke5 Ra8 104.Nc3+ Kd2
+105.Nd5 Re8+ 106.Kf5 Rf8+ 107.Nf6 Kd1 108.Bg5 Rxf6+ 109.Bxf6 c1=Q
+110.Kg6 Qc2+ 111.Kh6 Ne4 112.Kh7 Nxf6+ 113.Kg7 Nxg4 114.Kf7 Qe4 115.Kg8 Qe7
+116.Kh8 Kc1 117.Kg8 Nf6+ 118.Kh8 Qf8++# 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.30"]
+[Round "3"]
+[White "Cluster Toga"]
+[Black "Rybka"]
+[Result "1/2-1/2"]
+
+1.e4 c5 2.Nf3 a6 3.c3 e6 4.d4 d5 5.e5 Bd7 6.Bd3 cxd4 7.cxd4 Bb5
+8.Bxb5+ axb5 9.Nc3 b4 10.Nb5 Ra5 11.a4 bxa3 12.Qb3 axb2 13.Bxb2 Rxa1+
+14.Bxa1 Nh6 15.Bc3 Be7 16.Bd2 O-O 17.Bxh6 gxh6 18.O-O Kg7 19.Nc3 Nc6
+20.Qxb7 Qa8 21.Rb1 Bb4 22.Qxa8 Rxa8 23.Ne2 Kf8 24.Rc1 Ra6 25.h4 Ke8
+26.Rc2 Kd7 27.g3 Ra3 28.Kg2 Ba5 29.Rb2 Kc7 30.Nf4 Bc3 31.Rc2 Ba1 32.Ne2 Kd7
+33.Rd2 Ra4 34.h5 Ke7 35.Kf1 Rb4 36.Rd1 Bb2 37.Rb1 Rb3 38.Ne1 Ke8 39.f4 Ke7
+40.Kg2 Na5 41.Rd1 Re3 42.Kf2 Rb3 43.Rd3 Rb5 44.Nc2 Nb3 45.Ke1 Rb7 46.Kd1 f6
+47.exf6+ Kxf6 48.Ke1 Na5 49.Kf2 Rb8 50.Ne3 Nc4 51.Ng4+ Kg7 52.Ne5 Nd6
+53.Kf3 Rb7 54.Kg2 Ne4 55.Ng4 Rb8 56.f5 exf5 57.Ne3 Kf6 58.Nxd5+ Kg5
+59.Kf3 Rb3 60.Re3 Ra3 61.Nef4 Rxe3+ 62.Nxe3 Nd6 63.Ned5 Bc1 64.Nd3 Bd2
+65.Ke2 Ne4 66.Nc5 Nc3+ 67.Nxc3 Bxc3 68.d5 Kf6 69.d6 Bb4 70.d7 Ke7
+71.Ne6 Kxd7 72.Nd4 Ba3 73.Kf3 Bc1 74.Nxf5 Ke6 75.Ke4 Kf6 76.Nd4 Kg5
+77.Ne2 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.30"]
+[Round "4"]
+[White "The Baron"]
+[Black "Sjeng"]
+[Result "1/2-1/2"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 dxc4 5.Bg2 Be7 6.O-O O-O 7.Qc2 a6
+8.a4 Bd7 9.Qxc4 Bc6 10.Bg5 a5 11.Nc3 Ra6 12.e3 Rb6 13.Qe2 Nbd7
+14.Nb5 Re8 15.Rfc1 Bxf3 16.Bxf3 c6 17.Na3 Bxa3 18.Rxa3 e5 19.dxe5 Nxe5
+20.Bg2 Rb4 21.Qc2 Qb6 22.b3 Ned7 23.Bxf6 Nxf6 24.Rd1 g6 25.Rd6 Ng4
+26.Bf3 Ne5 27.Be2 h5 28.Qc3 Qc7 29.Rd1 Qe7 30.Ra2 Qe6 31.Rb2 h4
+32.Rd4 c5 33.Rxh4 Rxh4 34.gxh4 b6 35.Kg2 Qe7 36.Kg3 g5 37.h5 g4 38.Rd2 Qg5
+39.Rd6 Qxh5 40.h4 Kg7 41.Rxb6 Rh8 42.Kf4 f6 43.Rb7+ Nf7 44.Bc4 Qh6+
+45.Kf5 Qh7+ 46.Kf4 Qh6+ 47.Kf5 Qh7+ 48.Kf4 Qh6+ 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.30"]
+[Round "4"]
+[White "Hiarcs"]
+[Black "Mobile Chess"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qe2 f5 6.exf6 d5 7.Nbd2 Qxf6
+8.Nxe4 dxe4 9.Qxe4+ Qe7 10.Qxe7+ Bxe7 11.Nxd4 Bf6 12.Nb5 Kd8
+13.Bf4 Re8+ 14.Be2 Be5 15.Bg5+ Bf6 16.Bxf6+ gxf6 17.O-O-O+ Bd7
+18.Bf3 Kc8 19.Nc3 Be6 20.Rhe1 Bd7 21.Rxe8+ Bxe8 22.Nd5 c6 23.Nxf6 Bf7
+24.Nxh7 Bg8 25.Nf6 Be6 26.Re1 Bc4 27.Re8+ Kc7 28.h4 Kb6 29.h5 Bf7
+30.Rf8 Be6 31.h6 Bf5 32.Be4 Na6 33.Rxa8 Bxe4 34.Nxe4 Nc7 35.h7 Nxa8
+36.h8=Q Nc7 37.Qd4+ Ka6 38.Nc5+ Kb5 39.b3 Ne6 40.Nxe6 Ka6 41.Qa4+ Kb6
+42.Qb4+ Ka6 43.Nc5++# 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.30"]
+[Round "4"]
+[White "Junior"]
+[Black "Falcon"]
+[Result "1/2-1/2"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.d3 Nf6 5.O-O Be7 6.Bc4 Na5 7.Nxe5 Nxc4
+8.Nxc4 fxe4 9.dxe4 d5 10.exd5 Qxd5 11.Qxd5 Nxd5 12.Rd1 Nb4 13.Ne3 Bg4
+14.Rd4 Bh5 15.Nc3 O-O 16.a3 Nc6 17.Rc4 Bd6 18.Bd2 Bf7 19.Ned5 Rad8
+20.Bg5 Bxd5 21.Nxd5 Bxh2+ 22.Kxh2 Rxd5 23.Be3 Re8 24.b3 h6 25.Re1 Re7
+26.Kg1 Kf7 27.Kf1 a6 28.f3 g5 29.Kf2 Kg6 30.g4 Na5 31.Ra4 Nc6
+32.f4 gxf4 33.Rxf4 Rd6 34.Rh1 Kg7 35.Rh3 Rde6 36.a4 Re8 37.b4 Re5
+38.Rhf3 Kg8 39.a5 R5e7 40.Rh3 Re6 41.Bc5 Re2+ 42.Kg3 Kg7 43.c3 Kg6
+44.Rf5 Rc2 45.Rf3 Rc1 46.Kh4 Rd1 47.Rf4 Ree1 48.Be3 Rd3 49.Bf2 Rxh3+
+50.Kxh3 Re2 51.Kg3 Ne5 52.Bd4 Nc6 53.Rf6+ Kg5 54.Rf5+ Kg6 55.Bg1 Re7
+56.Bf2 Rd7 57.Kh4 Rd2 58.Bg3 Ne7 59.Rf8 Kg7 60.Rf3 Ng6+ 61.Kh3 Rd7
+62.Bh2 Kg8 63.Bg1 Ne5 64.Rg3 Kf7 65.Re3 Kf6 66.Bf2 Nd3 67.Bh4+ Kf7
+68.Kg3 c5 69.Re4 cxb4 70.cxb4 Kg7 71.Kf3 Kg8 72.Ke3 Kf7 73.Ke2 Kg7
+74.Bg3 Kg6 75.Bb8 h5 76.gxh5+ Kxh5 77.Ba7 Kg6 78.Kf3 Kf5 79.Ke3 Ne5
+80.Rf4+ Ke6 81.Rh4 Nc6 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.30"]
+[Round "4"]
+[White "Rybka"]
+[Black "Jonny"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 O-O
+8.a4 Bb7 9.Re1 Re8 10.c3 Bc5 11.Bd2 h6 12.Na3 Qb8 13.Nh4 d6 14.Qf3 b4
+15.Nf5 Bc8 16.Nxh6+ Kh7 17.Bxf7 Rf8 18.Nc4 bxc3 19.bxc3 Kh8 20.d4 Bxd4
+21.Bg5 Nh7 22.cxd4 Be6 23.Qh5 Bxf7 24.Nxf7+ Kg8 25.Nh6+ Kh8 26.dxe5 Qe8
+27.Qh3 Nxe5 28.Nxe5 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.09.30"]
+[Round "4"]
+[White "Shredder"]
+[Black "Cluster Toga"]
+[Result "1/2-1/2"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Nb3 Nbd7
+9.Qf3 Qc7 10.O-O-O b5 11.Bd3 Be7 12.Kb1 b4 13.Ne2 Bb7 14.g4 O-O
+15.Bxf6 Bxf6 16.g5 Be7 17.Rhg1 Nc5 18.Nxc5 dxc5 19.Bc4 Rad8 20.h4 g6
+21.Rde1 Qc6 22.Ng3 Rd4 23.Qf1 Qc7 24.h5 Rfd8 25.hxg6 hxg6 26.Qh3 Bf8
+27.f5 exf5 28.exf5 Qd7 29.Be2 Rd2 30.Qf1 Bd5 31.b3 Bg7 32.f6 Bf8 33.Qf4 Rd4
+34.Qf2 Qh3 35.Rh1 Qg2 36.Qe3 Bc6 37.Bc4 R8d7 38.Qe5 Qf2 39.Ref1 Qg2
+40.Ne2 Rxc4 41.Qb8 Qxh1 42.Rxh1 Bxh1 43.bxc4 Rd2 44.Qe5 Bc6 45.Kc1 Rd8
+46.Qc7 Rd6 47.Nf4 Be4 48.Qa5 Rd4 49.Qxa6 Bb7 50.Qxb7 Rxf4 51.Kb2 Rxc4
+52.Qg2 Rd4 53.a4 bxa3+ 54.Kxa3 Bd6 55.Kb2 Rb4+ 56.Kc3 Ra4 57.Kd3 Rd4+
+58.Ke2 Rh4 59.Ke3 Bf4+ 60.Kd3 Bd6 61.c4 Rd4+ 62.Kc3 Be5 63.Kb3 Bd6
+64.Qe2 Rh4 65.Ka4 Bf8 66.Kb5 Rd4 67.Qh2 Bd6 68.Qg2 Bf8 69.Qg1 Rd2
+70.Qe3 Rd1 71.Qe2 Rd4 72.Qe3 Rd1 73.Qe4 Rd8 74.Qf4 Rd4 75.Qf1 Rg4
+76.Qc1 Bd6 77.Qd1 Rd4 78.Qa1 Rd3 79.Kc6 Bf8 80.Qa2 Rd4 81.Qc2 Rd8
+82.Qb3 Rc8+ 83.Kd7 Ra8 84.Qf3 Ra6 85.Qd5 Re6 86.Kc7 Kh8 87.Qh1+ Kg8
+88.Qg2 Rd6 89.Qf2 Ra6 90.Qf3 Kh7 91.Kb7 Rd6 92.Kc7 Ra6 93.Qe2 Re6
+94.Qd2 Kg8 95.Qd5 Kh8 96.Qf3 Kg8 97.Qf4 Ra6 98.Qc1 Re6 99.Qf1 Bd6+
+100.Kd7 Bf8 101.Qg2 Rd6+ 102.Kc7 Re6 103.Qh3 Bd6+ 104.Kb7 Bf8
+105.Qa3 Re4 106.Qh3 Re6 107.Ka7 Re4 108.Kb6 Rxc4 109.Kc6 Rd4
+110.Qe3 Rg4 111.Kd7 c4 112.Ke8 Rg2 113.Qc1 Rg4 114.Qe3 Rg2 115.Qc1 Rg4
+116.Qe3 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.01"]
+[Round "5"]
+[White "Cluster Toga"]
+[Black "The Baron"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6 8.c4 c6
+9.cxd5 cxd5 10.Nc3 Nxc3 11.bxc3 O-O 12.Qh5 g6 13.Qxd5 Qc7 14.Bh6 Rfe8
+15.h3 Be6 16.Qg5 Qxc3 17.Rfd1 Qxd4 18.Bxg6 Qe5 19.Rxd6 Qxa1+
+20.Bb1+ Kh8 21.Kh2 a6 22.Qh4 Qe5+ 23.f4 Qa1 24.Rd1 f5 25.Bxf5 Qb2
+26.Bg5 Bxf5 27.Bf6+ Qxf6 28.Qxf6+ Kg8 29.Qxf5 Re7 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.01"]
+[Round "5"]
+[White "Falcon"]
+[Black "Rybka"]
+[Result "0-1"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Qc7 6.Nc3 Nc6 7.Be3 Nf6
+8.O-O Ne5 9.h3 Bc5 10.Kh1 d6 11.f4 Ng6 12.Qe1 O-O 13.Nf3 Bxe3
+14.Qxe3 e5 15.f5 Nf4 16.g3 Nxd3 17.cxd3 b5 18.Rfc1 Qe7 19.Rc2 d5
+20.Nxd5 Nxd5 21.exd5 f6 22.Qe4 Qf7 23.Rac1 Bb7 24.Rc7 Rac8 25.Rxc8 Bxc8
+26.d6 Bb7 27.Qe3 Qd5 28.Kg2 Qxd6 29.Kf2 Rd8 30.d4 exd4 31.Qe6+ Qxe6
+32.fxe6 d3 33.Rc7 Bc8 34.e7 Re8 35.Nd4 Bxh3 36.Nc6 h5 37.Ke3 Bg2
+38.Kxd3 Bxc6 39.Rxc6 Rxe7 40.Rxa6 Re1 41.Ra3 g5 42.Rb3 Kg7 43.Kd2 Re5
+44.Rb4 Kg6 45.Rd4 Kf5 46.Kd3 h4 47.gxh4 g4 48.Rd7 Kf4 49.Rf7 f5
+50.h5 Kf3 51.Kd4 Re4+ 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.01"]
+[Round "5"]
+[White "Mobile Chess"]
+[Black "Junior"]
+[Result "0-1"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Nd7 10.Nd3 f5 11.Bd2 Nf6 12.f3 f4 13.c5 c6 14.dxc6 Nxc6
+15.Nb5 dxc5 16.Qb3+ Kh8 17.Bc3 a6 18.Na3 b5 19.Nxe5 Nd4 20.Qd1 Nxe2+
+21.Qxe2 b4 22.Rfd1 Qc7 23.Bxb4 cxb4 24.Nac4 Nh5 25.Ng4 Bxg4 26.fxg4 f3
+27.gxf3 Nf4 28.Qf1 Rac8 29.Nd6 Qa7+ 30.Kh1 Rc2 31.Nc4 Rf2 32.Qe1 Rxf3
+33.Rd6 Qf7 34.Rc6 Nd3 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.01"]
+[Round "5"]
+[White "Jonny"]
+[Black "Shredder"]
+[Result "1/2-1/2"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 e6 6.Bf4 a6 7.e4 Qb6 8.Nb3 Bb4
+9.Qd3 d5 10.exd5 exd5 11.cxd5 Ne7 12.d6 Ned5 13.Be5 O-O 14.O-O-O Bxc3
+15.bxc3 Qxf2 16.Qd2 Qxd2+ 17.Rxd2 Re8 18.Bxf6 Nxf6 19.g3 Re3 20.Bg2 Rb8
+21.Kb2 b6 22.c4 Be6 23.Rc1 Nd7 24.Rc3 Rxc3 25.Kxc3 Rc8 26.Rd4 a5
+27.Bd5 Bxd5 28.Rxd5 f6 29.Nd4 Kf7 30.Nb5 Re8 31.Nc7 Re3+ 32.Rd3 Re1
+33.Rd2 Rc1+ 34.Kb3 g5 35.Rd4 f5 36.Ka4 Rb1 37.Ka3 Kf6 38.g4 Re1
+39.gxf5 Kxf5 40.Rd2 Ke4 41.Kb2 g4 42.Kc2 Ke5 43.Nb5 Re4 44.Kc3 Kf6
+45.Nc7 h5 46.Na8 Re1 47.Nc7 Re4 48.Na8 h4 49.Rb2 Re3+ 50.Kd4 Rh3
+51.Nxb6 Nxb6 52.c5 Na4 53.Re2 Nc3 54.Re8 Nb5+ 55.Ke4 Nc3+ 56.Kd4 Nb5+
+57.Ke4 Nc3+ 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.01"]
+[Round "5"]
+[White "Sjeng"]
+[Black "Hiarcs"]
+[Result "0-1"]
+
+1.d4 d5 2.c4 c6 3.Nc3 dxc4 4.e4 b5 5.a4 b4 6.Na2 Nf6 7.e5 Nd5 8.Bxc4 e6
+9.Nf3 a5 10.Be3 Be7 11.O-O Bb7 12.Nc1 Nd7 13.Nd3 Nxe3 14.fxe3 O-O 15.Rc1 c5
+16.Bb5 cxd4 17.Nxd4 Nb6 18.Qe2 Rc8 19.Rxc8 Nxc8 20.Qf2 Nb6 21.Rc1 Bg5
+22.Kh1 Nd5 23.Nf4 Qb6 24.Nxd5 Bxd5 25.Qg3 Bh6 26.Be2 Rd8 27.Rd1 g6
+28.b3 Bg7 29.h3 Qc7 30.Qh4 Rf8 31.e4 Ba8 32.Nf3 Qc2 33.Nd4 Qxe4
+34.Qxe4 Bxe4 35.Bf3 Rd8 36.Bxe4 Bxe5 37.Kg1 Bxd4+ 38.Kf1 e5 39.Ke2 f5
+40.Bd3 Rc8 41.g4 Rf8 42.Rc1 e4 43.Bb5 f4 44.Rd1 f3+ 45.Kf1 Ba7
+46.Rd7 Bc5 47.Rd5 Rc8 48.Bc4 Kg7 49.g5 Rc7 50.Re5 e3 51.Re8 h6
+52.Bd5 f2 53.gxh6+ Kxh6 54.Bc4 Rd7 55.Be2 Rd2 56.h4 Rb2 57.Bc4 Rb1+
+58.Kg2 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.03"]
+[Round "6"]
+[White "The Baron"]
+[Black "Hiarcs"]
+[Result "1/2-1/2"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Nh4 Bg4 7.h3 Bh5
+8.g4 Bg6 9.Nxg6 hxg6 10.e3 e6 11.Bxc4 Bb4 12.Bd2 Nbd7 13.Qb3 Qa5 14.Ke2 Nb6
+15.Bd3 O-O-O 16.Ne4 Nbd5 17.Rac1 Nxe4 18.Bxb4 Qxb4 19.Qxb4 Nxb4 20.Bxe4 g5
+21.Rc5 f6 22.Rc3 Kc7 23.a5 Rh6 24.Ra3 Rdh8 25.Bg2 a6 26.Rc1 Nd5
+27.Rb3 g6 28.Rg1 R6h7 29.Ra3 Rf7 30.Raa1 Kd6 31.Ra2 Rff8 32.Raa1 Rd8
+33.Rac1 Ke7 34.Bf1 Rh4 35.Rg3 Re8 36.Kd3 Kd6 37.Bg2 Reh8 38.Ke2 R4h6
+39.Rh1 Ke7 40.Be4 Nc7 41.Kd2 Rd8 42.Bd3 Nd5 43.Bc4 Rh7 44.Ra1 e5
+45.dxe5 fxe5 46.Ke2 Nf6 47.Bd3 Kf7 48.Bc2 Kg7 49.Rd1 Rxd1 50.Kxd1 Rh6
+51.e4 Rh7 52.Ke2 Kf8 53.Rf3 Ke7 54.Kd3 Rh8 55.Kc4 Rf8 56.Rb3 Rb8 57.Kb4 Ke6
+58.Kc4 Nd7 59.Bd1 Kd6 60.Rf3 Ke7 61.Bc2 b5+ 62.axb6 Nxb6+ 63.Kb3 Nd5+
+64.Ka2 Nf4 65.Ra3 Ra8 66.Ba4 Kd6 67.Rc3 Rc8 68.b4 c5 69.Bd1 Rc7
+70.bxc5+ Rxc5 71.Ra3 Rc1 72.Rxa6+ Kc5 73.Ba4 Rf1 74.Be8 Rxf2+
+75.Kb1 Kc4 76.Bxg6 Nxh3 77.Ra5 Nf4 78.Rxe5 Nxg6 79.Rxg5 Ne7 80.Rg7 Nc6
+81.Rc7 Rf1+ 82.Kb2 Kb5 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.03"]
+[Round "6"]
+[White "Shredder"]
+[Black "Falcon"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Bc4 Qc7
+8.Bb3 h6 9.Bxf6 Nxf6 10.Nd5 Nxd5 11.exd5 g6 12.O-O Bg7 13.c3 Bd7 14.a4 O-O
+15.Re1 Bf6 16.a5 b5 17.Nc2 Qc5 18.Qf3 Bg5 19.Qg3 Kh7 20.Nb4 Bf6 21.Re2 Kg7
+22.h3 Bf5 23.Rae1 Rfe8 24.Bc2 Bd7 25.h4 Qc4 26.h5 Qg4 27.Qxg4 Bxg4
+28.f3 Bd7 29.hxg6 fxg6 30.Nd3 Kf7 31.Nb4 Kg7 32.Nd3 Kf7 33.Re3 Rac8
+34.Nb4 Rc4 35.R3e2 Ra8 36.Bd3 Rc5 37.g3 h5 38.f4 Bg4 39.Re3 Bd7 40.Bb1 Bg4
+41.Kg2 Ra7 42.Rf1 Bc8 43.Ba2 Ra8 44.Nd3 Rc7 45.Rh1 Bb7 46.f5 gxf5
+47.Rxh5 b4 48.c4 Rb8 49.Bb3 Bc8 50.Re1 Bd7 51.c5 Bb5 52.cxd6 exd6
+53.Nf4 Bd7 54.Rh7+ Kg8 55.Rh6 Kf7 56.Ne6 Ra7 57.Re2 Rab7 58.Rf2 Bxe6
+59.dxe6+ Kg7 60.Rh5 Rb5 61.Rhxf5 Rxf5 62.Rxf5 Kg6 63.Rd5 Be5 64.Rd2 Rc8
+65.g4 Kg5 66.Kf3 Rf8+ 67.Ke4 Rc8 68.Rc2 Rxc2 69.Bxc2 Kf6 70.Kd5 b3
+71.Bxb3 Ke7 72.Kc6 Bf6 73.Kb6 1-0
+
+ 
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.03"]
+[Round "6"]
+[White "Cluster Toga"]
+[Black "Jonny"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6 8.c4 c6
+9.cxd5 cxd5 10.Nc3 Nxc3 11.bxc3 O-O 12.Bd2 Qh4 13.g3 Qg4 14.Qxg4 Bxg4
+15.Rfb1 b6 16.a4 Bc7 17.Kg2 Rae8 18.h3 Be2 19.Bb5 Re6 20.Re1 Bxb5
+21.axb5 Rxe1 22.Rxe1 Bd6 23.Kf3 Rc8 24.Bf4 Bxf4 25.Kxf4 Kf8 26.Ra1 Rxc3
+27.Rxa7 Rb3 28.g4 Rxb5 29.Ke5 h6 30.h4 f6+ 31.Ke6 Kg8 32.Ra2 Rb1
+33.Ra8+ Kh7 34.Kxd5 b5 35.Rb8 b4 36.h5 b3 37.Kc4 Rc1+ 38.Kd3 Rd1+
+39.Ke3 Rb1 40.Ke2 Rb2+ 41.Kd3 Rb1 42.f3 b2 43.Kc3 Rf1 44.Rxb2 Rxf3+
+45.Kc4 Rf4 46.Kc5 Kg8 47.d5 Rxg4 48.d6 Kf7 49.Rb8 Rg1 50.d7 Rc1+
+51.Kd6 Rd1+ 52.Kc7 Rc1+ 53.Kb7 Rb1+ 54.Kc8 Rc1+ 55.Kd8 Rc5 56.Rb7 f5
+57.Rb8 f4 58.Rb4 Rxh5 59.Rxf4+ Ke6 60.Rd4 Ke5 61.Kc8 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.03"]
+[Round "6"]
+[White "Rybka"]
+[Black "Mobile Chess"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e6 7.g4 d5 8.exd5 Nxd5
+9.Bd2 Bc5 10.Nb3 Ba7 11.Bg2 Qf6 12.Qe2 Nf4 13.Bxf4 Qxf4 14.Nd5 Qxf2+
+15.Qxf2 Bxf2+ 16.Kxf2 exd5 17.Rhe1+ Kf8 18.Bxd5 h5 19.Rad1 g5 20.gxh5 Rxh5
+21.Bf3 g4 22.Rd8+ Kg7 23.hxg4 Rh2+ 24.Kg3 Rxc2 25.Ree8 Nd7 26.Rg8+ Kf6
+27.Rde8 Rc4 28.Nd2 Rxg4+ 29.Bxg4 Nc5 30.Bxc8 a5 31.Nc4 Ne6 32.Nb6 Ra7
+33.Bxe6 Ke5 34.Bxf7+ Kd4 35.Rg5 Kd3 36.Bb3 Kd2 37.Nc4+ 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.03"]
+[Round "6"]
+[White "Junior"]
+[Black "Sjeng"]
+[Result "1/2-1/2"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.O-O Bxd5 13.exd5 Ne7 14.c3 Bg7
+15.Qh5 e4 16.Bc2 O-O 17.Rae1 Qc8 18.Kh1 Rb8 19.g4 Nxd5 20.gxf5 Nf6
+21.Qh4 Qxf5 22.Rg1 h6 23.Bb3 Qf3+ 24.Rg2 Kh8 25.Bd1 Qf5 26.Nc2 Nd5
+27.Nd4 Qh7 28.Rxe4 Bf6 29.Qg4 Rg8 30.Qf3 Rxg2 31.Kxg2 Rg8+ 32.Kf1 Be5
+33.Rh4 Bf6 34.Bc2 Qg7 35.Re4 Bxd4 36.Rxd4 Nf6 37.Qg3 d5 38.a4 bxa4
+39.Rxa4 Qxg3 40.hxg3 Rb8 41.Ra2 Kg7 42.Ke2 a5 43.Kd2 Rb6 44.f3 Rb5
+45.Ke3 h5 46.Kd4 Kf8 47.Ba4 Rb6 48.Kc5 Re6 49.b4 axb4 50.cxb4 Re3
+51.b5 Nd7+ 52.Kd6 Nb6 53.Bd1 Rc3 54.Rc2 Rb3 55.Kc6 Nc4 56.Ra2 Rc3
+57.b6 Ne3+ 58.Kb5 Nxd1 59.Ra4 Rb3+ 60.Rb4 Re3 61.b7 Re8 62.Kc6 Kg7
+63.Ra4 Rb8 64.Ra8 Rxb7 65.Kxb7 d4 66.Kc6 d3 67.Rd8 Nf2 68.Rd5 f5
+69.f4 h4 70.gxh4 Kg6 71.Kd7 Kh5 72.Rd6 Kxh4 73.Rd4 Kg3 1/2-1/2
+
+ 
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Falcon"]
+[Black "Cluster Toga"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Be7
+9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.g5 b4 13.Ne2 Ne8 14.f4 a5 15.f5 Bc4
+16.Ng3 Bxf1 17.Rhxf1 a4 18.Na1 a3 19.b3 Kh8 20.f6 gxf6 21.Nf5 fxg5
+22.Qxb4 Rb8 23.Qxa3 Ra8 24.Qb2 Ra6 25.c3 Ng7 26.Nxg7 Qa8 27.a4 Kxg7
+28.Qg2 Kh8 29.Nc2 f5 30.Nb4 Ra5 31.Nd5 Rxd5 32.exd5 f4 33.Bg1 Rb8
+34.Qc2 Nf6 35.c4 Bf8 36.Qf5 Qb7 37.Rf3 Bg7 38.Rc3 Qb4 39.Kb2 Qxa4
+40.Ra1 Qd7 41.Qxd7 Nxd7 42.Ra6 e4 43.Rxd6 Nf8 44.c5 e3 45.Kc2 Bxc3
+46.Kxc3 Kg7 47.c6 Kf7 48.b4 Re8 49.Kd3 Ke7 50.Rh6 Kd8 51.b5 Kc7 52.d6+ Kb6
+53.d7 Rb8 54.h4 Kc7 55.hxg5 Rxb5 56.Bh2 Rb4 57.Rf6 Ng6 58.Re6 Nh8
+59.g6 hxg6 60.Rf6 e2 61.Rxf4 Rb3+ 62.Kc4 Rc3+ 63.Kb5 Rb3+ 64.Rb4+ Kd8
+65.Rxb3 e1=Q 66.c7+ Kxd7 67.Rd3+ Ke7 68.Bd6+ Kf6 69.Rf3+ Kg5
+70.Rg3+ Kf6 71.c8=Q Qe2+ 72.Kb6 Qb2+ 73.Ka5 Qa2+ 74.Ba3 Qd2+
+75.Kb5 Qe2+ 76.Ka4 Qd1+ 77.Rb3 Nf7 78.Qc3+ Ke6 79.Qc6+ Kf5 80.Qc5+ Ne5
+81.Bb2 Qd7+ 82.Rb5 Qd1+ 83.Ka3 Qd3+ 84.Bc3 Qg3 85.Qd4 Kf6 86.Rxe5 Qxe5
+87.Qxe5+ Kf7 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Jonny"]
+[Black "The Baron"]
+[Result "1-0"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O Nbd7
+9.Qb3 a5 10.Nh4 Bg4 11.f3 Bh5 12.g4 Bg6 13.Be2 Nb6 14.g5 Ng8 15.f4 Ne7
+16.Nxg6 hxg6 17.Na2 Bd6 18.e4 Nec8 19.Be3 Be7 20.Rf3 Qc7 21.Nc3 Rh4
+22.d5 exd5 23.exd5 Kf8 24.dxc6 bxc6 25.Bf2 Rh7 26.Rd1 Nd7 27.Ne4 Ncb6
+28.Bg3 Qa7 29.Rc1 Rc8 30.Kh1 c5 31.f5 c4 32.Rxc4 Nxc4 33.fxg6 Rh8
+34.Bxc4 Qd4 35.Bf1 Ke8 36.Qb7 Rd8 37.Bb5 Qd1+ 38.Rf1 Qd4 39.Qc6 Rh3
+40.Nd6+ Kf8 41.Nxf7 Nf6 42.Nxd8 Qxd8 43.Qe6 Qa8+ 44.Bc6 Qxc6+ 45.Qxc6 Rxh2+
+46.Bxh2 Kg8 47.Qa8+ Bf8 48.gxf6 gxf6 49.Rxf6 Kg7 50.Qxf8++# 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Hiarcs"]
+[Black "Junior"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4 5.Nxe4 Nf6 6.Qe2 d5 7.Nxf6+ gxf6
+8.d4 Bg7 9.c4 Bg4 10.dxe5 O-O 11.Bxc6 bxc6 12.e6 Re8 13.O-O Qd6 14.Qd3 dxc4
+15.Qxc4 Bxf3 16.gxf3 Qxe6 17.Qxe6+ Rxe6 18.Be3 f5 19.Rab1 Rd8 20.b3 Rd5
+21.Rbc1 Be5 22.f4 Bb2 23.Rc4 a5 24.Re1 Ba3 25.Re2 Rg6+ 26.Kf1 Rd1+
+27.Re1 Rd5 28.Bc1 Bd6 29.Re8+ Kf7 30.Ra8 Rh6 31.Kg2 Rg6+ 32.Kf3 Rh6
+33.Ra7 Rxh2 34.Rxc6 Rh4 35.Be3 Rh3+ 36.Kg2 Rh4 37.Rca6 Rg4+ 38.Kf3 h5
+39.Rxa5 Rxa5 40.Rxa5 Kf6 41.Ra8 h4 42.Rh8 Kg7 43.Rh5 Kg6 44.Rg5+ Rxg5
+45.fxg5 h3 46.a4 f4 47.Ba7 Bb4 48.Bb8 Ba5 49.b4 Bxb4 50.Bxc7 Kxg5
+51.a5 Kg6 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Mobile Chess"]
+[Black "Shredder"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 Nc6 7.d5 Ne5 8.Be3 e6
+9.Qd2 a6 10.O-O-O b5 11.cxb5 exd5 12.exd5 axb5 13.Bxb5 Ba6 14.Qe2 Bxb5
+15.Qxb5 Re8 16.Bd4 Qc8 17.f4 c6 18.dxc6 Nxc6 19.Bxf6 Bxf6 20.Rxd6 Bxc3
+21.Rxc6 Re1+ 22.Kc2 Qg4 23.Qg5 Qd1+ 24.Kxc3 Re3+ 25.Kc4 Qc2+
+26.Kb5 Qa4+ 27.Kc5 Ra5+ 28.Kb6 Ra6+ 29.Kc5 Rxc6+ 30.Kd5 Qc4++# 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.03"]
+[Round "7"]
+[White "Sjeng"]
+[Black "Rybka"]
+[Result "0-1"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.Nc3 Nc6 8.e3 O-O
+9.O-O Re8 10.d5 Na5 11.Nd4 Bd7 12.e4 Rc8 13.Bf4 c5 14.Nf3 Nac4 15.Qc2 Nxb2
+16.Qxb2 Na4 17.Nxa4 Bxb2 18.Nxb2 f6 19.Rac1 b5 20.a4 c4 21.Bd2 c3
+22.Bxc3 bxa4 23.Nd1 e5 24.Re1 Qb6 25.Ra1 Rb8 26.Re2 Rec8 27.Rea2 Qc5
+28.Rc1 Qc4 29.Rac2 Qa6 30.Nd2 Rc5 31.Ne3 Rb7 32.Ba1 Rxc2 33.Rxc2 a3
+34.Bf1 Bb5 35.Ndc4 a2 36.Rc3 Kf8 37.Kg2 Rc7 38.Be2 Rc5 39.h3 Ke7 40.h4 Bxc4
+41.Bxc4 Qa4 42.Kh2 Kd7 43.d6 Qb4 44.Rc2 Rxc4 45.Rxc4 Qe1 46.Bc3 Qxf2+
+47.Ng2 a6 48.Ra4 Qe2 49.Ba1 h5 50.Bc3 Kxd6 51.Ra3 Kc5 52.Ra4 Kb6 53.Ra3 Qc2
+54.Ba1 Qb1 55.Bc3 Kb7 56.Ra5 Ka7 57.Ra3 Qc1 58.Rxa2 Qxc3 59.Re2 a5
+60.Ne1 a4 61.Nc2 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.04"]
+[Round "8"]
+[White "Jonny"]
+[Black "Falcon"]
+[Result "1/2-1/2"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.d4 O-O 5.Nc3 d5 6.cxd5 Nxd5 7.Bg2 Nc6
+8.O-O Nb6 9.d5 Na5 10.e4 c6 11.Bf4 cxd5 12.exd5 Bxc3 13.bxc3 Qxd5
+14.Nd4 Qc5 15.Re1 Rd8 16.Qe2 e6 17.Nb5 Rd7 18.Qe5 Qxe5 19.Bxe5 Nac4
+20.Bf4 e5 21.Bxe5 Nxe5 22.Rxe5 Kg7 23.a4 a6 24.Nd4 Rc7 25.a5 Nc4 26.Re8 Rc5
+27.Rd8 Nb2 28.Ne2 Nc4 29.Bh3 b5 30.Nd4 Nb2 31.Rc1 Na4 32.c4 bxc4 33.Bg2 Rb8
+34.h4 Rc7 35.Nc6 Rb5 36.Rxc4 Nc5 37.Rd1 Rd7 38.Nd4 Rxa5 39.Kh2 Rc7
+40.Rdc1 Be6 41.R4c2 Bf5 42.Nxf5+ gxf5 43.Bf1 Kg6 44.Rc3 f6 45.R1c2 h5
+46.Rc4 Rb5 47.R2c3 Ra5 48.Be2 Ra2 49.Bf3 Ra5 50.Bd1 Rb5 51.Bc2 a5 52.Kg2 a4
+53.Rf3 Na6 54.Bxa4 Re5 55.Rxc7 Nxc7 56.Rd3 Na6 57.Rd8 Nc5 58.Be8+ Kh6
+59.Bf7 Re7 60.Bc4 Kg6 61.Rg8+ Kh6 62.Rh8+ Kg6 63.Bb5 Ne4 64.Rd8 Re5
+65.Bc4 Rc5 66.Rd4 Rc8 67.f3 Nc5 68.Rd2 Re8 69.Rd5 Re5 70.Rd6 Re7 71.Bb5 Re5
+72.Bc6 Re2+ 73.Kf1 Re5 74.Kf2 Kg7 75.Rd2 Ne6 76.Rd7+ Kg6 77.Rd6 Nc7
+78.Ba4 Nb5 79.Rd3 Rc5 80.Rd7 Nc3 81.Bb3 Kh6 82.Bf7 Re5 83.Bc4 Rc5
+84.Bg8 Re5 85.Rd2 Kg7 86.Bb3 Kg6 87.Rd3 Nb5 88.Rd7 Nc3 89.Bc4 Kh6
+90.Rd3 Na4 91.Rd6 Kg6 92.Rd7 Nc3 93.Kg2 Kh6 94.Rd3 Nb5 95.Kf2 Kg6
+96.Rd8 Nc3 97.Rd4 Kh6 98.Rd2 Kg6 99.Rd8 Rc5 100.Bg8 Re5 101.Rd3 Na4
+102.Ba2 Rc5 103.Bb3 Nb6 104.f4 Rc8 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.04"]
+[Round "8"]
+[White "Cluster Toga"]
+[Black "Mobile Chess"]
+[Result "1-0"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.exd6 exd6 6.Nc3 Qe7+ 7.Be3 h5
+8.c5 dxc5 9.dxc5 Bg4 10.Nf3 Nc8 11.Nd5 Qd7 12.Bf4 Qe6+ 13.Be2 Na6
+14.O-O Ne7 15.Qa4+ Kd8 16.Bxa6 Qxd5 17.Rad1 bxa6 18.Rxd5+ Nxd5
+19.Rd1 Be6 20.Qc6 Rc8 21.Rxd5+ Bxd5 22.Qxd5+ Bd6 23.Qxf7 Be7
+24.Qd5+ Ke8 25.Ne5 Rb8 26.Qf7+ Kd8 27.Qe6 Ke8 28.Bg5 Kf8 29.Qf7++# 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.04"]
+[Round "8"]
+[White "Rybka"]
+[Black "Hiarcs"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Rb8
+8.Nc4 Nf6 9.Bg5 b5 10.Bxf6 Qxf6 11.Ne3 Be7 12.a4 bxa4 13.Rxa4 Rxb2
+14.Ncd5 Qg6 15.Bxa6 Bd7 16.Nc7+ Kd8 17.Qa1 Rb8 18.Bb5 Bg5 19.Ned5 Ne7
+20.O-O Nxd5 21.Nxd5 Bxb5 22.Ra8 Rxa8 23.Qxa8+ Kd7 24.Qb7+ Ke6
+25.Nc7+ Kf6 26.Nxb5 Qh5 27.Nxd6 Rf8 28.Nf5 Kg6 29.Qb6+ Bf6 30.Ne7+ Kh6
+31.f3 Qg5 32.Nf5+ Kg6 33.f4 exf4 34.h4 Qg4 35.Qd6 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.04"]
+[Round "8"]
+[White "The Baron"]
+[Black "Junior"]
+[Result "0-1"]
+
+1.d4 Nf6 2.c4 g6 3.f3 d5 4.cxd5 Nxd5 5.e4 Nb6 6.Nc3 Bg7 7.Be3 O-O 8.Qd2 e5
+9.d5 c6 10.h4 h5 11.Be2 cxd5 12.exd5 N8d7 13.d6 Nf6 14.Bg5 Be6
+15.Nh3 Rc8 16.Nf2 Nc4 17.Bxc4 Rxc4 18.Bxf6 Bxf6 19.Nfe4 Bg7
+20.O-O-O Rd4 21.Qg5 Qc8 22.Kb1 f5 23.Ng3 Kh7 24.Nge2 Bc4 25.Qe3 Qc5
+26.Nxd4 exd4 27.Na4 Qxd6 28.Qa3 Qc6 29.Nc5 b5 30.Rhe1 Rc8 31.Nb3 d3
+32.Rd2 Bh6 33.Na5 Qb6 34.Qe7+ Kg8 35.Nxc4 bxc4 36.Qd7 Rf8 37.Qd5+ Kh8
+38.Qe5+ Bg7 39.Qe3 Qb5 40.a4 Qa5 41.Rc1 f4 42.Qf2 Qb4 43.Rdd1 Qb3
+44.Rd2 Rb8 45.a5 Rb5 46.Re2 Rxa5 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.04"]
+[Round "8"]
+[White "Shredder"]
+[Black "Sjeng"]
+[Result "1/2-1/2"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.O-O Bxd5 13.exd5 Ne7 14.Nxb5 Bg7
+15.Nc3 e4 16.Bc4 O-O 17.Qd2 Ng6 18.Rab1 Qh4 19.Be2 Qf4 20.Qd1 Qh6
+21.g3 Rac8 22.Qc1 Qxc1 23.Rfxc1 Bxc3 24.bxc3 Rxc3 25.Bxa6 Ra3
+26.Rb6 Rd8 27.Bc4 Ne5 28.Bb3 Kf8 29.c4 h5 30.Rc2 Nd3 31.Kf1 Ke7 32.Ke2 Nc5
+33.Ke3 h4 34.Rb5 hxg3 35.hxg3 Rh8 36.Kd4 Rh1 37.Rd2 Nd7 38.Rb7 Ke8
+39.Ke3 Nc5 40.Rb6 Ke7 41.Re2 Nd3 42.Rd2 Ra7 43.Rc2 Kd7 44.Rd2 Kc7
+45.Rc6+ Kd7 46.Rb6 Kc7 47.Rb5 Ra3 48.Rxd3 exd3 49.Kxd3 Rc1 50.Kd4 Rb1
+51.f3 Ra6 52.c5 dxc5+ 53.Rxc5+ Kd6 54.Rc8 Rg1 55.Rg8 Rb6 56.Rg5 Rb4+
+57.Kc3 Rb7 58.Kd3 Ke7 59.Rxf5 Rxg3 60.Ke4 Rg2 61.Ke5 Re2+ 62.Kd4 Rd2+
+63.Ke5 Rb6 64.d6+ Rbxd6 65.Rxf7+ Ke8 66.Ra7 Rb6 67.Bc4 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.04"]
+[Round "9"]
+[White "Mobile Chess"]
+[Black "Jonny"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6
+8.Nc3 Nxc3 9.bxc3 O-O 10.Qh5 f5 11.Re1 c6 12.Bg5 Qc7 13.c4 Bb4
+14.Re2 Bc3 15.Rd1 Rf7 16.cxd5 cxd5 17.Re5 Bxd4 18.Rxd5 Be5 19.Be3 g6
+20.Qh4 Bf6 21.Qh6 Bc6 22.Bf4 Qb6 23.Rd6 Qb4 24.a3 Qa4 25.Re1 Be4
+26.Bxe4 fxe4 27.Re6 Rd8 28.g3 Qxc2 29.R1xe4 Rff8 30.Kg2 Qd1 31.a4 Qd5
+32.f3 Qa2+ 33.Kh3 Qb1 34.Kg4 Qd3 35.Be3 Bg7 36.Qh3 Qd5 37.Bg5 h6
+38.Rxg6 Qf5+ 39.Kh4 Qxg6 40.Qe6+ Qxe6 41.Rxe6 hxg5+ 42.Kxg5 Rfe8
+43.Rxe8+ Rxe8 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.04"]
+[Round "9"]
+[White "Junior"]
+[Black "Rybka"]
+[Result "1/2-1/2"]
+
+1.e4 c5 2.Nf3 a6 3.c3 e6 4.d4 d5 5.e5 Bd7 6.dxc5 Bxc5 7.Bd3 Qc7
+8.O-O Ne7 9.Re1 Ng6 10.Nbd2 Qb6 11.Nd4 Nc6 12.N2b3 Ngxe5 13.Nxc5 Qxc5
+14.Bf4 Nxd3 15.Qxd3 O-O 16.Qg3 Nxd4 17.Bd6 Qb6 18.cxd4 Rfc8 19.Be5 g6
+20.Qf4 Qd8 21.Re3 Rc2 22.Rh3 f5 23.Rg3 Be8 24.h4 Qe7 25.Rc1 Rac8
+26.Rxc2 Rxc2 27.h5 Bf7 28.a3 b5 29.Bd6 Qd8 30.h6 Qf6 31.Bc5 Be8 32.Qb8 Kf7
+33.Qd6 Rc1+ 34.Kh2 Kg8 35.Re3 Qh4+ 36.Rh3 Qf6 37.b4 Re1 38.f4 Re4 39.Qb6 g5
+40.fxg5 Qf7 41.Kg1 Rg4 42.Qd8 f4 43.Rf3 Qg6 44.Be7 Qb1+ 45.Rf1 Rxg2+
+46.Kxg2 Qe4+ 47.Kg1 Qe3+ 48.Rf2 Qg3+ 49.Kf1 Qh3+ 50.Ke2 Qe3+
+51.Kd1 Qd3+ 52.Rd2 Qb1+ 53.Ke2 Qe4+ 54.Kf1 Qf3+ 55.Ke1 Qh1+ 56.Kf2 Qh2+
+57.Kf3 Qg3+ 58.Ke2 Qe3+ 59.Kd1 Qb3+ 60.Rc2 Qd3+ 61.Kc1 Qxa3+
+62.Kb1 Qb3+ 1/2-1/2
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.04"]
+[Round "9"]
+[White "Falcon"]
+[Black "The Baron"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.Nc3 Be6 11.Ne5 f6 12.Nf3 Kh8 13.Re1 c5 14.cxd5 Nxc3
+15.bxc3 Nxd5 16.Bd2 cxd4 17.Nxd4 Bf7 18.Bd3 Rc8 19.Qf3 Nxc3 20.Qh3 g6
+21.Bxg6 Bxg6 22.Bxc3 Rf7 23.Ne6 Qd3 24.Re3 Qf5 25.Ng5 Qxh3 26.Nxf7+ Kg7
+27.Rxh3 Kxf7 28.Bd4 b6 29.Bb2 b5 30.Rc3 Rxc3 31.Bxc3 b4 32.Bd4 a5 33.f3 a4
+34.Kf2 Bf5 35.Ke3 Be6 36.g4 a3 37.h3 Kg6 38.f4 f5 39.g5 Bf8 40.Be5 Kh5
+41.Kf3 Bd5+ 42.Kg3 Kg6 43.h4 h6 44.Rc1 h5 45.Rc8 Be7 46.Rc7 Bf8 47.Ra7 Bxa2
+48.Ra6+ Kf7 49.g6+ Ke8 50.Ra8+ Ke7 51.Bd4 Be6 52.Bc5+ Kf6 53.Rxf8+ Kg7
+54.Re8 Bc4 55.Bxb4 a2 56.Bc3+ Kxg6 57.Rf8 Bf7 58.Kf2 Bc4 59.Rf6+ Kh7
+60.Rxf5 1-0
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.04"]
+[Round "9"]
+[White "Sjeng"]
+[Black "Cluster Toga"]
+[Result "0-1"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.g4 dxc4
+8.g5 Nd5 9.Bxc4 b6 10.Bd2 Bb7 11.Ne4 Bc7 12.O-O-O Qe7 13.Rhg1 a5
+14.Rg4 O-O-O 15.Be2 Kb8 16.Kb1 h6 17.gxh6 gxh6 18.Rdg1 N5f6
+19.Nxf6 Nxf6 20.Rh4 Rdg8 21.Rc1 Rg2 22.Be1 h5 23.Rh3 Nd5 24.a3 h4
+25.Qd3 Qf6 26.Ka1 Qg7 27.Rxh4 Rxh4 28.Nxh4 Rxh2 29.Nf3 Rh1 30.Qc2 Qg2
+31.Qd1 f5 32.Nd2 Rh2 33.Bf3 Qg6 34.Qb3 Qg7 35.Qd3 Qd7 36.Be2 Rh3 37.Qc2 Qg7
+38.Nc4 Rh8 39.Kb1 a4 40.Bf3 Rh3 41.Nd2 b5 42.Bxd5 cxd5 43.Nf1 f4 44.Qc5 Qd7
+45.Qf8+ Ka7 46.Bb4 Bc6 47.Qc5+ Kb7 48.Ka1 Rh1 49.Qc3 Rg1 50.Ba5 Bd6
+51.Qc2 Rg2 52.Qd2 f3 53.Ka2 e5 54.Ng3 Rh2 55.Ka1 Bb8 56.Nf1 Rh4
+57.Qd1 e4 58.Nd2 Rh2 59.Qe1 Rg2 60.Rc2 Bd6 61.Nb1 Qc8 62.Rc1 Qe8 63.Nc3 Qa8
+64.Nd1 Qc8 65.Kb1 Qd7 66.Nc3 Qh7 67.Na2 Qh2 68.Nb4 Rxf2 69.Qc3 Bd7
+70.Nxd5 Rg2 71.Nf6 Rg1 72.Nxe4 Rxc1+ 73.Kxc1 f2 74.Nxf2 Qxf2 75.Qe1 Qg2
+76.Kb1 Be6 77.Bc3 Ka6 78.Qd2 Qh1+ 79.Qe1 Qd5 80.Qf1 Be7 81.Qf2 Qa2+
+82.Kc1 Qa1+ 83.Kd2 Qh1 84.Bb4 Bh4 0-1
+
+[Event "16th WCCC"]
+[Site "Beijing, China"]
+[Date "2008.10.04"]
+[Round "9"]
+[White "Hiarcs"]
+[Black "Shredder"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be7 8.Be3 Be6
+9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.g5 b4 13.Ne2 Ne8 14.f4 a5 15.f5 a4
+16.Nbd4 exd4 17.Nxd4 b3 18.Kb1 bxc2+ 19.Nxc2 Bb3 20.axb3 axb3
+21.Na3 Ne5 22.h4 Ra4 23.Bd4 Qa8 24.Qe3 Bd8 25.Rh3 Nc7 26.Rg3 Nc6 27.Bc3 Ne5
+28.Bxe5 dxe5 29.Qxb3 Be7 30.Nc2 Rb8 31.Qc3 Ne8 32.Rd7 Bd6 33.Bc4 Qxe4
+34.Bxf7+ Kh8 35.Qf3 Ra1+ 36.Kxa1 Qxc2 37.Bb3 Qc1+ 38.Ka2 e4 39.Qe3 Qc6
+40.Ra7 Bxg3 41.Qxg3 Qb6 42.Ra3 Qd6 43.Qc3 Qe7 44.Qd4 Rd8 45.Ra7 Rxd4
+46.Rxe7 Rd8 47.Rxe4 Ra8+ 48.Ra4 Rc8 49.Rf4 Ra8+ 50.Kb1 Nd6 51.f6 Rf8
+52.h5 gxf6 53.gxf6 Nf7 54.Bxf7 Rxf7 55.h6 Rd7 56.Re4 Rd8 1-0
+

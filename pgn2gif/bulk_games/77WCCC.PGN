@@ -1,0 +1,570 @@
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "01"]
+[White "Duchess"]
+[Black "Kaissa"]
+[Result "1-0"]
+[ECO "B01/05"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.Nf3 g6 5.Be2 Bg7 6.c4 Nb6 7.Nc3 O-O
+8.Be3 Bg4 9.c5 Nd5 10.O-O e6 11.Qb3 b6 12.Nxd5 exd5 13.Bg5 Qd7
+14.h3 Bf5 15.Qc3 Re8 16.Rfe1 Be4 17.Nd2 Qf5 18.Be3 Qe6 19.Nxe4 dxe4
+20.cxb6 cxb6 21.Rec1 Nd7 22.Bg4 Qd5 23.Qc6 Nf6 24.Be2 Rad8 25.Qa4 Re7
+26.Bb5 Qf5 27.Rc2 Nd5 28.Rac1 Bf6 29.Qb3 a5 30.g4 Qe6 31.Rc6 a4 32.Qxa4 Rd6
+33.Rxd6 Qxd6 34.Qa8+ Re8 35.Qxe8+ Kg7 36.g5 Bd8 37.Bc4 Qe7 38.Qxe7 Nxe7
+39.Bf4 Nf5 40.Bd5 Kf8 41.Rc8 Ke7 42.Rc4 Ng7 43.Bxe4 Ne6 44.Be3 Nc7
+45.d5 Nb5 46.Bf3 Kd7 47.a4 Nd6 48.Rc6 Nf5 1-0
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "01"]
+[White "Chess 4.6"]
+[Black "Bcp"]
+[Result "1-0"]
+[ECO "C44/10"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Qe7 5.cxd4 Qxe4+ 6.Be2 d5 7.Nc3 Bb4
+8.O-O Bxc3 9.Bd3 Qe7 10.bxc3 Nf6 11.Qb3 Ne4 12.Re1 Qe6 13.Ng5 Qd7 14.f3 f5
+15.fxe4 fxe4 16.Bxe4 dxe4 17.Rxe4+ Ne7 18.Qf7+ Kd8 19.Qxg7 Qe8 20.Nf7+ Kd7
+21.Nxh8 Kd6 22.Rxe7 Qxe7 23.Ba3+ Kc6 24.Qxe7 h5 25.Qc5+ Kd7 26.Re1 a6
+27.Qd5# 1-0
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "01"]
+[White "Chute 1.2"]
+[Black "Master"]
+[Result "0-1"]
+[ECO "B07/01"]
+
+1.e4 d6 2.Nc3 g6 3.Bc4 Be6 4.Bxe6 fxe6 5.Nf3 Nc6 6.Qe2 Bg7 7.O-O Qd7
+8.a3 O-O-O 9.b3 d5 10.exd5 exd5 11.Ra2 d4 12.Nd1 d3 13.cxd3 Qd5
+14.Bb2 e5 15.Re1 Qxb3 16.Nc3 Nd4 17.Qe4 Nxf3+ 18.Qxf3 Nh6 19.Qe3 Rd4
+20.Ba1 Ng4 21.Qh3 Kb8 22.Re4 h5 23.Qg3 Qe6 24.h3 Nh6 25.f4 Nf5
+26.Qf3 Nd6 27.Rxd4 exd4 28.Nd5 c6 29.Nb4 Qe1+ 30.Qf1 Re8 31.Qxe1 Rxe1+
+32.Kf2 Rh1 33.a4 Kc7 34.Nc2 c5 35.Ne1 Nf5 36.Rc2 Kd6 37.Rb2 b6
+38.Rb1 h4 39.Rc1 Ng3 40.Kf3 Rf1+ 41.Kg4 Ne2 42.Rb1 Bf6 43.g3 hxg3 44.h4 g2
+45.Bxd4 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "01"]
+[White "Chaos"]
+[Black "Bs6676"]
+[Result "1-0"]
+[ECO "D09/02"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2 Be6 6.g3 h5 7.Bg2 d3
+8.O-O Rb8 9.exd3 Qxd3 10.Qb3 Qd8 11.Ne4 Nd4 12.Nxd4 Qxd4 13.Be3 Rd8
+14.Bxd4 Rxd4 15.Qxb7 Bxc4 16.Rfd1 Bd3 17.Qb8+ Kd7 18.Qxf8 c5
+19.Rxd3 Kc7 20.Qxc5+ Kb8 21.Qf8+ Kc7 22.Rxd4 Ne7 23.Qxe7+ Kb6 24.Qb4+ 1-0
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "01"]
+[White "Belle"]
+[Black "Black Knight"]
+[Result "1/2-1/2"]
+[ECO "B56/03"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bb5 Bd7 7.O-O Nxd4
+8.Qxd4 Bxb5 9.Nxb5 e5 10.Qa4 Nd7 11.Rd1 a6 12.Nxd6+ Bxd6 13.Rxd6 Qc7
+14.Rd3 b5 15.Qb3 O-O 16.Bg5 Nc5 17.Qc3 Ra7 18.Bd8 Rxd8 19.Qxc5 Rxd3
+20.Qxc7 Rxc7 21.cxd3 Rc2 22.b3 a5 23.f3 f6 24.a4 b4 25.f4 Rc3 26.fxe5 fxe5
+27.Rb1 Rxd3 28.Kf2 g5 29.Rb2 h5 30.Ke2 Rc3 31.Rb1 Rc2+ 32.Kf1 Rd2
+33.Rc1 Rb2 34.Rc8+ Kg7 35.Rc7+ Kf6 36.Rc6+ Kf7 37.Rc5 Rb1+ 38.Kf2 1/2-1/2
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "01"]
+[White "Ostrich"]
+[Black "Wita"]
+[Result "1-0"]
+[ECO "B50/01"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.Nc3 e6 5.O-O Be7 6.d3 Bd7 7.Be3 Nc6 8.Bb5 O-O
+9.Ng5 h6 10.Bxc6 Bxc6 11.Nh3 Kh7 12.Qf3 Nd7 13.Rfb1 Qa5 14.Qg4 Bf6
+15.Bd2 Bd4 16.Qh4 Qd8 17.Qxd8 Raxd8 18.Ne2 f5 19.Nxd4 cxd4 20.Nf4 Rde8
+21.Ne2 e5 22.exf5 Rxf5 23.f4 Nc5 24.Bb4 g6 25.fxe5 Rfxe5 26.Nxd4 Bd5
+27.c4 Nxd3 28.Bxd6 Re4 29.Nb5 Bxc4 30.Nxa7 Ra8 31.b3 Ba6 32.b4 Rxa7
+33.b5 b6 34.bxa6 Rxa6 35.Bc7 Nb4 36.a3 Nc2 37.Ra2 Re1+ 38.Rxe1 Nxe1
+39.Kf2 Nd3+ 40.Kf3 Nb4 41.Rb2 Nd5 42.Bd6 b5 43.Bc5 Rf6+ 44.Ke4 Nc7
+45.Rf2 Ne8 46.Rxf6 Nxf6+ 47.Kd3 Kg7 48.Bd4 Kf7 49.Bxf6 Kxf6 50.Kd4 Ke7
+51.Kc5 Kd8 52.Kxb5 Kc7 53.a4 g5 54.a5 Kb8 55.Kb6 Kc8 56.a6 Kb8
+57.g4 Ka8 58.a7 h5 59.gxh5 g4 60.h6 g3 61.h7 1-0
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "01"]
+[White "Elsa"]
+[Black "Blitz 5"]
+[Result "1/2-1/2"]
+[ECO "D53/01"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Nf3 O-O 6.Qb3 dxc4 7.Qxc4 Nbd7
+8.O-O-O Nb6 9.Qd3 Bd7 10.Ne5 Rc8 11.Qf3 Nfd5 12.Bxe7 Qxe7 13.Nxd7 Qxd7
+14.e4 Nxc3 15.Qxc3 Qa4 16.a3 Rfd8 17.Qc5 Rd6 18.Bb5 Qa5 19.f4 a6
+20.Be8 Qxc5+ 21.dxc5 Rxd1+ 22.Rxd1 Rxe8 23.cxb6 cxb6 24.b4 h6
+25.Kb2 Re7 26.Rd6 b5 27.g4 Rc7 28.Kb3 Kf8 29.e5 Rc4 30.Rd8+ Ke7 31.Rb8 Rc7
+32.h4 g6 33.g5 h5 34.Ra8 Kd7 35.Rb8 Kc6 36.Rd8 Rd7 37.Rxd7 Kxd7 38.Kc3 Kc6
+39.Kd4 b6 40.Ke4 a5 41.Kd4 a4 42.Ke4 Kd7 43.Kd4 Ke7 44.Ke4 Kf8
+45.Kd4 Ke8 1/2-1/2
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "01"]
+[White "Tell"]
+[Black "Dark Horse"]
+[Result "0-1"]
+[ECO "B02/03"]
+
+1.e4 Nf6 2.Nc3 Nc6 3.d4 d6 4.Bb5 Bd7 5.Bg5 e5 6.Bxf6 Qxf6 7.Nd5 Qd8
+8.Nf3 exd4 9.Nxd4 Be7 10.Bxc6 Bxc6 11.Nxc6 bxc6 12.Nb4 Qd7 13.Qd4 Bf6
+14.Qe3 Bxb2 15.Rb1 Bf6 16.Na6 O-O 17.Rb7 Rfc8 18.Rxa7 Qg4 19.O-O Rxa7
+20.Qxa7 Qxe4 21.Qb7 Rf8 22.Qxc7 Be5 23.Rd1 Qe2 24.Rb1 Qxa6 25.Rb8 g6
+26.Rxf8+ Kxf8 27.g3 Qc4 28.Qd8+ Kg7 29.f4 Bd4+ 30.Kg2 Qxc2+ 31.Kf3 Qf2+
+32.Kg4 Qxh2 33.Qa5 f5+ 34.Qxf5 gxf5+ 35.Kxf5 Qxg3 36.Ke4 c5 37.a4 Qg2+
+38.Kd3 Qf3+ 39.Kc4 Qxf4 40.a5 Qf1+ 41.Kd5 Be5 42.a6 Qf3+ 43.Kc4 Qe2+
+44.Kd5 Qxa6 45.Ke4 Qe2+ 46.Kd5 Qf3+ 47.Kc4 Bd4 48.Kb5 Qb7+ 49.Kc4 h6
+50.Kd3 Qb2 51.Kc4 Be5 52.Kd5 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "02"]
+[White "Kaissa"]
+[Black "Tell"]
+[Result "1-0"]
+[ECO "C67/02"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nxd4 6.Nxd4 exd4 7.Qxd4 Nc5
+8.Re1+ Ne6 9.Nc3 c5 10.Qe5 h5 11.Nd5 Be7 12.Bg5 Qa5 13.Bxe7 a6 14.Qxg7 Rh6
+15.Qg8+ Nf8 16.Qxf8# 1-0
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "02"]
+[White "Master"]
+[Black "Chess 4.6"]
+[Result "0-1"]
+[ECO "A09/05"]
+
+1.Nf3 d5 2.c4 dxc4 3.Na3 e6 4.Qa4+ Bd7 5.Qxc4 Nc6 6.e3 Nf6 7.Bd3 a6
+8.Nc2 b5 9.Qf4 Bd6 10.Qg5 O-O 11.O-O e5 12.Qh4 Qe7 13.Be4 Nxe4 14.Qxe4 Kh8
+15.g4 Na5 16.g5 Bc6 17.Qg4 Bxf3 18.Qxf3 Qxg5+ 19.Qg2 Qxg2+ 20.Kxg2 e4
+21.f3 exf3+ 22.Rxf3 f5 23.b3 Nc6 24.Bb2 Ne5 25.Bxe5 Bxe5 26.Raf1 g6
+27.h3 c5 28.d4 cxd4 29.exd4 Bd6 30.Ne3 Rfe8 31.R1f2 Rad8 32.Rd2 Bb4
+33.Rd3 Bf8 34.d5 Re5 35.a4 bxa4 36.bxa4 Bc5 37.d6 Bxd6 38.Nc4 Re6
+39.Nxd6 Rexd6 40.Rxd6 Rxd6 41.Rc3 Rd4 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "02"]
+[White "Dark Horse"]
+[Black "Chaos"]
+[Result "1/2-1/2"]
+[ECO "C46/01"]
+
+1.Nc3 e5 2.Nf3 Nc6 3.e4 Bb4 4.Nd5 Nf6 5.Nxb4 Nxb4 6.c3 Nc6 7.Qe2 O-O
+8.d4 d6 9.b3 Bg4 10.d5 Ne7 11.g3 c6 12.dxc6 bxc6 13.Bg5 Qa5 14.Qe3 Nfd5
+15.exd5 Nxd5 16.Qd2 Bxf3 17.b4 Qa3 18.Rg1 Qxc3 19.Qxc3 Nxc3 20.Be7 Rfe8
+21.Bxd6 Ne4 22.Bc5 Nxc5 23.bxc5 Rad8 24.Be2 Bxe2 25.Kxe2 Rd5
+26.Rac1 Red8 27.Rgd1 Rxd1 28.Rxd1 Re8 29.Rd6 Rc8 30.Kf3 a5 31.Ke4 f6
+32.Kf3 a4 33.Rd7 Ra8 34.Rd6 Ra6 35.Kg2 h6 36.h4 Kf7 37.h5 Kg8 38.f3 Kf8
+39.Rd8+ Ke7 40.Rd6 Kf8 41.Rd8+ Ke7 42.Rd6 Ke8 43.a3 Ke7 44.Kf2 Kf8
+45.Rd8+ Ke7 46.Rd6 Kf8 47.Rd8+ Kf7 48.Rd7+ Kg8 49.Rd8+ Kh7 50.Rc8 g5
+51.hxg6+ Kxg6 52.Rg8+ Kf7 53.Rc8 Ke6 54.Re8+ Kf7 55.Rc8 Kg6 56.Rg8+ Kh5
+57.g4+ Kh4 58.Rg6 h5 59.gxh5 Kxh5 60.Rxf6 Kg5 61.Re6 Kf5 62.Rh6 Kg5
+63.Rd6 Kf4 64.Rg6 Kf5 65.Rg4 Ra5 66.Rc4 Ke6 67.Ke2 Kd5 68.Re4 Rxc5
+69.Rxa4 Rc3 70.Ra7 c5 1/2-1/2
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "02"]
+[White "Black Knight"]
+[Black "Elsa"]
+[Result "1/2-1/2"]
+[ECO "C62/02"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 exd4 5.Qxd4 Bd7 6.Bxc6 Bxc6 7.Nc3 Qf6
+8.Be3 Be7 9.Nd5 Qxd4 10.Nxd4 Bxd5 11.exd5 O-O-O 12.Nb5 a6 13.Na7+ Kb8
+14.O-O-O Nf6 15.f3 Rhe8 16.Rhe1 Bf8 17.Rd2 Rxe3 18.Rxe3 Kxa7 19.Rd1 Rd7
+20.c4 b5 21.cxb5 axb5 22.Rb3 Ka6 23.Ra3+ Kb6 24.Rb3 g6 25.a4 Bh6+
+26.Kb1 Ka5 27.Rxb5+ Kxa4 28.Rb7 Re7 29.Rd3 Re1+ 30.Ka2 Re3 31.Rd4+ Ka5
+32.Rxc7 Bg5 33.h4 Ne8 34.Rxf7 Bf6 35.Re4 Rxe4 36.fxe4 Bxh4 37.Rxh7 1/2-1/2
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "02"]
+[White "Duchess"]
+[Black "Ostrich"]
+[Result "1-0"]
+[ECO "C43/01"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Be7 4.dxe5 Nxe4 5.Bd3 d5 6.exd6 Nxd6 7.O-O O-O
+8.Re1 Bg4 9.c3 Kh8 10.Bf4 Nc6 11.Nbd2 g5 12.Be3 Nf5 13.Qe2 Bxf3
+14.Nxf3 Nxe3 15.Qxe3 g4 16.Bf5 Rg8 17.Ne5 Nxe5 18.Qxe5+ Bf6 19.Qf4 Bg5
+20.Qe4 Bd2 21.Rad1 Qg5 22.Re2 Bf4 23.Rd7 Rge8 24.Qxe8+ Rxe8
+25.Rxe8+ Kg7 26.Be6 a5 27.Rxf7+ Kh6 28.Ree7 Qg6 29.Bf5 Qg8 30.Be4 Qd8
+31.Re6+ Kg5 32.Rf5+ Kh4 33.Rh6+ 1-0
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "02"]
+[White "Blitz 5"]
+[Black "Belle"]
+[Result "0-1"]
+[ECO "C67/01"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bxc6 dxc6
+8.Nc3 O-O 9.Qh5 Re8 10.d4 Be6 11.Bf4 Nb5 12.Nxb5 cxb5 13.Nf3 Qd7 14.Re3 a5
+15.h3 a4 16.Be5 Qc6 17.c3 h6 18.a3 Rad8 19.Nd2 Bg5 20.Re2 g6
+21.Qf3 Qxf3 22.Nxf3 Bc4 23.Ree1 c6 24.Nxg5 hxg5 25.Bf6 Rc8 26.Bxg5 Ra8
+27.Re7 Rxe7 28.Bxe7 Re8 29.Re1 Bb3 30.Re5 Ba2 31.f4 Be6 32.Bf6 Rf8
+33.h4 Bg4 34.Re7 Bc8 35.g3 Kh7 36.Kg2 Kg8 37.Kf3 b6 38.Ke4 Bf5+ 39.Ke3 Rc8
+40.Kf3 Rb8 41.Re5 Bc2 42.d5 cxd5 43.Rxd5 b4 44.axb4 Re8 45.Rd6 Be4+
+46.Ke3 b5 47.Rd4 Bc6+ 48.Be5 Bg2 49.Kf2 Bc6 50.Ke2 Bg2 51.Ke3 f6
+52.Rd6 fxe5 53.Rxg6+ Kf7 54.f5 Bh3 55.g4 Rg8 56.Rxg8 Kxg8 57.Kf3 e4+
+58.Kf4 e3 59.Kxe3 Bxg4 60.Ke4 Kg7 61.Kf4 Be2 62.Kg5 Bd1 63.f6+ Kh7
+64.c4 bxc4 65.b5 c3 66.bxc3 a3 67.f7 Kg7 68.f8=Q+ Kxf8 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "02"]
+[White "Bcp"]
+[Black "Wita"]
+[Result "0-1"]
+[ECO "B23/01"]
+
+1.e4 c5 2.Nc3 d6 3.d4 Nf6 4.Be3 e6 5.Nf3 Be7 6.e5 dxe5 7.Bb5+ Bd7
+8.dxe5 Ng4 9.O-O Nc6 10.Bxc6 Bxc6 11.Qxd8+ Rxd8 12.Bf4 O-O 13.h3 Bxf3
+14.gxf3 Nh6 15.Bxh6 gxh6 16.Ne4 f5 17.exf6 Bxf6 18.Nxc5 Rd2 19.Nxe6 Re8
+20.Nc5 Rxc2 21.Nxb7 Rc7 22.Nd6 Rf8 23.Rab1 Be5 24.Rfd1 Rg7+ 25.Kf1 Rxf3
+26.Nc4 Bf6 27.Rd6 Bh4 28.Ke2 Rxf2+ 29.Ke3 Rc2 30.Kd4 Rc7 31.Rg1+ Kf7
+32.Ne3 Rd2+ 33.Ke4 Rxd6 34.Nf5 Rc4+ 35.Ke5 Re6+ 36.Kd5 Rb4 37.Rg7+ Kf6
+38.Rg4 Rxg4 39.hxg4 Re5+ 40.Kc4 Rxf5 41.gxf5 h5 42.a4 Kxf5 43.a5 h6
+44.a6 Bf6 45.b4 h4 46.b5 h3 47.b6 h2 48.bxa7 h1=Q 49.Kb3 h5 50.Ka4 Qc6+
+51.Ka3 Qa8 52.Kb4 Bd4 53.Kc4 Ke4 54.Kb5 h4 55.Kc4 h3 56.Kb3 h2 57.Kc4 Qd5+
+58.Kb4 h1=Q 59.Ka3 Qa1+ 60.Kb4 Qaa5# 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "02"]
+[White "Bs6676"]
+[Black "Chute 1.2"]
+[Result "1/2-1/2"]
+[ECO "D00/07"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Qxf3 Qxd4 6.Be3 Qb4 7.O-O-O Bg4
+8.Nb5 Na6 9.Qxb7 Bxd1 10.Nd6+ Qxd6 11.Bb5+ c6 12.Bxc6+ Nd7
+13.Qxa8+ Nab8 14.Bb5 a6 15.Bxd7+ Kxd7 16.Qb7+ Ke6 17.Qe4+ Kd7 18.Bf4 e5
+19.Bxe5 Qh6+ 20.Kxd1 Bd6 21.Nf3 Rc8 22.Qb7+ Bc7 23.Qd5+ Ke8
+24.Bxc7 Rxc7 25.Re1+ Re7 26.Rxe7+ Kxe7 27.Qe5+ Qe6 28.Qxb8 Qd5+ 29.Kc1 Qxa2
+30.Qb7+ Kf6 31.Qc6+ Qe6 32.Qc3+ Kg6 33.Nh4+ Kh5 34.Qf3+ Kxh4
+35.Qf4+ Kh5 36.g4+ Qxg4 37.Qxf7+ Kh6 38.Qf1 Qg5+ 39.Kb1 Qa5 40.Qh3+ Qh5
+41.Qe6+ Qg6 42.Qe3+ Qg5 43.Qe6+ Qf6 44.Qh3+ Kg6 45.Qg4+ Kf7 46.Qc4+ Kg6
+47.Qe4+ Kh6 48.b4 Qf1+ 49.Ka2 Qf7+ 50.Ka3 Qf6 51.Qe3+ Kg6 52.Qd3+ Kh6
+53.Qh3+ Kg6 54.Kb3 Qf7+ 55.Ka3 Qc4 56.Qg3+ Kf7 57.Qf3+ Kg6
+58.Qg3+ Kf7 1/2-1/2
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "03"]
+[White "Chaos"]
+[Black "Kaissa"]
+[Result "0-1"]
+[ECO "E74/07"]
+
+1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 g6 5.e4 Bg7 6.Be2 O-O 7.Bg5 h6 8.Be3 Qb6
+9.Qd2 Ng4 10.Bxg4 Bxg4 11.f3 Bd7 12.Bxh6 Bxh6 13.Qxh6 Qxb2 14.Rb1 Qxc3+
+15.Qd2 Qxd2+ 16.Kxd2 Bc8 17.Ne2 Kg7 18.h4 Rh8 19.Nf4 Nd7 20.h5 g5
+21.Nd3 Rb8 22.f4 Nf6 23.e5 Ne4+ 24.Ke3 Ng3 25.Rh2 gxf4+ 26.Kxf4 Nxh5+
+27.Kf3 Bf5 28.Rd1 Bxd3 29.Rxd3 dxe5 30.Rh3 Nf6 31.Rg3+ Kf8 32.Re3 b5
+33.Rxe5 bxc4 34.Rf5 c3 35.d6 exd6 36.Ke3 Re8+ 37.Kd3 c4+ 38.Kxc4 Rc8+
+39.Kb3 c2 40.Rxf6 c1=Q 41.Rgf3 Rb8+ 42.Ka4 Qc4+ 43.Ka5 Qb5# 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "03"]
+[White "Chess 4.6"]
+[Black "Duchess"]
+[Result "1-0"]
+[ECO "C43/07"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qxd4 d5 6.exd6 Nxd6 7.Bd3 Nc6 8.Qf4 g6
+9.O-O Bg7 10.Bd2 Qf6 11.Qxf6 Bxf6 12.Nc3 O-O 13.Nd5 Bxb2 14.Rab1 Bg7
+15.Nxc7 Rb8 16.Bf4 Rd8 17.Nb5 Bf8 18.Bg5 Rd7 19.Rfe1 b6 20.Nc3 f5
+21.Nd5 Kh8 22.Bf4 Bb7 23.Ng5 Rc8 24.Nf6 Rdc7 25.Ne6 Rf7 26.Nxf8 Rfxf8
+27.Nxh7 Kxh7 28.Bxd6 Rfd8 29.Bf4 Rd4 30.Bg5 Rg4 31.f4 Na5 32.Re7+ Kg8
+33.g3 Kf8 34.Rbe1 Bf3 35.Bh6+ Kg8 36.R1e3 Be4 37.Bxe4 fxe4 38.h3 Rxf4
+39.Bxf4 Rxc2 40.R3xe4 Rb2 41.Re8+ Kf7 42.R4e7+ Kf6 43.Be5+ Kg5 44.Bxb2 Nc4
+45.Bc1+ Kf6 46.Re6+ Kg7 47.Bg5 Nd6 48.Rxd6 Kf7 49.Re7+ Kg8 50.Rd8# 1-0
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "03"]
+[White "Elsa"]
+[Black "Master"]
+[Result "0-1"]
+[ECO "B08/14"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2 O-O 6.O-O b6 7.Bg5 Bb7
+8.e5 Ne4 9.Nxe4 Bxe4 10.Bd3 Bb7 11.Qe2 dxe5 12.dxe5 f6 13.Bc4+ Kh8
+14.Rad1 Qc8 15.Bh4 Qg4 16.h3 Qh5 17.g4 Qh6 18.Rd3 fxe5 19.Bxe7 Qxh3
+20.Bxf8 Qxg4+ 21.Kh1 Qxc4 22.Bxg7+ Kxg7 23.Qxe5+ Kh6 24.Qe3+ Kg7
+25.Qe7+ Qf7 26.Qe5+ Qf6 27.Qxc7+ Qf7 28.Qe5+ Qf6 29.Qxf6+ Kxf6
+30.Rfd1 h5 31.c4 g5 32.a4 g4 33.Rd6+ Ke7 34.Kg1 Bxf3 35.R1d2 h4
+36.a5 Nc6 37.axb6 axb6 38.Rd7+ Kf8 39.Rd1 Bxd1 40.Rxd1 Ne5 41.b3 Nf3+
+42.Kg2 Ke7 43.Rb1 Ra2 44.Rc1 Rb2 45.Rc3 Kf6 46.Rc1 Rxb3 47.c5 bxc5
+48.Rxc5 Rb1 49.Rf5+ Ke6 50.Rxf3 gxf3+ 51.Kxf3 Rg1 52.Ke4 h3 53.f4 Rf1
+54.Kd4 h2 55.Kd3 h1=Q 56.f5+ Kxf5 57.Kd4 Rc1 58.Kd3 Qe1 59.Kd4 Qe4# 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "03"]
+[White "Ostrich"]
+[Black "Black Knight"]
+[Result "1/2-1/2"]
+[ECO "B30/01"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3 Nxe4 5.Bxf7+ Kxf7 6.Nxe4 d5 7.Nxc5 e5
+8.Nb3 Bf5 9.O-O Be7 10.d3 d4 11.Re1 Qc7 12.Qe2 Bd6 13.Bd2 Qb6
+14.c3 Rhe8 15.cxd4 exd4 1/2-1/2
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "03"]
+[White "Chute 1.2"]
+[Black "Blitz 5"]
+[Result "0-1"]
+[ECO "C42/05"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Qxe7+ Bxe7
+8.Na3 Bg4 9.h3 Bxf3 10.gxf3 O-O 11.Nb5 Na6 12.Be3 c6 13.Nxa7 Nc5
+14.Bxc5 dxc5 15.Nxc6 bxc6 16.a4 Rae8 17.O-O-O Bd6 18.b3 Re5 19.Kb1 Rfe8
+20.Kb2 h6 21.Rg1 Re1 22.Rxe1 Rxe1 23.c3 Bh2 24.Rh1 Be5 25.Kc2 Nd5
+26.c4 Nb4+ 27.Kd2 Rb1 28.Ke3 Rxb3 29.Ke4 Bd4 30.Rh2 Ra3 31.Rg2 Ra1
+32.Be2 Re1 33.f4 Rxe2+ 34.Kf3 Rd2 35.a5 Nxd3 36.Rg3 Rxf2+ 37.Ke4 Nb2
+38.Rb3 Nxc4 39.Rb8+ Kh7 40.a6 Rxf4+ 41.Kxf4 Be5+ 42.Kf5 Bxb8
+43.Ke4 Nd6+ 44.Ke3 f5 45.h4 g5 46.hxg5 hxg5 47.Ke2 g4 48.Ke3 c4
+49.Kd4 g3 50.Ke3 c3 51.Kd3 g2 52.a7 Bxa7 53.Kxc3 g1=Q 54.Kb3 Qb1+
+55.Ka4 Qb2 56.Ka5 Qa3# 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "03"]
+[White "Tell"]
+[Black "Bcp"]
+[Result "0-1"]
+[ECO "C55/04"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3 Be7 5.O-O O-O 6.Bd5 d6 7.Bxc6 bxc6
+8.d4 Bg4 9.dxe5 Bxf3 10.Qxf3 dxe5 11.Rd1 Bd6 12.Be3 a5 13.Bc5 Qb8
+14.Bxd6 cxd6 15.Rab1 a4 16.b4 Rc8 17.Qf5 Rd8 18.b5 cxb5 19.Rxb5 Qc8
+20.Qxc8 Rdxc8 21.Rd3 Ra6 22.Rb4 a3 23.Rb7 h6 24.f3 Rac6 25.Nd5 Nxd5
+26.exd5 Ra6 27.Rd2 Ra4 28.g4 e4 29.fxe4 Rxe4 30.h3 Re1+ 31.Kg2 Ra1
+32.Rf2 Rxa2 33.Rbxf7 Raxc2 34.R7f3 Rxf2+ 35.Rxf2 g5 36.Rf6 a2
+37.Rg6+ Kf7 38.Rg7+ Kxg7 39.h4 gxh4 40.Kh3 a1=Q 41.Kg2 Qd4 42.Kh3 Qxd5
+43.Kh2 Rc2+ 44.Kh3 Qh1# 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "03"]
+[White "Wita"]
+[Black "Bs6676"]
+[Result "1/2-1/2"]
+[ECO "D08/01"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.e4 f5 5.Bd3 Nc6 6.Nf3 Bb4+ 7.Ke2 fxe4
+8.Bxe4 Bg4 9.Qa4 d3+ 10.Kf1 Qd7 11.Bxc6 Qxc6 12.Qxb4 Bxf3 13.gxf3 Qxf3
+14.Rg1 d2 15.Bxd2 Qd1+ 16.Be1 Qd3+ 17.Kg2 Qg6+ 18.Kh1 Qe4+ 19.Rg2 a5
+20.Qc3 Qf5 21.Rxg7 O-O-O 22.Qxa5 Qe4+ 23.f3 Qxf3+ 24.Kg1 Qe3+
+25.Kh1 Qe4+ 26.Kg1 Qe3+ 27.Kh1 Qf3+ 28.Kg1 Qe3+ 1/2-1/2
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "03"]
+[White "Belle"]
+[Black "Dark Horse"]
+[Result "1-0"]
+[ECO "B03/01"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 e6 4.Bd3 Nc6 5.Nf3 Be7 6.O-O O-O 7.c3 d6 8.Re1 dxe5
+9.dxe5 b6 10.Qc2 g6 11.Bh6 Ndb4 12.cxb4 Nxb4 13.Qb3 Nxd3 14.Bxf8 Bxf8
+15.Rd1 Ba6 16.Ne1 Nxe1 17.Rxd8 Rxd8 18.Qa4 b5 19.Qxa6 Nc2 20.Nc3 Nxa1
+21.Qxb5 Rd2 22.Qf1 Nc2 23.Qc1 Bh6 24.Ne4 Rd5 25.Nf6+ Kg7 26.Qxc2 Rxe5
+27.Ne8+ Kf8 28.Qc3 Rd5 29.Qh8+ Ke7 30.g3 c6 31.Nf6 Rd1+ 32.Kg2 Bg5
+33.Nxh7 Bh6 34.Qb8 Bg7 35.Qxa7+ Rd7 36.Qc5+ Rd6 37.Qg5+ Kd7
+38.Nf6+ Bxf6 39.Qxf6 Ke8 40.a4 Rd5 41.Qc3 c5 42.a5 Rf5 43.a6 f6
+44.a7 Rd5 45.a8=Q+ Ke7 46.Qb7+ Rd7 47.Qxc5+ Ke8 48.Qbc8+ Rd8 49.Qxe6# 1-0
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "04"]
+[White "Master"]
+[Black "Duchess"]
+[Result "0-1"]
+[ECO "A15/03"]
+
+1.Nf3 Nf6 2.c4 d5 3.cxd5 Nxd5 4.g3 c6 5.Bg2 e6 6.O-O Be7 7.d4 O-O 8.e4 Nf6
+9.Nc3 b6 10.Ne5 Ba6 11.Re1 Qc8 12.Be3 Nbd7 13.Nxd7 Qxd7 14.e5 Nd5
+15.Qa4 Bb5 16.Nxb5 cxb5 17.Qb3 Rfd8 18.Bd2 Rac8 19.Rac1 a5 20.Rxc8 Rxc8
+21.Rc1 Rxc1+ 22.Bxc1 a4 23.Qd1 Nb4 24.Be3 Nxa2 25.d5 exd5 26.Qxd5 Qxd5
+27.Bxd5 Nb4 28.Be4 Bc5 29.Kg2 Bxe3 30.fxe3 h6 31.Kf3 Kf8 32.h4 Ke7
+33.h5 Ke6 34.Kf4 Nd5+ 35.Bxd5+ Kxd5 36.g4 b4 37.Kf5 a3 38.e4+ Kc5
+39.bxa3 bxa3 40.e6 fxe6+ 41.Ke5 a2 42.Kxe6 a1=Q 43.g5 hxg5 44.e5 Qd4
+45.Kf5 Qf4+ 46.Ke6 g4 47.Ke7 g3 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "04"]
+[White "Bs6676"]
+[Black "Elsa"]
+[Result "0-1"]
+[ECO "E61/07"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.Nc3 O-O 5.Bf4 Nh5 6.e3 Nxf4 7.exf4 c5
+8.dxc5 Bxc3+ 9.bxc3 Qc7 10.Qd4 Na6 11.c6 dxc6 12.h3 Rd8 13.Qe3 Qd6
+14.Qe5 Bf5 15.g4 Be6 16.g5 Nc5 17.Rb1 Qd3 18.Bxd3 Nxd3+ 19.Ke2 Nxe5
+20.Nxe5 f6 21.Nxg6 Bxc4+ 22.Ke3 hxg6 23.gxf6 exf6 24.Rxb7 Rd3+ 25.Ke2 Re8+
+26.Re7 Rxe7+ 27.Kf1 Rg3# 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "04"]
+[White "Bcp"]
+[Black "Ostrich"]
+[Result "1/2-1/2"]
+[ECO "C24/05"]
+
+1.e4 e5 2.Bc4 Nf6 3.d4 d6 4.Nf3 Bg4 5.dxe5 Bxf3 6.gxf3 dxe5 7.Bxf7+ Ke7
+8.Qxd8+ Kxd8 9.O-O Nbd7 10.Bg5 h6 11.Bxf6+ Nxf6 12.Nc3 Bb4 13.Nd5 Nxd5
+14.Bxd5 c6 15.Be6 Ke8 16.a3 Be7 17.Rfd1 Rd8 18.Rxd8+ Bxd8 19.Rd1 Rf8
+20.Kg2 Bb6 21.Bf5 Rf6 22.Bc8 Rf7 23.Bf5 Kf8 24.Rd7 Rxd7 25.Bxd7 Bd4
+26.c3 Bc5 27.b4 Bd6 28.c4 c5 29.b5 Ke7 30.Bf5 Kf6 31.h4 g6 32.Bd7 h5
+33.a4 g5 34.hxg5+ Kxg5 35.a5 h4 36.b6 axb6 37.axb6 Be7 38.Be6 Bd8
+39.Bd5 Kf4 40.Bxb7 h3+ 41.Kxh3 Kxf3 42.Bd5 Bxb6 43.Kh2 Kxf2 44.Kh3 Kf3
+45.Kh2 Bd8 46.Kh3 Bg5 47.Kh2 Bf4+ 48.Kh3 Bg3 49.Bc6 Be1 50.Bd5 1/2-1/2
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "04"]
+[White "Blitz 5"]
+[Black "Chaos"]
+[Result "0-1"]
+[ECO "B45/02"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 Bb4 7.O-O Bxc3
+8.bxc3 Nxe4 9.Nxc6 dxc6 10.Qxd8+ Kxd8 11.Bd3 Nc5 12.Be3 Nxd3 13.Rfd1 e5
+14.cxd3 Kc7 15.Rab1 Bf5 16.Rb3 b6 17.Rd2 f6 18.h3 Rad8 19.d4 Kc8
+20.dxe5 Rxd2 21.Bxd2 fxe5 22.Bg5 h6 23.Bh4 b5 24.a3 a5 25.f3 Kd7 26.Kh2 Ke6
+27.Rb2 Rf8 28.Re2 Bd3 29.Rd2 Bf1 30.Kg1 Bc4 31.Bd8 a4 32.Bc7 Kf5 33.g4+ Kg5
+34.Bxe5 Rxf3 35.Rd6 Bd5 36.Kh2 Kh4 37.Bxg7 Rxh3+ 38.Kg1 h5 39.Be5 Kxg4
+40.Bd4 Rg3+ 41.Kf2 h4 42.Rg6+ Kf4 43.Rh6 Rg2+ 44.Kf1 Kg3 45.Rg6+ Kh3
+46.Rd6 Bc4+ 47.Ke1 Re2+ 48.Kd1 Re6 49.Rd7 Kh2 50.Kd2 Re2+ 51.Kd1 h3
+52.Rd6 Re6 53.Rd7 Bb3+ 54.Kd2 Kh1 55.Be3 Bc2 56.Kxc2 Rxe3 57.Rd6 Kg2
+58.Rxc6 h2 59.Rg6+ Rg3 60.Rh6 h1=Q 61.Rxh1 Kxh1 62.Kd2 Kg1 63.Kc2 Rg4
+64.Kd2 Kf1 65.Kd1 Rc4 66.Kd2 Kf2 67.Kd3 Ke1 68.Kc2 Ke2 69.Kb2 Kd2
+70.Kb1 Kxc3 71.Kc1 Rc6 72.Kd1 Re6 73.Kc1 Re1# 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "04"]
+[White "Tell"]
+[Black "Chute 1.2"]
+[Result "0-1"]
+[ECO "B20/01"]
+
+1.e4 c5 2.Bc4 d6 3.Qh5 e6 4.Bb5+ Nd7 5.Nc3 Ngf6 6.Qh4 a6 7.Be2 d5
+8.exd5 exd5 9.Nf3 b5 10.Nxd5 Nxd5 11.Qe4+ Be7 12.Qxd5 Nb6 13.Qc6+ Bd7
+14.Qe4 O-O 15.O-O f5 16.Qe5 Rf6 17.Bd3 Bd6 18.Qc3 Nd5 19.Qb3 c4
+20.Bxc4 bxc4 21.Qxc4 Be6 22.Ng5 Rh6 23.h4 Ne3 24.Nxe6 Bh2+ 25.Kh1 Nxc4
+26.Nxd8 Rxh4 27.Ne6 Bf4+ 28.Kg1 Bh2+ 29.Kh1 Be5+ 30.Kg1 Re8 31.Nc5 Bh2+
+32.Kh1 Bd6+ 33.Kg1 Bxc5 34.d3 Ne5 35.Bg5 Rg4 36.Bc1 Nf3+ 37.Kh1 Rh4# 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "04"]
+[White "Belle"]
+[Black "Chess 4.6"]
+[Result "0-1"]
+[ECO "C10/02"]
+
+1.e4 Nc6 2.Nf3 e6 3.d4 d5 4.Nc3 Bb4 5.e5 Nge7 6.a3 Bxc3+ 7.bxc3 Na5
+8.Bb5+ Bd7 9.Bd3 Rc8 10.Ng5 h6 11.Nf3 c5 12.dxc5 Rxc5 13.Be3 Rxc3
+14.Bxa7 Nc4 15.O-O Rxa3 16.Rxa3 Nxa3 17.Bc5 Qa5 18.Bd6 Nc4 19.Qa1 Nc6
+20.Qxa5 N6xa5 21.Ra1 Bc8 22.c3 Nc6 23.Ra4 Nxd6 24.exd6 Kd7 25.Rg4 g5
+26.Bc2 Kxd6 27.Ra4 b5 28.Ra1 b4 29.cxb4 Nxb4 30.Bb1 Bd7 31.Kh1 f5
+32.Nd4 Rc8 33.Ne2 Bb5 34.Ng1 Rc1 35.Ra5 Rxb1 36.f3 Bf1 37.h4 Rb2
+38.hxg5 Bxg2+ 39.Kh2 hxg5 40.Ra4 Bxf3+ 41.Kg3 Bh5 42.Kh3 f4 43.Ra8 Bg6
+44.Kg4 Rg2+ 45.Kh3 Rxg1 46.Kh2 Rg4 47.Rd8+ Ke5 48.Rg8 Be4 49.Rg7 Bf3
+50.Rh7 Nd3 51.Rh3 Rg2+ 52.Kh1 Nf2# 0-1
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "04"]
+[White "Wita"]
+[Black "Dark Horse"]
+[Result "1/2-1/2"]
+[ECO "A10/01"]
+
+1.c4 Nc6 2.g3 e5 3.Bg2 Qf6 4.Nc3 Bc5 5.Nf3 d6 6.d3 Qd8 7.Be3 Bxe3
+8.fxe3 Nf6 9.O-O Be6 10.Ng5 Kd7 11.Qa4 a5 12.Qb5 Rb8 13.Na4 g6
+14.a3 Re8 15.Rac1 h6 16.Nxe6 fxe6 17.Nc3 Qe7 18.h3 g5 19.b3 g4
+20.d4 gxh3 21.Bxh3 Qg7 22.Kh1 Qxg3 23.Rf3 Qg6 24.Rg1 Qc2 25.Rxf6 Qxc3
+26.d5 Qxe3 27.dxc6+ Kd8 28.Bg4 Qg5 29.Rf2 b6 30.Bh3 Qe3 31.Rf3 Qxe2
+32.Rf6 Qe4+ 33.Kh2 Qc2+ 34.Rg2 Qe4 35.Rxe6 Qf4+ 36.Kh1 Qf1+ 37.Kh2 Rxe6
+38.Rg8+ Ke7 39.Bxe6 Qf2+ 40.Kh3 Qf3+ 41.Kh2 Qh5+ 42.Kg3 Rxg8+ 43.Bxg8 Qg5+
+44.Kf2 Qxg8 45.b4 axb4 46.axb4 Qf8+ 47.Kg2 Kd8 48.Qd5 h5 49.b5 h4
+50.Kh3 Qh6 51.Qg8+ Ke7 52.Qb8 Qe3+ 1/2-1/2
+
+[Event "2nd WCCC"]
+[Site "Toronto"]
+[Date "1977.??.??"]
+[Round "04"]
+[White "Black Knight"]
+[Black "Kaissa"]
+[Result "0-1"]
+[ECO "B01/07"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb6 5.Nf3 g6 6.Nc3 Bg7 7.h3 O-O 8.Be3 Nc6
+9.Qd2 e5 10.d5 Ne7 11.g4 f5 12.O-O-O e4 13.Nh2 Bd7 14.Be2 Ba4 15.Nxa4 Nxa4
+16.Bd4 Bxd4 17.Qxd4 Qd6 18.Rd2 c5 19.Qe3 Rae8 20.Qg5 fxg4 21.hxg4 Rxf2
+22.Bd1 Rxd2 23.Bxa4 Rxh2 24.Rxh2 Qxh2 25.Bxe8 Qg1+ 26.Kc2 Qg2+ 27.Qd2 Qxg4
+28.Qf2 Nf5 29.Qxc5 Qg2+ 30.Kb3 Qg3+ 31.Ka4 a6 32.Qc8 Nd6 33.Qe6+ Kf8
+34.Bd7 Qf4 35.c5 e3+ 36.Ka3 Nc4+ 37.Kb3 Na5+ 38.Ka3 Nc4+ 39.Kb3 Ne5
+40.Qe8+ Kg7 41.Qe7+ Kh6 42.Qe6 Qc4+ 43.Ka3 Qxc5+ 44.Kb3 Qc4+
+45.Ka3 Qd3+ 46.b3 Nc4+ 47.Kb4 e2 48.Kc5 Nd6 49.Kb6 Ne4 50.Kxb7 Nc5+
+51.Kb6 Nxe6 52.dxe6 e1=Q 53.Kb7 Qa5 54.b4 Qdd5+ 55.Bc6 Qxb4+
+56.Kc7 Qdd6+ 57.Kc8 Qbb8# 0-1
+

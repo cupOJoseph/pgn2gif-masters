@@ -1,0 +1,387 @@
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "01"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Qf6 4.Nc3 Bd6 5.Nd5 Qg6 6.d3 Nce7 7.Nh4 Qe6
+8.Ne3 Bc5 9.Bc4 Qf6 10.Nf3 d6 11.c3 Nh6 12.O-O Bg4 13.Nxg4 Nxg4
+14.a4 a5 15.Bd2 Qg6 16.h3 Nf6 17.d4 exd4 18.cxd4 Bb6 19.e5 Nd7
+20.Qe2 d5 21.Bd3 Qh5 22.Kh2 f5 23.exf6 Nxf6 24.Rae1 Nfg8 25.Bg5 Qf7
+26.Ne5 Qe6 27.Qh5+ Kf8 28.Ng6+ hxg6 29.Qxh8 Qd6+ 30.f4 Re8 31.Re2 Bxd4
+32.Rfe1 Kf7 33.Qh7 Nf6 34.Rxe7+ Rxe7 35.Bxg6+ Kf8 36.Qh8+ Ng8 37.Bxe7+ 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "02"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "1-0"]
+
+1.e4 c5 2.f4 e6 3.Nf3 Nc6 4.Be2 d6 5.O-O Nge7 6.c4 Ng6 7.d3 Be7
+8.Nc3 Bf6 9.Qe1 O-O 10.Be3 Bd4 11.Qd2 Nxf4 12.Bxd4 Nxe2+ 13.Nxe2 cxd4
+14.Nexd4 Qb6 15.Qf2 Nb4 16.Ne1 Bd7 17.a3 Nc6 18.Nb5 Qc5 19.b4 Qe5
+20.Nf3 Qf4 21.g3 Qh6 22.Nxd6 b6 23.b5 Nd8 24.Ne5 Bc8 25.Nexf7 Nxf7
+26.Nxf7 Qf6 27.Nh6+ gxh6 28.Qxf6 Rxf6 29.Rxf6 Kg7 30.Raf1 a6
+31.Rf7+ Kg6 32.e5 axb5 33.R1f6+ 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "03"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "1-0"]
+
+1.d4 f5 2.c4 Nf6 3.Nc3 e6 4.Bg5 Be7 5.e3 c5 6.Nf3 Nc6 7.d5 exd5 8.cxd5 Nxd5
+9.Nxd5 Bxg5 10.Nxg5 Qxg5 11.Nc7+ Kd8 12.Ne6+ 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "04"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.e4 c5 2.f4 e6 3.Nf3 Nc6 4.c4 d6 5.Be2 Nge7 6.O-O Ng6 7.d3 Be7
+8.Nc3 Bf6 9.Qe1 a6 10.Kh1 O-O 11.Be3 Rb8 12.a4 Nd4 13.Bd1 Bd7 14.Bxd4 cxd4
+15.Ne2 b5 16.cxb5 axb5 17.a5 e5 18.f5 Ne7 19.g4 Nc6 20.Rg1 Bg5
+21.Bb3 Be3 22.Rg2 Ra8 23.a6 Nb8 24.g5 Kh8 25.Qh4 Rxa6 26.Rf1 Nc6 27.Rg3 Nb4
+28.Bxf7 Rxf7 29.Qh5 Qg8 30.Nh4 d5 31.Rh3 g6 32.Qg4 Nxd3 33.Qg2 dxe4
+34.Nxg6+ Rxg6 35.fxg6 Rxf1+ 36.Qxf1 Nf2+ 37.Qxf2 Bxf2 38.Rxh7+ Qxh7
+39.gxh7 Kxh7 40.Kg2 e3 41.Kf3 Bc6+ 42.Kg4 d3 0-1
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "05"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Be2 O-O 7.f4 c5 8.Nf3 Nc6
+9.O-O Bg4 10.Be3 a6 11.a3 Bxf3 12.Bxf3 Rc8 13.Ne2 Qc7 14.Ng3 Rfe8
+15.c3 Rcd8 16.Qc2 Bf8 17.Rad1 b6 18.b4 Na7 19.c4 cxb4 20.axb4 d5 21.Qf2 Nc8
+22.cxd5 Bxb4 23.e5 Nd7 24.d6 Qb8 25.Bc6 g6 26.Ne4 Re6 27.Qh4 Na7
+28.Bxd7 Rxd7 29.Ng5 h5 30.Nxe6 fxe6 31.f5 a5 32.fxe6 Rg7 33.e7 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "06"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb6
+9.O-O O-O 10.h3 f6 11.Nc3 fxe5 12.Bxc6 bxc6 13.Nxe5 Ba6 14.Ne2 c5
+15.Be3 cxd4 16.Bxd4 Bxe2 17.Qxe2 Bxd4 18.Nc6 Qf6 19.Nxd4 Qxd4
+20.Rad1 Qc5 21.Rc1 Qb6 22.b3 Ng3 23.Qd3 Nxf1 0-1
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "07"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4+ 5.c3 dxc3 6.bxc3 Ba5 7.O-O d6
+8.e5 Be6 9.Bxe6 fxe6 10.exd6 Qxd6 11.Qb3 O-O-O 12.Ng5 Rd7 13.Nxe6 Bb6
+14.Ng5 Nh6 15.Nd2 Ng4 16.Ndf3 Nxf2 17.Rxf2 Qd1+ 0-1
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "08"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Ng5 O-O 7.f4 d5 8.exd5 Nxd5
+9.Bxd5 Qxd5 10.Qf3 Qd7 11.Qe4 Qf5 12.g4 Qxe4+ 13.Nxe4 Bb6 14.f5 f6
+15.Na3 Ne7 16.Nc4 Bd7 17.a4 Bc6 18.a5 Bxe4 19.dxe4 Bc5 20.b4 Bd6 21.Be3 a6
+22.Ke2 Rfd8 23.Rad1 Nc6 24.Nxd6 cxd6 25.Bb6 Rd7 26.Rd3 Rc8 27.Rhd1 Ne7
+28.Rxd6 Rxd6 29.Rxd6 Rxc3 30.Rd8+ Kf7 31.Bc5 Ng6 32.fxg6+ Kxg6 33.Rd7 Rc2+
+34.Kf3 Rxh2 35.Bf8 Rh3+ 36.Kg2 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "09"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 d6 5.d3 Qe7 6.Be3 Bb6 7.Nbd2 Nf6 8.b4 Be6
+9.Bb5 O-O 10.Nc4 Ng4 11.Bxb6 axb6 12.Bxc6 bxc6 13.Ncd2 f5 14.a4 fxe4
+15.dxe4 d5 16.Qe2 b5 17.O-O bxa4 18.h3 Nh6 19.exd5 Bxd5 20.Qxe5 Qxe5
+21.Nxe5 Nf7 22.Nec4 Rfe8 23.Ne3 Nd6 24.Rfc1 Be6 25.Nf3 Nc4 26.Nxc4 Bxc4
+27.Nd4 Ra6 28.Ra3 Kf7 29.Rca1 Rea8 30.f4 g6 31.Kf2 h5 32.g4 hxg4
+33.hxg4 Kf6 34.g5+ Ke7 35.Re1+ Kd6 36.Nf3 Rf8 37.Kg3 Bb3 38.Nd2 Bc2
+39.Nc4+ Kd7 40.Re2 Bf5 41.Ra1 Kc8 42.Na5 Rh8 43.Kg2 Rh3 44.Rd1 Rxa5
+45.bxa5 Rxc3 46.a6 Kb8 47.Rd4 Bc2 48.f5 gxf5 49.g6 Ka7 50.g7 Bb3
+51.Rxa4 Bd5+ 52.Kh2 Rc1 53.Rg2 Bg8 54.Rb2 Bd5 55.Rb7+ Ka8 56.a7 Rh1+
+57.Kg3 Rg1+ 58.Kf2 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "10"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Ng5 O-O 7.f4 d5 8.exd5 Nxd5
+9.Bxd5 Qxd5 10.Qf3 Rd8 11.Qxd5 Rxd5 12.Ke2 Bg4+ 13.Nf3 Rad8 14.d4 exd4
+15.c4 Re8+ 16.Kf2 Rd7 17.Nbd2 d3+ 18.Kg3 Bxf3 19.Nxf3 Re2 20.Bd2 Rd6
+21.Rad1 Rg6+ 22.Kh3 Rh6+ 23.Nh4 Be7 24.g3 Nd4 25.Bc3 Ne6 26.Kg4 Bxh4
+27.gxh4 Re4 28.Rhf1 Rg6+ 29.Kf5 Re3 30.h5 Rg2 31.h4 Nc5 32.Rfe1 g6+ 0-1
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "11"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "1-0"]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 c6 5.Bxf6 exf6 6.Nxe4 d5 7.Ng3 Bd6
+8.Bd3 O-O 9.N1e2 f5 10.f4 c5 11.c3 cxd4 12.cxd4 Bb4+ 13.Kf2 Nc6 14.Rf1 Ba5
+15.Kg1 Bb6 16.Bb5 Qf6 17.Bxc6 bxc6 18.Rf3 c5 19.dxc5 Bxc5+ 20.Kh1 Bb7
+21.Rb3 Bb6 22.a4 a5 23.Nxf5 Qxf5 24.Rxb6 Ba6 25.Ng3 Qxf4 26.Qxd5+ Kh8
+27.Qxa5 Rac8 28.Qe1 Rfe8 29.Qg1 Bd3 30.a5 Bc4 31.a6 Bd5 32.Rd1 Qe5
+33.Nf1 Rc2 34.Rxd5 Qxd5 35.Ne3 Qd2 36.Nxc2 Qxc2 37.a7 Qc7 38.Re6 Ra8
+39.Qe3 h6 40.Re8+ Rxe8 41.Qxe8+ Kh7 42.Qe4+ g6 43.Qe3 Qb7 44.h3 h5 45.b4 h4
+46.b5 Qd5 47.Qe7+ Kh6 48.Qxh4+ Kg7 49.Qe7+ Kh6 50.Qe3+ g5 51.b6 Qd1+
+52.Kh2 Qd6+ 53.Qg3 Qxb6 54.a8=Q Qf6 55.Qab8 Kg6 56.Qgd6 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "12"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "1/2-1/2"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.b4 Bb6 7.a4 a5 8.b5 Ne7
+9.Qb3 O-O 10.Ng5 Qe8 11.f4 exf4 12.Kd1 Ng6 13.Rf1 Bg4+ 14.Kc2 h6 15.Nf3 Rd8
+16.Ba3 Be3 17.Nbd2 Nd7 18.d4 Be6 19.h3 Nb6 20.d5 Bc8 21.Bd3 f5 22.Rfe1 Qf7
+23.c4 fxe4 24.Nxe4 Bf5 25.Bb2 Bxe4 26.Bxe4 Nd7 27.Qd3 Nge5 28.Nxe5 dxe5
+29.Ba3 Nc5 30.Bxc5 Bxc5 31.Bh7+ Kh8 32.Rxe5 Qf6 33.Rae1 Be3 34.Re6 Qh4
+35.Re2 Rd6 36.Bf5 Rxe6 37.Bxe6 b6 38.Qg6 Qf6 39.Qxf6 Rxf6 40.Kd3 g5
+41.Bg4 Kg7 42.Bh5 Rf8 43.g3 Kf6 44.gxf4 gxf4 45.Rg2 Ke5 46.Rg6 Rf6
+47.Rg7 Bc5 48.Bf3 Bd6 1/2-1/2
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "13"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "1/2-1/2"]
+
+1.d4 f5 2.c4 Nf6 3.Nc3 e6 4.e3 c6 5.Bd3 Na6 6.a3 Nc7 7.e4 fxe4
+8.Nxe4 Be7 9.Nxf6+ Bxf6 10.Qh5+ g6 11.Qh6 Qe7 12.Nf3 d6 13.O-O Bd7
+14.b4 O-O-O 15.Rb1 Qg7 16.Qe3 d5 17.c5 Rhe8 18.Ne5 Bxe5 19.dxe5 a6
+20.a4 Re7 21.Bd2 Be8 22.Qd4 h6 23.Rb3 g5 24.b5 cxb5 25.axb5 axb5 26.Ra1 Bc6
+27.Ba5 Ree8 28.Bxc7 Qxc7 29.Bxb5 Kd7 30.Rab1 Rb8 31.f4 Rf8 32.fxg5 hxg5
+33.Qe3 Bxb5 34.Rxb5 Rf5 35.c6+ Qxc6 36.Qa7 Rc8 37.Rxb7+ Ke8 38.Rb8 Rf7
+39.Rxc8+ Qxc8 40.Qa4+ Kf8 41.Qa3+ Kg7 42.Qe3 Rf5 43.h3 Qc7 44.Re1 Qc4
+45.Qa7+ Kg6 46.Qb8 Qc5+ 47.Kh2 Qf8 48.Qb3 Rf2 49.Qb6 Qf5 50.Qb8 Qf7
+51.Kg1 Rf4 52.Qb1+ Kh6 53.Qb8 g4 54.hxg4 Rxg4 55.Rf1 Rf4 56.Re1 Kg5
+57.Qb6 Kg4 58.Qe3 Qf5 59.Qa7 Re4 60.Qg7+ Qg5 61.Rxe4+ dxe4
+62.Qxg5+ Kxg5 63.Kf2 Kf4 64.g3+ Kxe5 65.Ke3 Kd5 66.Ke2 Kd4 67.g4 e3
+68.g5 Ke5 69.Kxe3 Kf5 70.g6 Kxg6 71.Ke4 1/2-1/2
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "14"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Qxe4+ 6.Be2 Qe5 7.f4 Qc5
+8.Nxc7+ Kd8 9.Nxa8 Nf6 10.Nc3 Be7 11.Qd2 Re8 12.Na4 Qf5 13.O-O Ne4
+14.Qd3 Qe6 15.f5 Qf6 16.Bf4 Bd6 17.Bxd6 Nxd6 18.Rad1 Nb4 19.Qxd6 Qxd6
+20.Rxd6 Rxe2 21.c3 Nc2 22.f6 g6 23.Rfd1 Ne3 24.R6d2 Rxg2+ 25.Rxg2 Nxd1
+26.Re2 b6 27.Re1 b5 28.Nc5 Nxb2 29.Re7 d6 30.Nb7+ Bxb7 31.Rxb7 Nc4
+32.Rxf7 Ne5 33.Rxa7 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "15"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 d6 5.d4 exd4 6.cxd4 Bb6 7.Nc3 Bg4
+8.Be3 Nf6 9.a3 O-O 10.Be2 Re8 11.d5 Ne5 12.Nxe5 Bxe2 13.Qxe2 Rxe5
+14.Bxb6 axb6 15.O-O Nxe4 16.Nxe4 f5 17.f3 fxe4 18.fxe4 Qe7 19.Rae1 Re8
+20.Rf4 h6 21.Qf3 Rxd5 22.Rf1 Re5 23.Rf7 Qe6 24.Rxc7 Rxe4 25.Rxb7 d5
+26.h3 Re1 27.Rxe1 Qxe1+ 28.Qf1 Qe3+ 29.Qf2 Qc1+ 30.Kh2 Rf8 31.Qd4 Rf6
+32.Qxd5+ Kh7 33.Qe5 Rg6 34.Re7 Qd2 35.Qe4 Qd6+ 36.Re5 Kg8 37.Qd5+ Qxd5
+38.Rxd5 Kf7 39.Rb5 Ke7 40.g4 Kd7 41.Kg3 Kc6 42.Re5 Rd6 43.Re3 Kc5 44.h4 g6
+45.Kf4 Kd4 46.Re4+ Kd5 47.Re8 Rf6+ 48.Ke3 Kc4 49.Re4+ Kd5 50.Rf4 Rc6
+51.Rb4 Re6+ 52.Kd3 Rf6 53.Rb5+ Kc6 54.Re5 Kd6 55.Rb5 Kc6 56.Rb4 Rf3+
+57.Ke2 Rh3 58.Rf4 Rxh4 59.Rf6+ Kb5 60.Rxg6 Rh2+ 61.Kf3 Rxb2
+62.Rxh6 Rb3+ 63.Kf4 Rxa3 64.g5 Ra1 65.Rh4 Kc5 66.g6 Ra7 67.Kf5 b5 68.Rg4 b4
+69.g7 Rxg7 70.Rxg7 b3 71.Ke4 Kb4 72.Kd3 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "16"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Qf6 5.O-O d6 6.c3 d3 7.Bg5 Qg6 8.Bxd3 Be7
+9.e5 Bf5 10.Bxf5 Qxf5 11.Bxe7 Ngxe7 12.exd6 O-O-O 13.Nd4 Nxd4
+14.dxe7 Nc2 15.exd8=Q+ Rxd8 16.Qc1 Nxa1 17.Na3 g5 18.Qxa1 h5 19.Rd1 Re8
+20.Qb1 Qe6 21.Nb5 a6 22.Nd4 Qe7 23.Nf3 Qf6 24.Qd3 Kb8 25.Qd7 Rg8 26.Re1 Qf4
+27.Re8+ Ka7 28.g3 Qc1+ 29.Kg2 Rxe8 30.Qxe8 g4 31.Qe3+ Qxe3
+32.fxe3 gxf3+ 33.Kxf3 Kb6 34.h4 Kc5 35.g4 Kd5 36.gxh5 Ke5 37.Kg4 Kf6
+38.e4 c5 39.Kf4 b5 40.e5+ Kg7 41.Kg5 a5 42.h6+ Kh7 43.Kf6 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "17"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "1-0"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 d6 5.d4 exd4 6.cxd4 Bb6 7.d5 Ne5
+8.Nxe5 dxe5 9.Nc3 Nf6 10.O-O h6 11.Qd3 O-O 12.Qg3 Bd4 13.Bxh6 Nh5
+14.Qg5 Qf6 15.Qxh5 gxh6 16.Rad1 Kh8 17.Rd3 Rg8 18.Rf3 Qg6 19.Qxg6 Rxg6
+20.Kh1 f6 21.Nb5 Bb6 22.d6 Bg4 23.Rg3 c6 24.Nc3 Rd8 25.f3 Bh5
+26.Rh3 Rg5 27.Rd1 Kg7 28.Be6 Bd4 29.d7 Bf7 30.Bf5 Bg6 31.f4 Bxf5
+32.exf5 Rxf5 33.Ne2 Rxd7 34.g4 Rxf4 35.Nxf4 exf4 36.Rhd3 c5 37.Kg2 Kg6
+38.Kf3 Re7 39.b4 b6 40.h4 h5 41.bxc5 hxg4+ 42.Kxg4 f5+ 43.Kxf4 Re4+
+44.Kf3 Bxc5 45.Rh1 Kh5 46.Rd5 Rxh4 47.Rxh4+ Kxh4 48.Rxf5 a5 49.a4 Bg1
+50.Rf8 Bc5 51.Rg8 Kh5 52.Ke4 Kh6 53.Kd5 Kh7 54.Rg2 Be3 55.Kc6 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "18"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.e4 c5 2.f4 e6 3.Nf3 Nc6 4.c4 d6 5.Nc3 Nh6 6.Be2 g6 7.d3 Bg7 8.O-O a6
+9.h3 f5 10.Be3 b6 11.Qd2 O-O 12.Rf2 Rb8 13.a4 Bd7 14.Ng5 Qe8
+15.Raf1 Nd4 16.Bd1 Bc6 17.b3 b5 18.axb5 axb5 19.Ne2 bxc4 20.Bxd4 cxd4
+21.bxc4 Nf7 22.Nxf7 Rxf7 23.exf5 exf5 24.Kh2 Rfb7 25.Re1 Rb2 26.Bc2 Qe3
+27.Ng1 Qxd2 28.Rxd2 Ra8 29.Rde2 Kf8 30.Bb1 Rab8 31.Rxb2 Rxb2 32.Ne2 h6
+33.h4 Bf6 34.Kh3 Kf7 35.Kg3 Ba8 36.Kh3 Bb7 37.Kg3 Bd8 38.Kh3 Ba5 0-1
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "19"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O O-O 7.Be3 Bb6 8.a4 a6
+9.Bxb6 cxb6 10.h3 d5 11.exd5 Nxd5 12.Re1 Re8 13.Nbd2 Nf4 14.Nf1 Bf5
+15.Re3 Qf6 16.Qe1 Rad8 17.d4 e4 18.Ng3 Nxg2 19.Kxg2 exf3+ 20.Kh2 Rxe3
+21.Qxe3 Bd7 22.Ne4 Qf5 23.Ng5 h6 24.Nxf3 Qxh3+ 25.Kg1 Qg4+ 26.Kf1 Re8
+27.Nh2 Rxe3 28.Nxg4 Rh3 29.Kg2 Bxg4 30.Re1 Kf8 31.d5 Ne7 32.d6 Ng6
+33.Re4 Nh4+ 34.Kg1 Bf3 0-1
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "20"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.e4 c5 2.f4 e6 3.Nf3 d5 4.exd5 exd5 5.Be2 Bd6 6.c3 Nc6 7.d3 Qc7
+8.g3 Nf6 9.Na3 a6 10.Nc2 O-O 11.d4 Re8 12.O-O Bd7 13.Kg2 Re7
+14.Re1 Rae8 15.Bf1 Qb6 16.Rxe7 Rxe7 17.b3 cxd4 18.Ncxd4 Bg4 19.Bd3 Ne4
+20.Bb2 Bc5 21.Qc2 Bxd4 22.Nxd4 Nxd4 23.cxd4 Rc7 24.Qb1 Bf3+ 25.Kg1 f5
+26.Qe1 Re7 27.Rc1 Kf7 28.Bf1 g5 29.fxg5 Nxg5 30.Qd2 Kg6 31.Rc8 Qe6
+32.Rd8 Bg4 33.Qf4 Nf3+ 34.Kg2 Qe1 35.Rg8+ Kh5 0-1
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "21"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "1-0"]
+
+1.d4 f5 2.c4 Nf6 3.Nc3 e6 4.e3 Bb4 5.Bd3 c5 6.Nge2 O-O 7.O-O cxd4
+8.exd4 Nc6 9.Bf4 Nh5 10.Qd2 Nxf4 11.Qxf4 Ba5 12.Nb5 a6 13.Nd6 Bc7 14.c5 Qe7
+15.Qg3 Bxd6 16.cxd6 Qf6 17.Qe3 f4 18.Qe4 g6 19.f3 b5 20.a4 Bb7 21.axb5 axb5
+22.Bxb5 Qg5 23.Bc4 Na5 24.Rxa5 Qxa5 25.Qxb7 Ra7 26.Qb3 Raa8 27.Nc3 Rab8
+28.Qa4 Qb6 29.Rd1 Qxb2 30.Ne4 Qb4 31.Qa2 Ra8 32.Qb3 Qxb3 33.Bxb3 Rfb8
+34.Rd3 Ra1+ 35.Kf2 Rb1 36.Ba4 R1b2+ 37.Rd2 Rxd2+ 38.Nxd2 Rb6 39.Nc4 Rb7
+40.Ke2 Kf8 41.Kd3 Ke8 42.Ne5 Ra7 43.Bb5 g5 44.Kc4 h6 45.d5 exd5+
+46.Kxd5 Ra2 47.Bxd7+ Kd8 48.Bh3 Rd2+ 49.Ke6 Re2 50.Kf6 g4 51.Bxg4 Rxg2
+52.Nf7+ Ke8 53.d7+ Kf8 54.d8=Q# 1-0
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "22"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "1/2-1/2"]
+
+1.e4 c5 2.f4 e6 3.c4 d6 4.Nf3 Nh6 5.Be2 g6 6.h3 f5 7.e5 Nc6 8.exd6 Bxd6
+9.d3 Qc7 10.Qd2 O-O 11.O-O Nf7 12.Nc3 a6 13.Kh1 Rb8 14.b3 b5
+15.cxb5 axb5 16.d4 Na7 17.dxc5 Bxc5 18.Bb2 Rd8 19.Qc2 Be3 20.b4 Bb7
+21.Qb3 Qxf4 22.Qxe6 Re8 23.Qf6 Qh6 24.Nxb5 Bxf3 25.Rxf3 Bg5 26.Qc3 Nxb5
+27.Bxb5 Rxb5 28.a4 Rbe5 29.b5 Bd2 30.Qc6 R5e6 31.Qc4 Ba5 32.Bc3 Re4
+33.Qc5 Bxc3 34.Qxc3 Ne5 35.Qb3+ Kg7 36.Qb2 Qh4 37.a5 Kh6 38.Rff1 Ng4
+39.Qd2+ Kh5 40.Kg1 Ne3 41.Rfb1 Nc4 42.Qf2 Qg5 43.a6 Re2 44.Qf3+ Kh6
+45.a7 Nb6 46.a8=Q Nxa8 47.Rxa8 Qxg2+ 48.Qxg2 Rxg2+ 49.Kxg2 Rxa8 50.Kf3 Kg5
+51.Ke3 Kh4 52.b6 g5 53.b7 Rb8 54.Kf3 h5 55.Kg2 g4 56.hxg4 hxg4
+57.Rb5 f4 58.Kf2 f3 59.Rb1 Kg5 60.Kg3 Kf5 61.Rb4 Ke5 62.Rxg4 1/2-1/2
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "23"]
+[White "Staunton H"]
+[Black "Horwitz B"]
+[Result "0-1"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 g6 5.Bc4 Bg7 6.c3 Nf6 7.Bg5 O-O 8.O-O h6
+9.Bxf6 Bxf6 10.f4 Nd7 11.Nd2 c6 12.Qc2 Nb6 13.Bb3 d5 14.e5 Bg7
+15.Rad1 c5 16.N4f3 c4 17.Bxc4 dxc4 18.Nxc4 Qc7 19.Ne3 Nc4 20.Nd5 Qc5+
+21.Kh1 Ne3 22.Qf2 Qxd5 23.Rxd5 Nxd5 24.Nd4 Ne7 25.h3 h5 26.Re1 Nf5
+27.Kh2 Nxd4 28.cxd4 Be6 29.b3 Rad8 30.Rd1 Rd5 31.Qe3 f6 32.Rc1 fxe5
+33.dxe5 Rxf4 34.Qxa7 Bxe5 35.Kh1 Rfd4 36.Rg1 Rd7 37.Qc5 R4d5 38.Qe3 Kh7
+39.Re1 Bf5 40.a4 h4 41.Qxe5 Rxe5 42.Rxe5 Kg7 43.Kg1 Kf6 44.Rb5 Be4
+45.Kf2 Bc6 46.Rb6 Rd2+ 47.Kf1 Kf5 48.Rb4 Bxg2+ 49.Kg1 Be4 50.a5 Kf4
+51.Rb5 g5 52.b4 g4 53.hxg4 h3 54.Rh5 Kg3 55.Kf1 Bf3 0-1
+
+[Event "m"]
+[Site "London"]
+[Date "1846.??.??"]
+[Round "24"]
+[White "Horwitz B"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.e4 c5 2.Bc4 e6 3.Nc3 Nc6 4.f4 a6 5.a4 g6 6.Nf3 Bg7 7.O-O Nh6 8.d3 f5
+9.Qe1 O-O 10.Be3 b6 11.h3 Ne7 12.e5 Bb7 13.d4 cxd4 14.Nxd4 Qc7
+15.b3 Nc6 16.Qf2 Rab8 17.Rad1 Nxd4 18.Bxd4 Bc8 19.Qe2 Qb7 20.Bf2 Nf7
+21.Rd3 Re8 22.Rfd1 Bh6 23.g3 Bf8 24.Kh2 Qc6 25.R3d2 Bb4 26.Bd4 Bxc3
+27.Bxc3 b5 28.Rd6 Nxd6 29.exd6 Bb7 30.axb5 axb5 31.Bxb5 Qxc3
+32.Bxd7 Bf3 33.Rd3 Bxe2 34.Rxc3 Red8 35.Bxe6+ Kf8 36.d7 Bb5 37.h4 Bxd7
+38.Bc4 Bb5 39.Bxb5 Rxb5 40.Kh3 h5 41.Rc6 Kg7 42.Rc7+ Kh6 43.Rc4 Rd1
+44.b4 Rbd5 45.Kg2 R5d2+ 46.Kf3 Rd4 47.Rc8 Rxb4 48.Ke3 Rdd4 0-1
+

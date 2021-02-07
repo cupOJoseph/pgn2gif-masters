@@ -1,0 +1,368 @@
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "01"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.e4 c5 2.f4 e6 3.Nf3 Nc6 4.c3 d5 5.e5 Nh6 6.Na3 Be7 7.Nc2 f5 8.d4 O-O
+9.Be2 Bd7 10.O-O Rc8 11.Kh1 cxd4 12.cxd4 Nf7 13.Rg1 Kh8 14.g4 fxg4
+15.Rxg4 Nh6 16.Rg3 Be8 17.Bd3 Bh5 18.Qg1 Bh4 19.Nxh4 Qxh4 20.Ne1 Nb4
+21.Bd2 Nxd3 22.Rxd3 Bg6 23.Qg3 Qh5 24.Rb3 Qe2 25.Qe3 Qf1+ 26.Qg1 Be4+
+27.Rf3 Bxf3+ 28.Nxf3 Qxf3+ 29.Qg2 Qxg2+ 30.Kxg2 Rc2 31.Rd1 Rxf4 32.Kg3 Rxd4
+33.Bxh6 Rxd1 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "02"]
+[White "Staunton H"]
+[Black "Saint-Amant P"]
+[Result "1-0"]
+
+1.d4 c5 2.d5 f5 3.Nf3 d6 4.Nc3 Nf6 5.Bg5 e5 6.e4 a6 7.exf5 Bxf5
+8.Nh4 Bc8 9.Bd3 g6 10.O-O Be7 11.f4 c4 12.Bxc4 exf4 13.Rxf4 Nbd7 14.Qd4 Ne5
+15.Re1 Nfd7 16.Bxe7 Qxe7 17.Ne4 Rf8 18.Rxf8+ Qxf8 19.Nxd6+ Kd8 20.Rxe5 Qxd6
+21.Re3 Kc7 22.Bb3 a5 23.Nf3 Nf6 24.c4 b6 25.Ne5 a4 26.Bc2 a3 27.Nf7 Qc5
+28.Qf4+ Kb7 29.b4 Nh5 30.Nd8+ Ka6 31.bxc5 Nxf4 32.Rxa3# 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "03"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "1/2-1/2"]
+
+1.e4 c5 2.f4 e6 3.Nf3 Nc6 4.c3 d5 5.e5 Bd7 6.Na3 Nge7 7.Nc2 Ng6 8.d4 Rc8
+9.a3 Be7 10.Bd3 O-O 11.O-O f5 12.h3 cxd4 13.Ncxd4 Nxd4 14.cxd4 Qb6
+15.g3 Rc7 16.Qe2 Rfc8 17.Be3 Be8 18.g4 fxg4 19.hxg4 Nf8 20.Kg2 g6
+21.Rac1 Rxc1 22.Rxc1 Rxc1 23.Bxc1 Qd8 24.Kh3 a6 25.Qg2 Bd7 26.Be3 Kh8
+27.Nh2 Qb6 28.Qc2 Kg7 29.b4 a5 30.bxa5 Qxa5 31.f5 exf5 32.gxf5 gxf5
+33.Bc1 Qe1 34.Kg2 Ng6 35.Nf3 Nh4+ 36.Nxh4 Qxh4 37.Bxf5 Bxf5
+38.Qxf5 Qxd4 39.Bg5 Qb2+ 40.Kh1 Qa1+ 41.Kg2 Qa2+ 42.Kh1 Qxa3
+43.Bf6+ Bxf6 44.Qxf6+ Kg8 45.Qg5+ Kf7 46.Qf6+ Ke8 47.Qe6+ Qe7
+48.Qg8+ Kd7 49.Qxd5+ Kc7 50.Qc4+ Kd8 51.Qg8+ Kc7 52.Qc4+ Kb6
+53.Qb3+ Kc6 54.Qc4+ Qc5 55.Qe6+ Kc7 56.Qf7+ Kc6 57.Qe6+ Kc7
+58.Qf7+ 1/2-1/2
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "04"]
+[White "Staunton H"]
+[Black "Saint-Amant P"]
+[Result "1-0"]
+
+1.d4 c5 2.d5 f5 3.Nc3 d6 4.e4 fxe4 5.Nxe4 e5 6.Bg5 Qa5+ 7.c3 Bf5 8.Ng3 Bg6
+9.Bd3 Bxd3 10.Qxd3 g6 11.N1e2 Be7 12.Ne4 Qb6 13.O-O Nd7 14.Bxe7 Nxe7
+15.Ng5 h6 16.Ne6 Nf8 17.Nxf8 Rxf8 18.b4 cxb4 19.cxb4 Kf7 20.Kh1 Kg7
+21.f4 Rad8 22.Rad1 h5 23.Qc3 Qb5 24.Qd2 Rf5 25.Ng3 Rf6 26.fxe5 Rxf1+
+27.Rxf1 dxe5 28.Qg5 Rd7 29.Qxe5+ Kh6 30.Qh8+ Kg5 31.Ne4+ Kh4 32.Rf4# 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "05"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.e4 c5 2.f4 e6 3.Nf3 Nc6 4.c3 d5 5.e5 Qb6 6.Bd3 Bd7 7.Bc2 Rc8 8.O-O Nh6
+9.h3 Be7 10.Kh2 f5 11.a3 a5 12.a4 Nf7 13.d4 h6 14.Re1 g6 15.Na3 cxd4
+16.Nxd4 Nxd4 17.cxd4 g5 18.Nb5 Bxb5 19.axb5 Rc4 20.Bd3 Rc8 21.Be2 gxf4
+22.Rf1 Ng5 23.Bxf4 Ne4 24.Rc1 Rxc1 25.Qxc1 Kd7 26.Qe3 Bg5 27.Bd3 Rg8
+28.Bxe4 dxe4 29.Bxg5 hxg5 30.Qb3 g4 31.Rd1 gxh3 32.Qxh3 Qd8 33.d5 Kc8
+34.Qc3+ Kb8 35.d6 f4 36.Qc5 e3 37.Qc2 Qh4+ 38.Kg1 Rc8 39.Qe2 Rh8 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "06"]
+[White "Staunton H"]
+[Black "Saint-Amant P"]
+[Result "1-0"]
+
+1.c4 c5 2.Nc3 f5 3.e4 d6 4.Bd3 e6 5.exf5 exf5 6.Nh3 Nf6 7.b3 g6
+8.O-O Be7 9.Bb2 O-O 10.Nf4 Nc6 11.Ncd5 Nxd5 12.Nxd5 Be6 13.Nxe7+ Qxe7
+14.Qe2 Qf7 15.Rae1 Rad8 16.Qxe6 Qxe6 17.Rxe6 Ne5 18.Bc2 Kf7
+19.Rxe5 dxe5 20.Bc3 Rfe8 21.f3 h5 22.Re1 Re6 23.b4 b6 24.bxc5 bxc5
+25.Kf2 Rde8 26.g3 R8e7 27.h3 Re8 28.d3 R8e7 29.a4 Ke8 30.Rb1 f4
+31.a5 Kf7 32.Rb5 Rc7 33.Ba4 Ree7 34.gxf4 exf4 35.Bd2 Re6 36.Bxf4 Rce7
+37.Rb2 Ra6 38.Bd2 Rd6 39.Bg5 Ree6 40.Rb7+ Kg8 41.Bd7 Rxd7 42.Rxd7 Ra6
+43.Bd2 Kf8 44.Rd5 Rc6 45.Rxc5 Rd6 46.Bb4 Rd8 47.Rc8+ Ke8 48.Rxd8+ Kxd8
+49.Ke3 a6 50.d4 Kd7 51.Ke4 Kc6 52.d5+ Kd7 53.Kd4 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "07"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.d4 e6 2.c4 d5 3.e3 c5 4.Nc3 Nf6 5.Nf3 Nc6 6.Bd3 a6 7.O-O Bd6 8.a3 b6
+9.Re1 O-O 10.h3 Qc7 11.b3 Ne7 12.Bd2 Bb7 13.cxd5 exd5 14.Kh1 Rae8
+15.Ra2 Ne4 16.Bxe4 dxe4 17.Ng1 cxd4 18.exd4 Nf5 19.Nce2 e3 20.fxe3 Rxe3
+21.Qc1 Qxc1 22.Rxc1 Rxb3 23.Rc3 Rxc3 24.Bxc3 Nh4 25.Nf3 Nxf3 26.gxf3 Bxf3+
+27.Kg1 Re8 28.Kf2 Bxe2 29.Rxe2 Rxe2+ 30.Kxe2 Bxa3 31.Kd3 f6 32.Ke4 b5
+33.Kd5 b4 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "08"]
+[White "Staunton H"]
+[Black "Saint-Amant P"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nf3 Bc5 6.Bd3 Nge7 7.Nc3 a6
+8.O-O Ng6 9.Kh1 f6 10.Ne1 O-O 11.f4 Nce7 12.Rf3 d6 13.Rh3 f5
+14.exf5 Nxf5 15.Qh5 Kf7 16.Nf3 Rh8 17.g4 Nfe7 18.f5 exf5 19.gxf5 Kf8
+20.fxg6 Bxh3 21.Qxh3 Qc8 22.Qh4 Qe6 23.Ng5 Qe5 24.Bf4 Nf5 25.Bxe5 Nxh4
+26.Rf1+ Ke8 27.Bxg7 Kd7 28.Bxh8 Rxh8 29.Rf7+ Kc6 30.Be4+ d5
+31.Bxd5+ Kd6 32.g7 Re8 33.Rf1 Bd4 34.g8=Q Rxg8 35.Bxg8 h6 36.Nge4+ Ke5
+37.Bh7 b5 38.Ne2 Be3 39.Nf6 Ke6 40.Ng4 Bg5 41.Ng3 Kd5 42.Be4+ Kc5
+43.Bd3 Kd5 44.Ne4 Be7 45.Nxh6 b4 46.Nf6+ Kc6 47.Nhg8 Bd6 48.Bxa6 Kb6
+49.Bd3 b3 50.axb3 Ka5 51.Nd5 Ba3 52.Ra1 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "09"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "1-0"]
+
+1.d4 e6 2.c4 d5 3.Nc3 Nf6 4.Nf3 c5 5.e3 Nc6 6.a3 b6 7.Bd3 Bd6
+8.cxd5 exd5 9.Bb5 Bb7 10.dxc5 Bxc5 11.b4 Bd6 12.Bb2 O-O 13.Ne2 Qe7
+14.O-O Rad8 15.Rc1 Ne5 16.Ned4 Nxf3+ 17.Qxf3 Qe5 18.g3 Ne4 19.Qe2 Qg5
+20.f4 Qg6 21.Rc2 Bc8 22.f5 Qh6 23.Bd3 Rfe8 24.Bc1 Bd7 25.Qf3 Ba4 26.Rg2 Rc8
+27.Re1 Ng5 28.Qxd5 Nh3+ 29.Kf1 Be5 30.Rge2 Bxd4 31.Qxd4 Red8 32.b5 Qh5
+33.g4 Rxd4 34.exd4 f6 35.gxh5 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "10"]
+[White "Staunton H"]
+[Black "Saint-Amant P"]
+[Result "1-0"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nf3 d5 6.exd5 exd5 7.Be3 Nf6
+8.Be2 Be7 9.Nbd2 Be6 10.Nb3 O-O 11.O-O Qc7 12.Nfd4 Rad8 13.f4 Bc8 14.c3 a6
+15.h3 Rfe8 16.Bd3 Bd6 17.Qf3 Ne4 18.g4 Re7 19.Bxe4 dxe4 20.Qf2 f6
+21.Ne2 Rde8 22.Rad1 f5 23.g5 Rf7 24.Kg2 Be6 25.Nbd4 Nxd4 26.Nxd4 Bc4
+27.Rh1 Bd3 28.h4 Rff8 29.h5 Qe7 30.Nb3 Rc8 31.Rd2 Rfe8 32.Rhd1 Red8
+33.Nc1 Bc7 34.h6 g6 35.Bd4 Bb5 36.Be3 Rxd2 37.Qxd2 Rd8 38.Qc2 Rxd1
+39.Qxd1 Qd7 40.Qb3+ Qf7 41.Qd1 Qd7 42.Qc2 Qd5 43.Kf2 Kf7 44.b3 Qc6
+45.c4 Bb6 46.Qc3 Bxe3+ 47.Qxe3 Bxc4 48.bxc4 Qxc4 49.Qb3 Qxb3
+50.axb3 Ke6 51.Ke3 Kd5 52.Ne2 b5 53.Nd4 Kc5 54.Nxf5 a5 55.Nd4 a4
+56.bxa4 bxa4 57.f5 gxf5 58.g6 f4+ 59.Kxe4 f3 60.Nxf3 a3 61.gxh7 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "11"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "1-0"]
+
+1.d4 e6 2.c4 d5 3.e3 c5 4.Nc3 Nf6 5.Nf3 Nc6 6.a3 b6 7.cxd5 exd5
+8.Bb5 Bb7 9.Ne5 Rc8 10.Qa4 Qc7 11.Qxa7 Be7 12.Bxc6+ Bxc6 13.Qxc7 Rxc7
+14.Nxc6 Rxc6 15.O-O Kd7 16.Rd1 c4 17.f3 Rd8 18.Bd2 h6 19.Na2 g5 20.Bb4 Re6
+21.Bxe7 Rxe7 22.Kf2 g4 23.Nc3 h5 24.Re1 Rde8 25.Re2 h4 26.Rae1 Rg8
+27.e4 g3+ 28.Kg1 dxe4 29.Nxe4 Nxe4 30.fxe4 Rg4 31.hxg3 hxg3 32.Re3 b5
+33.R1e2 Re8 34.Kf1 Kd6 35.Ke1 Rf4 36.Kd2 f5 37.Rxg3 Rfxe4 38.Rxe4 Rxe4
+39.Kc3 Kd5 40.Rf3 f4 41.g3 Re3+ 42.Rxe3 fxe3 43.Kc2 Ke4 44.Kd1 Kd3
+45.d5 e2+ 46.Ke1 Kc2 47.d6 Kxb2 48.d7 c3 49.d8=Q c2 50.Qd2 Kb1 51.Qb4+ Kc1
+52.Qc3 Kb1 53.Qb3+ Kc1 54.Qa2 b4 55.Qa1# 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "12"]
+[White "Staunton H"]
+[Black "Saint-Amant P"]
+[Result "1-0"]
+
+1.c4 c5 2.Nc3 f5 3.e4 d6 4.Bd3 e6 5.Nh3 Nf6 6.exf5 exf5 7.O-O Be7 8.b3 Nc6
+9.Bb2 O-O 10.Nf4 Ng4 11.Nfd5 Bf6 12.Nxf6+ Nxf6 13.Ne2 Ng4 14.f4 b6
+15.h3 Nh6 16.Rf3 Qh4 17.Rg3 g6 18.Qe1 Qe7 19.Qf2 Nb4 20.Re1 Bb7 21.Bb1 Rae8
+22.Re3 Qd8 23.Ng3 Kf7 24.Qe2 Rxe3 25.dxe3 Qh4 26.Nf1 Ng8 27.Rd1 Rd8
+28.Nd2 Qg3 29.Nf1 Qh4 30.Nh2 h6 31.Nf3 Qg3 32.Ne1 Re8 33.Qf2 Qxe3 34.a3 Nc6
+35.Nf3 Qxf2+ 36.Kxf2 Re6 37.g4 Nce7 38.Nh4 Be4 39.Bxe4 Rxe4
+40.Rxd6 fxg4 41.hxg4 Rxf4+ 42.Kg3 g5 43.Nf3 Re4 44.Rxh6 Re3 45.Rh7+ Ke8
+46.Bc1 Rxb3 47.Bxg5 Rxa3 48.Kf4 a5 49.Ne5 Ra1 50.Bxe7 Rf1+ 51.Ke4 Nxe7
+52.Rh8+ Rf8 53.Rh6 Ng8 54.Rxb6 Nf6+ 55.Ke3 Nd7 56.Re6+ Kd8 57.Rd6 Ke7
+58.Rxd7+ Ke6 59.Rd5 Rf1 60.Nd3 Rg1 61.Nxc5+ Kf6 62.g5+ Kg6 63.Ne4 a4
+64.Rd6+ Kf5 65.Rf6+ Ke5 66.Rf8 Re1+ 67.Kd3 Rd1+ 68.Kc2 Rg1 69.Nd2 Kd6
+70.Rf5 Kc6 71.Ne4 Rg4 72.Kd3 Kb6 73.Rb5+ Ka6 74.Nc5+ Ka7 75.Nxa4 Ka6
+76.Nc5+ Ka7 77.Ne4 Rg1 78.Kd4 Rc1 79.g6 Rd1+ 80.Ke5 Rg1 81.Kf6 Rf1+
+82.Rf5 Rd1 83.g7 Rd8 84.Ke7 Rc8 85.Rf7 Kb6 86.c5+ Kc7 87.Kf6+ Kc6
+88.Rf8 Rc7 89.g8=Q 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "13"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "1-0"]
+
+1.d4 e6 2.c4 d5 3.e3 Nf6 4.Nc3 c5 5.Nf3 Nc6 6.a3 Be7 7.Bd3 O-O 8.O-O b6
+9.b3 Bb7 10.cxd5 exd5 11.Bb2 cxd4 12.exd4 Bd6 13.Re1 a6 14.Rc1 Rc8
+15.Rc2 Rc7 16.Rce2 Qc8 17.h3 Nd8 18.Qd2 b5 19.b4 Ne6 20.Bf5 Ne4
+21.Nxe4 dxe4 22.d5 exf3 23.Rxe6 Qd8 24.Bf6 gxf6 25.Rxd6 Kg7
+26.Rxd8 Rxd8 27.Be4 fxg2 28.Qf4 Rc4 29.Qg4+ Kf8 30.Qh5 Ke7 31.d6+ Kxd6
+32.Bxb7 Kc7 33.Bxa6 Rc3 34.Qxb5 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "14"]
+[White "Staunton H"]
+[Black "Saint-Amant P"]
+[Result "1/2-1/2"]
+
+1.c4 c5 2.Nc3 Nc6 3.e3 d6 4.d4 cxd4 5.exd4 e6 6.Nf3 d5 7.a3 Nf6 8.c5 Be7
+9.b4 Ne4 10.Ne2 a6 11.Ng3 f5 12.Bd3 Bf6 13.Nh5 O-O 14.Nxf6+ Qxf6 15.Bb2 Bd7
+16.O-O h6 17.Ra2 Kh7 18.Ne1 Qg5 19.Ba1 Be8 20.Re2 Bf7 21.f4 Qf6 22.Re3 Rg8
+23.Rh3 Bg6 24.Nf3 Rgf8 25.Ne5 Nxe5 26.dxe5 Qe7 27.Bd4 Rf7 28.Be2 Qe8
+29.Rff3 Rc7 30.Rb3 Qd7 31.Rhe3 Qe7 32.Rh3 Qe8 33.Qe1 Qe7 34.Rh4 Qe8
+35.h3 Qe7 36.g4 Rh8 37.Rd3 Qd8 38.Rd1 Qe7 39.Kh2 Rcc8 40.g5 Kg8
+41.gxh6 gxh6 42.Rb1 Kh7 43.Rb2 Rhg8 44.Bd3 Rg7 45.Bxe4 fxe4 46.Rg4 Rcg8
+47.Rbg2 Bh5 48.Rxg7+ Rxg7 49.Rxg7+ Qxg7 50.a4 Be8 51.a5 Bb5 52.Qh4 Qf8
+53.Kg3 Qg7+ 54.Kf2 Qf8 55.Be3 Bc6 56.Ke1 Ba4 57.Kf2 Bb5 58.Bd4 Bc6
+59.Kg3 Qg7+ 60.Qg4 Qxg4+ 61.hxg4 Kg6 62.Kf2 h5 1/2-1/2
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "15"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 a6 5.c5 Be7 6.Bg5 O-O 7.e3 b6 8.b4 Bb7
+9.Bxf6 Bxf6 10.Bd3 a5 11.a3 Nd7 12.cxb6 cxb6 13.O-O Qe7 14.Qb3 axb4
+15.axb4 Rfc8 16.Bb5 Nf8 17.Rfc1 Ng6 18.Be2 Qd8 19.Nb5 Be7 20.Ne1 Ba6
+21.f4 Nh4 22.Kf2 Nf5 23.Nf3 Bxb5 24.Rxa8 Rxa8 25.Bxb5 Nd6 26.Bd3 b5
+27.Ne5 Nc4 28.Nc6 Qd6 29.Nxe7+ Qxe7 30.Bxc4 dxc4 31.Qb2 Ra4 32.Rb1 Qa7
+33.Qc2 g6 34.h4 Qe7 35.Rh1 Qxb4 36.Qe4 Qb2+ 37.Kg3 Ra2 38.Rf1 b4 39.Qb7 h5
+40.Kh3 c3 41.Rg1 Qf2 42.Qb8+ Kh7 43.Qf8 Qxe3+ 44.g3 Ra7 45.Ra1 Qxd4
+46.Rxa7 Qxa7 47.Qxb4 Qg1 48.Qb7 Kg7 49.Qe4 Qc5 50.Qe1 c2 51.Qa1+ Kh7
+52.Qc1 Qf5+ 53.Kh2 Qd3 54.f5 Qe2+ 55.Kh3 Qd1 56.fxg6+ fxg6 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "16"]
+[White "Staunton H"]
+[Black "Saint-Amant P"]
+[Result "0-1"]
+
+1.c4 c5 2.Nc3 e5 3.e3 Nc6 4.a3 f5 5.d3 Nf6 6.Nge2 d6 7.Ng3 Be7 8.Be2 O-O
+9.O-O h6 10.Bf3 Kh7 11.Bd5 Qe8 12.Rb1 a5 13.Nb5 Qd8 14.b3 Nxd5 15.cxd5 Na7
+16.Nc3 Bd7 17.f4 Bf6 18.Nce2 g6 19.e4 Nb5 20.exf5 gxf5 21.Nh5 Qe8
+22.Nxf6+ Rxf6 23.fxe5 Qxe5 24.a4 Nd4 25.Nf4 Rg8 26.Bd2 Rf7 27.Rf2 Rg4
+28.h3 Rg3 29.Qh5 Qf6 30.Ne6 Bxe6 31.dxe6 Qxe6 32.Bxh6 Qg6 33.Qxg6+ Kxg6
+34.Bf4 Rxd3 35.Bxd6 Nxb3 36.Bf4 Re7 37.Rf3 Rxf3 38.gxf3 c4 39.Kf2 Re6
+40.Rg1+ Kf6 41.h4 Nc5 42.Bd2 Nxa4 43.h5 c3 44.Be3 f4 45.Bxf4 Nb2
+46.Bg5+ Kf5 47.Rg4 Nd3+ 48.Kg3 Ne5 49.Bd8 Nxg4 50.fxg4+ Ke5 51.Bg5 c2
+52.h6 Rc6 53.h7 Rc8 54.Bc1 Kf6 55.Kf3 Kg6 56.Ke2 Rd8 57.h8=Q Rxh8
+58.Kd2 Rc8 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "17"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "1/2-1/2"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.e3 c5 5.Nf3 Nc6 6.a3 a6 7.b3 Be7 8.Be2 b6
+9.O-O O-O 10.Qd3 Bb7 11.Rd1 cxd4 12.exd4 dxc4 13.bxc4 Qc7 14.h3 Rac8
+15.Bb2 Rfd8 16.Rac1 Na5 17.Nd2 Qf4 18.g3 Qc7 19.Nce4 Nxe4 20.Nxe4 f5
+21.Nd2 Bf6 22.Qe3 Qe7 23.Bc3 Nc6 24.d5 Bxc3 25.Rxc3 exd5 26.cxd5 Qxe3
+27.fxe3 Ne5 28.Rxc8 Rxc8 29.Nf3 Nxf3+ 30.Bxf3 Kf8 31.g4 g6 32.gxf5 gxf5
+33.Kf2 Kf7 34.Kg3 Kf6 35.Rb1 b5 36.Rd1 Ke5 37.d6 Bxf3 38.d7 Rd8 39.Kxf3 h5
+40.h4 Ke6 41.Kf4 Rxd7 42.Rxd7 Kxd7 43.Kxf5 a5 44.Ke5 Kc6 45.Kd4 Kd6
+46.e4 b4 47.axb4 axb4 48.Kc4 Ke5 49.Kxb4 Kxe4 50.Kc3 Ke3 51.Kc2 Kf2
+52.Kd2 Kg3 53.Ke1 Kxh4 54.Kf1 1/2-1/2
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "18"]
+[White "Staunton H"]
+[Black "Saint-Amant P"]
+[Result "1/2-1/2"]
+
+1.c4 d5 2.Nc3 e6 3.d4 Nf6 4.Nf3 c5 5.e3 Nc6 6.a3 a6 7.dxc5 Bxc5 8.b4 Be7
+9.Bb2 O-O 10.Be2 dxc4 11.Bxc4 b5 12.Bd3 Bb7 13.O-O Qc7 14.Rc1 Rfd8
+15.Qe2 Rac8 16.Rfd1 Bd6 17.h3 Qe7 18.Bb1 Ne5 19.Nxe5 Bxe5 20.f4 Rxd1+
+21.Qxd1 Bxc3 22.Bxc3 Nd5 23.Bd4 Rxc1 24.Qxc1 f5 25.e4 fxe4 26.Bxe4 Qd7
+27.Kh2 Nf6 28.Bxf6 Bxe4 29.Be5 Qc6 30.Qe1 Qb7 31.Qg3 h6 32.Qf2 Kh7
+33.h4 Qd7 34.Qg3 Qf7 35.Qe3 Qb7 36.Qd2 Qc6 37.Kg1 Qc2 38.Qxc2 Bxc2
+39.Kf2 Kg6 40.Ke3 h5 41.Kd4 Kf7 42.Kc5 g6 43.Kb6 Ke7 44.Kxa6 Ba4 45.Kb6 Kd7
+46.Kb7 Ke8 47.g4 Bd1 48.Kb6 Ba4 49.Kc5 Ke7 50.Kc6 Ke8 51.Bf6 Kf7 52.Bd4 Ke7
+53.Bc5+ Ke8 54.Kd6 Kf7 55.Bd4 Bc2 56.Bc3 Bb3 57.Kd7 Bc2 1/2-1/2
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "19"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "1-0"]
+
+1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.exd4 Bd6 6.Nf3 Nf6 7.h3 O-O
+8.O-O Nc6 9.Bg5 Be7 10.Nc3 Bf5 11.a3 Ne4 12.Be3 Bf6 13.Re1 Nd6
+14.Ba2 h6 15.Qa4 Ne7 16.Rad1 Ng6 17.Bc1 c6 18.Ne5 Qc7 19.g4 b5
+20.Qb4 Bc2 21.Rd2 a5 22.Qc5 Bxe5 23.dxe5 Nb7 24.Nxb5 Nxc5 25.Nxc7 Nd3
+26.Rxd3 Bxd3 27.Nxa8 Rxa8 28.f4 Re8 29.Rd1 Be4 30.Rd4 Bd5 31.Bxd5 cxd5
+32.Kf2 Rc8 33.Be3 Ne7 34.Ke2 Rb8 35.Bc1 Kf8 36.b4 Rb5 37.bxa5 Nc6
+38.Ra4 Nxa5 39.Bd2 Nc6 40.Bb4+ Ke8 41.h4 g5 42.fxg5 hxg5 43.Ra8+ Kd7
+44.h5 Nxb4 45.h6 Nc6 46.h7 Rb2+ 47.Kd3 Rb3+ 48.Kc2 Rh3 49.h8=Q Rxh8
+50.Rxh8 Nxe5 51.Kc3 Nxg4 52.Kd4 Nf6 53.Ke5 Ke7 54.a4 Nd7+ 55.Kf5 d4
+56.a5 Nc5 57.Kxg5 d3 58.Kf4 d2 59.Rh1 Kd7 60.Ke3 Kc6 61.Rb1 d1=Q
+62.Rxd1 Kb5 63.Rd5 Kc6 64.Kd4 Ne6+ 65.Kc4 Kb7 66.Rd7+ Ka6 67.Rxf7 Nd8
+68.Rf5 Nc6 69.Rf6 Kb7 70.Kb5 Na7+ 71.Kc5 Nc8 72.Rh6 Na7 73.a6+ Kb8
+74.Rh7 Nc8 75.Rb7+ Ka8 76.Kc6 Na7+ 77.Kc7 Nc6 78.Kb6 Nb4 79.Rd7 1-0
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "20"]
+[White "Staunton H"]
+[Black "Saint-Amant P"]
+[Result "0-1"]
+
+1.c4 e6 2.e4 c6 3.d4 d5 4.exd5 exd5 5.Nc3 Nf6 6.Nf3 Be7 7.Bd3 O-O 8.O-O Bg4
+9.Be3 Nbd7 10.b3 h6 11.Kh1 Bb4 12.Ne2 Bd6 13.Bf4 Bxf4 14.Nxf4 Nh5
+15.Nxh5 Bxh5 16.Be2 Re8 17.Re1 Qc7 18.Ng1 Bxe2 19.Rxe2 Nf6 20.Qd3 Ng4
+21.Nf3 Re4 22.h3 Rae8 23.Ne5 Nxe5 24.Rxe4 Nxd3 25.Rxe8+ Kh7 26.Kg1 Qf4
+27.Re2 Qxd4 28.Rd1 dxc4 29.Red2 b5 30.a4 a6 0-1
+
+[Event "m"]
+[Site "Paris"]
+[Date "1843.??.??"]
+[Round "21"]
+[White "Saint-Amant P"]
+[Black "Staunton H"]
+[Result "0-1"]
+
+1.d4 d5 2.c4 e6 3.e3 c5 4.Nc3 Nf6 5.Nf3 Be7 6.Bd3 b6 7.O-O O-O 8.b3 Bb7
+9.cxd5 exd5 10.Qc2 Nc6 11.a3 a6 12.Rd1 cxd4 13.exd4 h6 14.b4 Bd6 15.Re1 b5
+16.h3 Rc8 17.Qb3 Qc7 18.Bd2 Qb6 19.Be3 Ne7 20.Rac1 Nh5 21.Qd1 Nf6
+22.Nh4 Rc7 23.Qd2 Nh7 24.Qc2 Nf6 25.Kh1 Ne8 26.Nf5 Nxf5 27.Bxf5 a5
+28.Qb3 axb4 29.axb4 Rc4 30.Na2 Nf6 31.Bd3 Qc6 32.Qb2 Qd7 33.Kg1 Nh5
+34.Qd2 f5 35.f4 Ng3 36.Bxc4 dxc4 37.Qb2 Rf6 38.Nc3 Ne4 39.Re2 Rg6
+40.Rd1 Nxc3 41.Qxc3 Bf3 42.Rde1 Bxe2 43.Rxe2 Qe7 44.Qb2 Re6 45.Kf2 Re4
+46.Qa2 Kf7 47.g3 Qb7 48.Qa3 Re8 49.Qc3 Qh1 50.h4 g5 51.Qe1 Qh2+ 52.Kf1 Qh3+
+53.Kg1 Qg4 54.hxg5 Bxf4 55.Bxf4 Qxe2 56.Qxe2 Rxe2 57.gxh6 c3 58.Kf1 Re4
+59.Bc1 Kg6 60.d5 c2 61.Bd2 Rxb4 62.d6 Rd4 63.Ke2 Rxd6 64.Ke3 Kxh6
+65.Ke2+ Kg6 66.Ke1 b4 0-1
+

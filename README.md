@@ -1,6 +1,9 @@
 # pgn2gif
 Generate gifs from pgn files of your chess games.
 
+## Bulk Conversions
+Use `expand-games.py` to expand the bulk pgn files into pgn files that have just 1 game per file. Then use `convert.py` (which is an example of using the underlying library created originally by @dn1z) to convert the bulk single game files to gifs, with associated json info.
+
 ## Installation
 * You need [python 3.5](https://www.python.org/downloads/) or newer installed.
 * Clone the repo with `git clone https://github.com/dn1z/pgn2gif`.
@@ -56,7 +59,7 @@ Nd7 37. Rd1 Nc5 38. Rxd8 Nxe6 39. Rxa8 Kf6 40. cxb5 cxb5
 41. Kf3 Nd4+ 42. Ke4 Nc6 43. Rc8 Ne7 44. Rb8 Nf5 45. g4 Nh6
 46. f3 Nf7 47. Ra8 Nd6+ 48. Kd5 Nc4 49. Rxa7 Ne3+ 50. Ke4 Nc4
 51. Ra6+ Kg7 52. Rc6 Kf7 53. Rc5 Ke6 54. Rxg5 Kf6 55. Rc5 g5
-56. Kd4 1-0 
+56. Kd4 1-0
 ```
 
 ### GIF output

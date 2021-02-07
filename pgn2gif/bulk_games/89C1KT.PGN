@@ -1,0 +1,166 @@
+
+[Event "cm1"]
+[Site "Kuala Lumpur"]
+[Date "1990.??.??"]
+[Round "01"]
+[White "Timman J"]
+[Black "Karpov A"]
+[Result "0-1"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6
+8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 h6 13.Bc2 exd4
+14.cxd4 Nb4 15.Bb1 bxa4 16.Rxa4 a5 17.Ra3 Ra6 18.Nh4 Nxe4 19.Nxe4 Bxe4
+20.Bxe4 d5 21.Rae3 Rae6 22.Bg6 Qxh4 23.Rxe6 Rxe6 24.Rxe6 fxe6
+25.Be3 Qf6 26.Qg4 Bd6 27.h4 Nc6 28.Be8 Ne7 29.Bd7 Nf5 30.h5 Kf7 31.Bc8 Ke7
+32.b3 c5 33.Qe2 cxd4 34.Bd2 d3 35.Qd1 Qh4 36.g3 Nxg3 0-1
+
+[Event "cm1"]
+[Site "Kuala Lumpur"]
+[Date "1990.??.??"]
+[Round "02"]
+[White "Karpov A"]
+[Black "Timman J"]
+[Result "1/2-1/2"]
+[ECO "D73"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Bg2 d5 6.cxd5 cxd5 7.Nc3 O-O 8.Ne5 e6
+9.Bg5 Qb6 10.Qd2 Nfd7 11.Be3 Nc6 12.Nxc6 bxc6 13.Rc1 Qb4 14.O-O Rb8
+15.b3 c5 16.Rfd1 cxd4 17.Bxd4 Bxd4 18.Qxd4 Qxd4 19.Rxd4 Nb6 20.Rdd1 Bb7
+21.e4 dxe4 22.Nxe4 Kg7 23.Rc5 Rfd8 24.Rxd8 Rxd8 25.Nc3 Bxg2 26.Kxg2 Rc8
+27.Rxc8 Nxc8 28.f4 f5 29.Na4 Kf6 30.Nc5 Nb6 31.Nd3 Nd7 32.Nb4 e5 33.Nc6 a6
+34.fxe5+ Nxe5 35.Nd4 Ke7 36.Kf1 Kd6 37.Ke2 Kd5 38.Nc2 Ke4 39.a4 Nf3
+40.b4 Nd4+ 41.Nxd4 Kxd4 42.b5 1/2-1/2
+
+[Event "cm1"]
+[Site "Kuala Lumpur"]
+[Date "1990.??.??"]
+[Round "03"]
+[White "Timman J"]
+[Black "Karpov A"]
+[Result "1/2-1/2"]
+[ECO "E25"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Bxc3+ 6.bxc3 c5 7.cxd5 Nxd5
+8.dxc5 Qa5 9.e4 Ne7 10.Be3 O-O 11.Qb3 Qc7 12.Bb5 Nec6 13.Rd1 Na5 14.Qb4 e5
+15.Ne2 Be6 16.c4 a6 17.Ba4 Nxc4 18.Bf2 Nc6 19.Qc3 Qa5 20.Bxc6 bxc6
+21.Qxa5 Nxa5 22.O-O Rab8 23.Nc3 Rb3 24.Na4 Rxa3 25.Nb6 Nc4 26.h3 h5
+27.Rc1 Nb2 28.Rb1 Nd3 29.Rfd1 f5 30.exf5 Rxf5 31.Rd2 Nxf2 32.Kxf2 e4
+33.Re1 e3+ 34.Rxe3 Rxe3 35.Kxe3 Rxc5 36.Nd7 Rb5 37.f4 a5 38.Ne5 Bd5
+39.Rc2 Rb8 40.g4 a4 41.Rc3 h4 42.Ng6 Rb3 43.Kd2 Rb2+ 44.Kd3 Kf7 45.Ne5+ Ke8
+46.f5 Bg2 47.Kd4 Rb3 48.Ng6 Rb4+ 49.Ke5 Rb3 50.Rc2 Bxh3 51.Rxc6 Bg2
+52.Re6+ Kd7 53.Nxh4 Ba8 54.Rg6 Re3+ 55.Kd4 Re1 56.Kc5 Re5+ 57.Kb4 Re7
+58.Kxa4 Bb7 59.Kb4 Bc6 1/2-1/2
+
+[Event "cm1"]
+[Site "Kuala Lumpur"]
+[Date "1990.??.??"]
+[Round "04"]
+[White "Karpov A"]
+[Black "Timman J"]
+[Result "1-0"]
+[ECO "D79"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Bg2 d5 6.cxd5 cxd5 7.Nc3 O-O 8.Ne5 e6
+9.O-O Nfd7 10.f4 Nc6 11.Be3 f6 12.Nd3 Nb6 13.b3 Qe7 14.a4 Bd7
+15.Bc1 Rfd8 16.e3 Be8 17.Ba3 Qf7 18.Rc1 Bf8 19.Bxf8 Qxf8 20.g4 Qe7
+21.Qd2 Rac8 22.Ne2 Rc7 23.Rc5 Nc8 24.f5 g5 25.Ng3 e5 26.Qc1 b6
+27.Rc2 e4 28.Nf2 Nd6 29.Qd2 Rdc8 30.Rfc1 a5 31.Bf1 Nb4 32.Rc3 Qd7
+33.Nd1 Rc6 34.Rxc6 Rxc6 35.Rxc6 Qxc6 36.Nc3 Kf8 37.Kf2 Ke7 38.Ke1 Kf8
+39.Kd1 Qc8 40.Ke1 Kg7 41.Na2 Nxa2 42.Qxa2 Qc7 43.Kf2 Kf8 44.Qb2 Ke7
+45.Be2 Kd8 46.Ke1 Kc8 47.Kd2 Kb7 48.Qc1 Qe7 49.Ke1 Bd7 50.Kf2 Ne8
+51.Qh1 Qb4 52.h4 Qxb3 53.hxg5 fxg5 54.Qxh7 Qxa4 55.Qe7 Qc6 56.Qxg5 a4
+57.Qe7 Qd6 58.Qxd6 Nxd6 59.Bd1 Bb5 60.Ne2 a3 61.Nc1 Kc7 62.Kg3 Nc4
+63.Be2 Be8 64.Kf4 Nb2 65.Kg5 Nd3 66.Nb3 a2 67.Na1 b5 68.Bd1 b4
+69.Bb3 Nc1 70.Bxd5 Kd6 71.Bc4 Bb5 72.Bg8 Ke7 73.Kh6 Kf8 74.Be6 Bd7 75.g5 b3
+76.g6 1-0
+
+[Event "cm1"]
+[Site "Kuala Lumpur"]
+[Date "1990.??.??"]
+[Round "05"]
+[White "Timman J"]
+[Black "Karpov A"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6
+8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 h6 13.Bc2 exd4
+14.cxd4 Nb4 15.Bb1 bxa4 16.Rxa4 a5 17.Ra3 Ra6 18.Rae3 a4 19.Nh4 c5
+20.dxc5 dxc5 21.Nf5 Bc8 22.e5 Nfd5 23.Rg3 Nf4 24.Qf3 Bxf5 25.Bxf5 Ne6
+26.Bb1 Nd4 27.Qg4 Nbc2 28.Qe4 f5 29.Qd3 Nxe1 30.Qxa6 Rxe5 31.Re3 Qg5
+32.Kf1 Rxe3 33.fxe3 Qxe3 34.Qc4+ Kh7 35.Ba2 Nd3 36.Qg8+ Kg6 37.Qf7+ Kh7
+38.Qg8+ 1/2-1/2
+
+[Event "cm1"]
+[Site "Kuala Lumpur"]
+[Date "1990.??.??"]
+[Round "06"]
+[White "Karpov A"]
+[Black "Timman J"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7
+8.Bd3 O-O 9.h3 a6 10.a4 Nbd7 11.O-O Qc7 12.Bf4 Re8 13.Re1 Rb8
+14.Bc4 Nb6 15.Bf1 Nfd7 16.a5 Na8 17.Nd2 b5 18.axb6 Naxb6 19.Bxa6 Bxa6
+20.Rxa6 Ne5 21.Qe2 c4 22.Bxe5 Bxe5 23.Qe3 Rb7 24.Na4 Nxa4 25.Rxa4 c3
+26.bxc3 Qxc3 27.Nf3 Qxe3 28.Rxe3 Rb1+ 29.Re1 Reb8 30.Rc4 Rxe1+ 31.Nxe1 Rb1
+32.Kf1 f5 33.exf5 gxf5 34.Ke2 Kg7 35.Nc2 Kg6 36.g3 Rh1 37.Kf3 Rd1
+38.Ne3 Rd2 39.Rc2 Rd4 40.Rc4 Rd2 41.Rc8 f4 42.gxf4 Bd4 43.Rd8 Bc5 44.Rd7 h5
+45.Re7 Bxe3 46.fxe3 Rxd5 47.e4 Rd3+ 48.Ke2 Rxh3 49.Re6+ Kg7 50.Rxd6 h4
+51.Rd7+ Kg6 52.Rd6+ Kg7 53.f5 Ra3 54.e5 Ra5 55.f6+ Kf7 56.Rd7+ Kf8
+57.Re7 h3 58.Kf3 h2 59.Kg2 Ra2+ 60.Kh1 Re2 61.e6 Rf2 62.Rf7+ Ke8 1/2-1/2
+
+[Event "cm1"]
+[Site "Kuala Lumpur"]
+[Date "1990.??.??"]
+[Round "07"]
+[White "Timman J"]
+[Black "Karpov A"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6
+8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 Qd7 13.axb5 axb5 14.Rxa8 Bxa8
+15.d5 Ne7 16.Nf1 h6 17.Ng3 c6 18.dxc6 Bxc6 19.Nh2 d5 20.Nh5 Nxe4 21.Ng4 Qf5
+22.f3 Nxc3 23.bxc3 Qxh5 24.Rxe5 Qh4 25.Be3 Ng6 26.Bf2 Qd8 27.Rxe8 Qxe8
+28.Bxd5 h5 29.Ne3 Nf4 30.Bxc6 Qxc6 31.Bg3 Ne6 32.Nd5 Qc4 33.Qd2 Qb3
+34.Kh2 Qb1 35.Qe1 Qxe1 36.Bxe1 Bd6+ 37.Bg3 Bc5 38.Be1 Kf8 39.g4 hxg4
+40.fxg4 Ke8 41.Kg2 Kd7 42.Bg3 Kc6 43.Nb4+ Bxb4 1/2-1/2
+
+[Event "cm1"]
+[Site "Kuala Lumpur"]
+[Date "1990.??.??"]
+[Round "08"]
+[White "Karpov A"]
+[Black "Timman J"]
+[Result "1-0"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 d5 6.Bg2 dxc4 7.Ne5 Bb4+ 8.Kf1 Nfd7
+9.Nxc4 c6 10.Bb2 O-O 11.Nbd2 b5 12.Ne3 Bb7 13.Qc2 Qb6 14.Nf3 Nf6 15.Ne5 Be7
+16.N5g4 Nxg4 17.Nxg4 Nd7 18.Bf3 Rac8 19.Rd1 a5 20.Qe4 Rc7 21.Kg2 a4
+22.bxa4 Ra8 23.axb5 cxb5 24.Qb1 Bxf3+ 25.exf3 h5 26.Ne3 h4 27.d5 Bc5
+28.Rhe1 e5 29.Ng4 Rca7 30.Nxe5 Nxe5 31.Rxe5 Rxa2 32.d6 h3+ 33.Kxh3 Bxd6
+34.Rh5 Qxf2 35.Qh7+ Kf8 36.Qxg7+ Ke8 37.Rh8+ Kd7 38.Qxf7+ 1-0
+
+[Event "cm1"]
+[Site "Kuala Lumpur"]
+[Date "1990.??.??"]
+[Round "09"]
+[White "Timman J"]
+[Black "Karpov A"]
+[Result "0-1"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6
+8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 h6 13.Bc2 exd4
+14.cxd4 Nb4 15.Bb1 c5 16.d5 Nd7 17.Ra3 f5 18.Rae3 f4 19.R3e2 Ne5
+20.Nf1 Nxf3+ 21.gxf3 Qh4 22.Nh2 Re5 23.Qd2 Qxh3 24.Qxf4 bxa4
+25.Qg4 Qxg4+ 26.Nxg4 Ree8 27.f4 a5 28.f3 Ba6 29.Rg2 Kf7 30.Rd1 Bc4
+31.Ne3 Bb3 32.Re1 c4 33.e5 dxe5 34.Bg6+ Kg8 35.Ng4 Nd3 36.Nxh6+ gxh6
+37.Bxd3+ Kh8 38.Bg6 Red8 39.Bd2 Bb4 40.Bc3 Bxc3 41.bxc3 a3 42.fxe5 Rxd5
+43.e6 Rd1 44.Rxd1 Bxd1 45.e7 Ba4 46.Bf7 Rb8 47.Re2 Rb1+ 48.Kf2 Rb2
+49.Bxc4 Kg7 50.Ke1 Rxe2+ 51.Kxe2 h5 52.Bb3 Bd7 53.Ke3 Kf6 54.Kf4 Bc6
+55.c4 Kxe7 56.c5 Be8 0-1

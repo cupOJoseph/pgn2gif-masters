@@ -1,0 +1,205 @@
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "1"]
+[White "Kozlovskaya, V."]
+[Black "Levitina, I."]
+[Result "1-0"]
+[ECO "D20/02"]
+
+1.d4 d5 2.c4 dxc4 3.Nc3 e5 4.dxe5 Qxd1+ 5.Kxd1 Be6 6.Nf3 Nc6 7.Bg5 Nge7
+8.a3 O-O-O+ 9.Kc2 h6 10.Bxe7 Bxe7 11.h3 g5 12.e3 h5 13.Rd1 Rxd1 14.Nxd1 Rd8
+15.Be2 g4 16.hxg4 hxg4 17.Nd2 Nxe5 18.f4 Nd3 19.g3 Nxb2 20.Nxb2 c3
+21.Kxc3 Bf6+ 22.Kc2 Bxb2 23.Nb1 Bg7 24.e4 f5 25.e5 Bf8 26.Bd3 Bc5
+27.Rh6 Kd7 28.Rh7+ Kc8 29.Rh6 Kd7 30.Nc3 Re8 31.a4 a6 32.Rh5 Rf8 33.Ne2 Rf7
+34.Kc3 Kc6 35.Rh6 Kd7 36.Nd4 Bxd4+ 37.Kxd4 Bb3 38.a5 Ke7 39.Kc5 Ba2
+40.Bf1 Bb3 41.Bg2 c6 42.Bf1 Rf8 43.Rh7+ Rf7 44.Rxf7+ Bxf7 45.Bd3 Be6
+46.Kb6 Kd7 47.Kxb7 c5 48.Kb6 c4 49.Bc2 c3 50.Kc5 Kc7 51.Kd4 Bc8 52.Bb3 Kd7
+53.Kxc3 Kc6 54.Kb4 1-0
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "2"]
+[White "Levitina, I."]
+[Black "Kozlovskaya, V."]
+[Result "1/2-1/2"]
+[ECO "B83/19"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 Be7 7.Be2 O-O
+8.O-O Nc6 9.f4 Bd7 10.Nb3 a5 11.a4 e5 12.Bf3 Nb4 13.Rf2 Bc6 14.Rd2 exf4
+15.Bxf4 Nd7 16.Bxd6 Bxd6 17.Rxd6 Qc7 18.Nb5 Bxb5 19.axb5 Ne5 20.Rd2 Nc4
+21.Rd7 Qb6+ 22.Kh1 Nxb2 23.Qe2 a4 24.Nd4 Rad8 25.Rxd8 Rxd8 26.c3 N4d3
+27.e5 Re8 28.e6 Rxe6 29.Nxe6 Nf2+ 30.Kg1 Nh3+ 31.Kh1 1/2-1/2
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "3"]
+[White "Kozlovskaya, V."]
+[Black "Levitina, I."]
+[Result "0-1"]
+[ECO "E10/01"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 b5 6.a4 b4 7.Bg5 d6 8.e4 Be7
+9.Bb5+ Bd7 10.e5 dxe5 11.Bc4 e4 12.Nfd2 O-O 13.O-O Bf5 14.Nb3 Bd6
+15.f3 Nbd7 16.fxe4 Bxe4 17.N1d2 Bg6 18.Nf3 Qc7 19.Rc1 Ne4 20.Be3 Ne5
+21.h3 Bh5 22.g4 Bxg4 23.hxg4 Nxg4 24.Re1 Bh2+ 25.Kf1 Qg3 26.Rc2 Rae8
+27.Rg2 Qh3 28.Nxh2 Nxh2+ 29.Kg1 Nf3+ 30.Kf1 Nxe1 31.Qxe1 Nd6
+32.Qg3 Qxg3 33.Rxg3 Nxc4 34.Bh6 g6 35.Nxc5 Rd8 36.b3 Rxd5 37.Ne4 Rf5+
+38.Nf2 Nd6 39.Bxf8 Ne4 40.Re3 Rxf2+ 41.Ke1 Kxf8 42.Rxe4 Rf6 0-1
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "4"]
+[White "Levitina, I."]
+[Black "Kozlovskaya, V."]
+[Result "1/2-1/2"]
+[ECO "B80/02"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 Be7 7.Be2 O-O 8.O-O e5
+9.Nb3 Be6 10.f4 a5 11.f5 Bd7 12.a4 Bc6 13.Bf3 Na6 14.Rf2 Nc5
+15.Nxc5 dxc5 16.Qf1 Qb6 17.Rb1 Qa6 18.Be2 Qa7 19.Bf3 Qa6 20.Be2 Qa7
+21.Bf3 Qa6 1/2-1/2
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "5"]
+[White "Kozlovskaya, V."]
+[Black "Levitina, I."]
+[Result "1-0"]
+[ECO "E43/09"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 O-O 7.O-O c5 8.Qe2 Bxc3
+9.bxc3 Ne4 10.Ne1 f5 11.f3 Nd6 12.a4 Nc6 13.Ba3 Qc7 14.dxc5 bxc5
+15.Bxc5 Na5 16.Ba3 Nb3 17.Rb1 Nc5 18.Nc2 Rfc8 19.Rfd1 Rab8 20.Nd4 Nxa4
+21.Qc2 Nc5 22.Be2 a6 23.Nb3 Nde4 24.fxe4 Bxe4 25.Qa2 Bxb1 26.Rxb1 Ne4
+27.Rc1 Qb6 28.Nd4 Qa5 29.Qa1 e5 30.Nxf5 Rb3 31.Bb4 Qxa1 32.Rxa1 Rb8
+33.c5 Rb2 34.Bf3 a5 35.Bxe4 axb4 36.Bd5+ Kf8 37.cxb4 R2xb4 38.Ra7 g6
+39.Nd6 Rb1+ 40.Kf2 Rc1 41.Rxd7 Rxc5 42.Rf7+ Kg8 43.Rb7+ Rxd5 44.Rxb8+ 1-0
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "6"]
+[White "Levitina, I."]
+[Black "Kozlovskaya, V."]
+[Result "1-0"]
+[ECO "B83/11"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 Be7 7.Be2 O-O 8.O-O e5
+9.Nb3 Nc6 10.f4 a5 11.a3 a4 12.Nd2 exf4 13.Bxf4 Ne5 14.Nc4 Nxc4 15.Bxc4 Qc7
+16.Qd4 Bd7 17.Rad1 Rad8 18.Rd3 Qc8 19.Kh1 Be6 20.Bxe6 fxe6 21.Qxa4 e5
+22.Be3 Ng4 23.Rfd1 Nf2+ 24.Bxf2 Rxf2 25.Rf3 Rxf3 26.gxf3 Qh3
+27.Qc4+ Kh8 28.Qf1 Qh5 29.Qg2 Rf8 30.Rg1 Qxf3 31.Qxf3 Rxf3 32.Kg2 Rf8
+33.Rf1 Re8 34.Nd5 Kg8 35.Rf3 Bh4 36.Rb3 Rb8 37.Rb6 Rf8 38.Rxb7 Rf2+
+39.Kh3 Bg5 40.a4 h5 41.a5 1-0
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "7"]
+[White "Kozlovskaya, V."]
+[Black "Levitina, I."]
+[Result "1-0"]
+[ECO "E44"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Nge2 Bb7 6.a3 Be7 7.Ng3 O-O 8.e4 d6
+9.Be2 Nbd7 10.O-O c5 11.d5 e5 12.Nf5 Ne8 13.g3 a6 14.f4 Bf6 15.Kh1 Kh8
+16.Bd2 exf4 17.gxf4 g6 18.Ng3 Bg7 19.Bf3 b5 20.cxb5 axb5 21.b4 Nc7
+22.Qb3 cxb4 23.axb4 Nb6 24.Rxa8 Qxa8 25.Nce2 Qa4 26.Qd3 Rc8 27.Bc3 Ne8
+28.Nd4 Qa3 29.Nge2 Qa6 30.Nxb5 Nc4 31.Nbd4 Qb6 32.b5 Kg8 33.Nc6 Bxc6
+34.bxc6 Ne3 35.Rb1 Qc5 36.Nd4 Nc4 37.Rb5 Qa3 38.Qxc4 Qc1+ 39.Kg2 Qxf4
+40.Ne2 Qg5+ 1-0
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "8"]
+[White "Levitina, I."]
+[Black "Kozlovskaya, V."]
+[Result "1-0"]
+[ECO "B83/11"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 Be7 7.Be2 O-O 8.O-O e5
+9.Nb3 Nc6 10.f4 a5 11.a3 a4 12.Nc1 exf4 13.Rxf4 Ne5 14.N1a2 Be6 15.Nb4 Nfd7
+16.Bd4 Bg5 17.Rf1 Nf6 18.Kh1 Nc6 19.Bg1 Ne7 20.Qe1 Ng6 21.Rd1 Bf4
+22.Nd3 Be5 23.Nxe5 Nxe5 24.Qg3 Qe7 25.Be3 Ne8 26.Rd4 Qc7 27.Rfd1 f6
+28.Bb5 Nc4 29.Nxa4 Nxe3 30.Qxe3 Qxc2 31.Rc1 Qb3 32.Qxb3 Bxb3 33.Nb6 Rd8
+34.Nd7 Rf7 35.Nc5 Nc7 36.Bf1 Be6 37.Nxb7 Rb8 38.Nxd6 Rd7 39.b4 Kf8
+40.Rcd1 Rbd8 41.Bb5 Nxb5 42.Nxb5 Rc8 43.Kg1 Ke7 44.R1d3 Rc1+ 45.Kf2 Ra1
+46.Rxd7+ Bxd7 47.Nd4 Ba4 48.Nf5+ Ke6 49.Nxg7+ Ke5 50.Nh5 Kxe4
+51.Re3+ Kf5 52.Rf3+ Kg6 53.Nf4+ Kf7 54.Rc3 f5 55.h4 Kf6 56.Re3 Bc2
+57.Re6+ Kf7 58.Ra6 Rb1 59.Ra7+ Kf6 60.Rxh7 Ke5 61.g3 Be4 62.Re7+ Kf6
+63.Ra7 Rb3 64.Ra6+ Kf7 65.h5 Rf3+ 66.Ke2 Rxg3 67.h6 Rg4 68.Ra7+ Kf6
+69.Nh5+ Kg6 70.h7 1-0
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "9"]
+[White "Kozlovskaya, V."]
+[Black "Levitina, I."]
+[Result "1/2-1/2"]
+[ECO "D20/12"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Bb4+ 6.Nbd2 Nc6 7.O-O Be6
+8.Bxe6 fxe6 9.Qb3 Qd7 10.Nc4 O-O-O 11.Bg5 Rf8 12.Rad1 Nf6 13.a3 Bc5
+14.Qc2 a6 15.b4 Ba7 16.Qb1 h6 17.Bc1 e5 18.a4 Qe6 19.Na3 d3 20.b5 Nd4
+21.Nxd4 Bxd4 22.Qxd3 Ng4 23.Be3 Bxe3 24.fxe3 Rxf1+ 25.Rxf1 Rd8
+26.Qc3 Kb8 27.a5 axb5 28.Nxb5 Qc6 29.Qb2 Qxe4 30.h3 Qxe3+ 31.Kh1 Qd3
+32.Kg1 Qe3+ 33.Kh1 Qd3 34.Kg1 Qe3+ 35.Kh1 Qd3 36.Kg1 1/2-1/2
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "10"]
+[White "Levitina, I."]
+[Black "Kozlovskaya, V."]
+[Result "1/2-1/2"]
+[ECO "B01/01"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Be2 Nxd5 5.d4 Bf5 6.Nf3 g6 7.O-O Bg7
+8.c4 Nf6 9.Nc3 O-O 10.Bf4 c6 11.Qb3 Qc8 12.Rfe1 Na6 13.Rad1 c5 14.Nd5 Nxd5
+15.cxd5 cxd4 16.Nxd4 Nc5 17.Qe3 Qd7 18.Nxf5 Qxf5 19.g4 Qe4 20.Qxe4 Nxe4
+21.Bf3 f5 22.Bxe4 fxe4 23.Rxe4 Bxb2 24.Rb1 Ba3 25.Rxb7 Rf7 26.Be3 a5
+27.Ra4 Bd6 28.Bb6 Bb4 29.a3 Bd6 30.Be3 h5 31.h3 hxg4 32.hxg4 Rh7 33.Rb5 Rh4
+34.Rbxa5 Rxg4+ 35.Rxg4 Rxa5 36.Rxg6+ Kf7 37.Rg5 Rxa3 38.Bd4 Rd3 39.Rg7+ Ke8
+40.Rg4 Kd7 1/2-1/2
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "11"]
+[White "Kozlovskaya, V."]
+[Black "Levitina, I."]
+[Result "1/2-1/2"]
+[ECO "D46"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.e3 Nbd7 6.Bd3 Bd6 7.e4 dxe4
+8.Nxe4 Nxe4 9.Bxe4 O-O 10.O-O c5 11.Bc2 Qc7 12.h3 cxd4 13.Qxd4 e5 14.Qd3 f5
+15.Qd5+ Kh8 16.Rd1 Be7 17.Ng5 Bxg5 18.Bxg5 Nb6 19.Qa5 Be6 20.c5 h6
+21.Bxh6 gxh6 22.cxb6 axb6 23.Qc3 Qxc3 24.bxc3 Rfc8 25.Rab1 Rc6 26.Bb3 Bxb3
+27.Rxb3 Rxa2 28.Rd7 e4 29.Re7 Kg8 30.c4 Rc2 31.Rg3+ Kf8 32.Rgg7 R2xc4
+33.Rxb7 Rf6 34.Rgd7 Rc8 35.Kh2 Re8 36.h4 f4 37.Rh7 Kg8 38.Rbg7+ Kf8
+39.Rc7 Kg8 40.Rcg7+ Kf8 41.Rb7 Kg8 42.Rhg7+ 1/2-1/2
+
+[Event "Kislovodsk cs"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "12"]
+[White "Levitina, I."]
+[Black "Kozlovskaya, V."]
+[Result "1-0"]
+[ECO "B69/01"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6
+8.O-O-O Bd7 9.f4 Be7 10.Nf3 b5 11.Bxf6 Bxf6 12.Qxd6 Be7 13.Qd2 b4
+14.Ne2 Ra7 15.e5 O-O 16.Ng3 Qb6 17.Bd3 Rc8 18.Kb1 Na5 19.f5 exf5
+20.Nxf5 Bxf5 21.Bxf5 Rd8 22.Qe2 g6 23.Rxd8+ Bxd8 24.Bd3 Nc6 25.h4 a5
+26.h5 a4 27.e6 f5 28.hxg6 Bf6 29.Bc4 Re7 30.gxh7+ Kh8 31.Qd3 b3
+32.cxb3 axb3 33.Qxb3 Qa7 34.Qc2 Rb7 35.Bb3 Ne7 36.Qd2 Rb8 37.Ng5 Bxg5
+38.Qxg5 Rf8 39.Qd2 Rc8 40.Qd6 Ng6 41.e7 1-0
+
